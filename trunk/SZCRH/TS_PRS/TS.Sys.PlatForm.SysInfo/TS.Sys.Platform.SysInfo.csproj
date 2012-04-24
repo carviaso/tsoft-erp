@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{1773708C-1DC5-46F3-B5BF-3B9BDFCBF826}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>TS.Sys.Platform.SysInfo</RootNamespace>
+    <AssemblyName>TS.Sys.Platform.SysInfo</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.XML" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Service\Dao\ButtonDao.cs" />
+    <Compile Include="Service\Dao\LogDao.cs" />
+    <Compile Include="Service\Dao\MenuDao.cs" />
+    <Compile Include="Service\Dao\ModualDao.cs" />
+    <Compile Include="Service\Dao\RoleDao.cs" />
+    <Compile Include="Service\Dao\SecurityDao.cs" />
+    <Compile Include="Service\Dao\UserDao.cs" />
+    <Compile Include="Info\ButtonInfo.cs" />
+    <Compile Include="Info\LogInfo.cs" />
+    <Compile Include="Info\MenuInfo.cs" />
+    <Compile Include="Info\ModualInfo.cs" />
+    <Compile Include="Info\RoleInfo.cs" />
+    <Compile Include="Info\SecurityInfo.cs" />
+    <Compile Include="Info\UserInfo.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Service\ButtonService.cs" />
+    <Compile Include="Service\LogService.cs" />
+    <Compile Include="Service\MenuService.cs" />
+    <Compile Include="Service\ModualService.cs" />
+    <Compile Include="Service\RoleService.cs" />
+    <Compile Include="Service\SecurityService.cs" />
+    <Compile Include="Service\UserService.cs" />
+    <Compile Include="Static\LogService.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\TS.Sys.DBLayer\TS.Sys.DBLayer.csproj">
+      <Project>{8F45DE22-E519-4143-896E-07F9FFA33628}</Project>
+      <Name>TS.Sys.DBLayer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TS.Sys.Domain\TS.Sys.Domain.csproj">
+      <Project>{BB99B8B6-8E24-46E5-80C8-D53CECEDD6E8}</Project>
+      <Name>TS.Sys.Domain</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TS.Sys.Platform.Business\TS.Sys.Platform.Business.csproj">
+      <Project>{F9B3FA40-9118-4F1E-BDF2-1ABB26E2857B}</Project>
+      <Name>TS.Sys.Platform.Business</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TS.Sys.Platform.Exceptions\TS.Sys.Platform.Exceptions.csproj">
+      <Project>{1D8F31F6-4A36-452C-909E-491EDB9B2826}</Project>
+      <Name>TS.Sys.Platform.Exceptions</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TS.Sys.Session\TS.Sys.Session.csproj">
+      <Project>{22AFE77A-B230-4167-936E-8B0157ABE29F}</Project>
+      <Name>TS.Sys.Session</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TS.Sys.Util\TS.Sys.Util.csproj">
+      <Project>{21CEDBCD-C024-4FCB-ACCF-8FCF4244A93C}</Project>
+      <Name>TS.Sys.Util</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

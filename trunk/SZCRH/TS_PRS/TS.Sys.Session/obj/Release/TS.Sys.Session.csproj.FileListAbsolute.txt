@@ -1,0 +1,20 @@
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Session\bin\Release\TS.Sys.Session.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Session\bin\Release\TS.Sys.Session.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Session\obj\Release\ResolveAssemblyReference.cache
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Session\obj\Release\TS.Sys.Session.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Session\obj\Release\TS.Sys.Session.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Session\bin\Release\TS.Sys.Session.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Session\bin\Release\TS.Sys.Session.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Session\obj\Release\ResolveAssemblyReference.cache
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Session\obj\Release\TS.Sys.Session.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Session\obj\Release\TS.Sys.Session.pdb
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.Session\bin\Release\TS.Sys.Session.dll
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.Session\bin\Release\TS.Sys.Session.pdb
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.Session\obj\Release\ResolveAssemblyReference.cache
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.Session\obj\Release\TS.Sys.Session.dll
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.Session\obj\Release\TS.Sys.Session.pdb
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Session\bin\Release\TS.Sys.Session.dll
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Session\bin\Release\TS.Sys.Session.pdb
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Session\obj\Release\ResolveAssemblyReference.cache
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Session\obj\Release\TS.Sys.Session.dll
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Session\obj\Release\TS.Sys.Session.pdb

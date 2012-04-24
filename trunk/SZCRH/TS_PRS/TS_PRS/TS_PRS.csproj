@@ -1,0 +1,248 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{B80E7B7E-93AD-4F99-8085-B78A45C1232B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>TS_PRS</RootNamespace>
+    <AssemblyName>TS_PRS</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resource\img\New.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resource\img\See.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resource\img\Delete.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resource\img\Refresh.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resource\img\Exit.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\TS.PRS.MemberMan\TS.PRS.MemberMan.csproj">
+      <Project>{3EF7BD0F-C94F-4EF2-9BB9-47DDD88CB847}</Project>
+      <Name>TS.PRS.MemberMan</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TS.Sys.DBLayer\TS.Sys.DBLayer.csproj">
+      <Project>{8F45DE22-E519-4143-896E-07F9FFA33628}</Project>
+      <Name>TS.Sys.DBLayer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TS.Sys.Domain\TS.Sys.Domain.csproj">
+      <Project>{BB99B8B6-8E24-46E5-80C8-D53CECEDD6E8}</Project>
+      <Name>TS.Sys.Domain</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TS.Sys.Platform.BaseData\TS.Sys.Platform.BaseData.csproj">
+      <Project>{51FE9BA2-BA38-4986-9F30-9879B15CB8EF}</Project>
+      <Name>TS.Sys.Platform.BaseData</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TS.Sys.Platform.Business\TS.Sys.Platform.Business.csproj">
+      <Project>{F9B3FA40-9118-4F1E-BDF2-1ABB26E2857B}</Project>
+      <Name>TS.Sys.Platform.Business</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TS.Sys.Platform.Exceptions\TS.Sys.Platform.Exceptions.csproj">
+      <Project>{1D8F31F6-4A36-452C-909E-491EDB9B2826}</Project>
+      <Name>TS.Sys.Platform.Exceptions</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TS.Sys.Platform.Forms\TS.Sys.Platform.Forms.csproj">
+      <Project>{193B3D0E-0117-4482-9710-728333C87D63}</Project>
+      <Name>TS.Sys.Platform.Forms</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TS.Sys.PlatForm.SysInfo\TS.Sys.Platform.SysInfo.csproj">
+      <Project>{1773708C-1DC5-46F3-B5BF-3B9BDFCBF826}</Project>
+      <Name>TS.Sys.Platform.SysInfo</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TS.Sys.Session\TS.Sys.Session.csproj">
+      <Project>{22AFE77A-B230-4167-936E-8B0157ABE29F}</Project>
+      <Name>TS.Sys.Session</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TS.Sys.Util\TS.Sys.Util.csproj">
+      <Project>{21CEDBCD-C024-4FCB-ACCF-8FCF4244A93C}</Project>
+      <Name>TS.Sys.Util</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TS.Sys.Widgets\TS.Sys.Platform.Widgets.csproj">
+      <Project>{BE0D2A13-56CF-4130-A473-64533880EBE7}</Project>
+      <Name>TS.Sys.Platform.Widgets</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resource\img\account.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resource\img\ArAp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resource\img\auditor.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resource\img\back.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resource\img\Bank.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resource\img\Buyer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resource\img\Cancellation.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resource\img\Customer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resource\img\Department.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resource\img\Employee.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resource\img\FaType.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resource\img\line.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resource\img\line1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resource\img\LoginBG.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resource\img\Main.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resource\img\Main.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resource\img\MainFrame.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resource\img\MenuBG.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resource\img\MenuBG.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resource\img\MenuSelectedBG.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resource\img\page-first.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resource\img\page-last.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resource\img\page-next.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resource\img\page-prev.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resource\img\preferences-system-2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resource\img\Price.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resource\img\Region.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resource\img\Sale.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resource\img\Save.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resource\img\SettleType.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resource\img\Stock.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resource\img\Supply.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resource\img\SysOption.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resource\img\unauditor.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resource\img\unblankout.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resource\img\User.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

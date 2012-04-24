@@ -1,0 +1,52 @@
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.PRS.MemberMan.Adapter\bin\Release\TS.PRS.MemberMan.Adapter.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.PRS.MemberMan.Adapter\bin\Release\TS.PRS.MemberMan.Adapter.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.PRS.MemberMan.Adapter\bin\Release\TS.Sys.DBLayer.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.PRS.MemberMan.Adapter\bin\Release\TS.Sys.Util.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.PRS.MemberMan.Adapter\bin\Release\TS.Sys.Domain.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.PRS.MemberMan.Adapter\bin\Release\TS.Sys.Platform.Exceptions.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.PRS.MemberMan.Adapter\bin\Release\TS.Sys.DBLayer.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.PRS.MemberMan.Adapter\bin\Release\TS.Sys.Util.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.PRS.MemberMan.Adapter\bin\Release\TS.Sys.Domain.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.PRS.MemberMan.Adapter\bin\Release\TS.Sys.Platform.Exceptions.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.PRS.MemberMan.Adapter\obj\Release\ResolveAssemblyReference.cache
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.PRS.MemberMan.Adapter\obj\Release\TS.PRS.MemberMan.Adapter.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.PRS.MemberMan.Adapter\obj\Release\TS.PRS.MemberMan.Adapter.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.PRS.MemberMan.Adapter\bin\Release\TS.PRS.MemberMan.Adapter.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.PRS.MemberMan.Adapter\bin\Release\TS.PRS.MemberMan.Adapter.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.PRS.MemberMan.Adapter\bin\Release\TS.Sys.DBLayer.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.PRS.MemberMan.Adapter\bin\Release\TS.Sys.Util.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.PRS.MemberMan.Adapter\bin\Release\TS.Sys.Domain.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.PRS.MemberMan.Adapter\bin\Release\TS.Sys.Platform.Exceptions.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.PRS.MemberMan.Adapter\bin\Release\TS.Sys.DBLayer.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.PRS.MemberMan.Adapter\bin\Release\TS.Sys.Util.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.PRS.MemberMan.Adapter\bin\Release\TS.Sys.Domain.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.PRS.MemberMan.Adapter\bin\Release\TS.Sys.Platform.Exceptions.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.PRS.MemberMan.Adapter\obj\Release\ResolveAssemblyReference.cache
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.PRS.MemberMan.Adapter\obj\Release\TS.PRS.MemberMan.Adapter.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.PRS.MemberMan.Adapter\obj\Release\TS.PRS.MemberMan.Adapter.pdb
+D:\Working\TSoft\苏州川润\TS_PRS\TS.PRS.MemberMan.Adapter\bin\Release\TS.PRS.MemberMan.Adapter.dll
+D:\Working\TSoft\苏州川润\TS_PRS\TS.PRS.MemberMan.Adapter\bin\Release\TS.PRS.MemberMan.Adapter.pdb
+D:\Working\TSoft\苏州川润\TS_PRS\TS.PRS.MemberMan.Adapter\bin\Release\TS.Sys.DBLayer.dll
+D:\Working\TSoft\苏州川润\TS_PRS\TS.PRS.MemberMan.Adapter\bin\Release\TS.Sys.Util.dll
+D:\Working\TSoft\苏州川润\TS_PRS\TS.PRS.MemberMan.Adapter\bin\Release\TS.Sys.Domain.dll
+D:\Working\TSoft\苏州川润\TS_PRS\TS.PRS.MemberMan.Adapter\bin\Release\TS.Sys.Platform.Exceptions.dll
+D:\Working\TSoft\苏州川润\TS_PRS\TS.PRS.MemberMan.Adapter\bin\Release\TS.Sys.DBLayer.pdb
+D:\Working\TSoft\苏州川润\TS_PRS\TS.PRS.MemberMan.Adapter\bin\Release\TS.Sys.Util.pdb
+D:\Working\TSoft\苏州川润\TS_PRS\TS.PRS.MemberMan.Adapter\bin\Release\TS.Sys.Domain.pdb
+D:\Working\TSoft\苏州川润\TS_PRS\TS.PRS.MemberMan.Adapter\bin\Release\TS.Sys.Platform.Exceptions.pdb
+D:\Working\TSoft\苏州川润\TS_PRS\TS.PRS.MemberMan.Adapter\obj\Release\ResolveAssemblyReference.cache
+D:\Working\TSoft\苏州川润\TS_PRS\TS.PRS.MemberMan.Adapter\obj\Release\TS.PRS.MemberMan.Adapter.dll
+D:\Working\TSoft\苏州川润\TS_PRS\TS.PRS.MemberMan.Adapter\obj\Release\TS.PRS.MemberMan.Adapter.pdb
+I:\TSoft Projects\苏州川润\TS_PRS\TS.PRS.MemberMan.Adapter\bin\Release\TS.PRS.MemberMan.Adapter.dll
+I:\TSoft Projects\苏州川润\TS_PRS\TS.PRS.MemberMan.Adapter\bin\Release\TS.PRS.MemberMan.Adapter.pdb
+I:\TSoft Projects\苏州川润\TS_PRS\TS.PRS.MemberMan.Adapter\bin\Release\TS.Sys.DBLayer.dll
+I:\TSoft Projects\苏州川润\TS_PRS\TS.PRS.MemberMan.Adapter\bin\Release\TS.Sys.Util.dll
+I:\TSoft Projects\苏州川润\TS_PRS\TS.PRS.MemberMan.Adapter\bin\Release\TS.Sys.Domain.dll
+I:\TSoft Projects\苏州川润\TS_PRS\TS.PRS.MemberMan.Adapter\bin\Release\TS.Sys.Platform.Exceptions.dll
+I:\TSoft Projects\苏州川润\TS_PRS\TS.PRS.MemberMan.Adapter\bin\Release\TS.Sys.DBLayer.pdb
+I:\TSoft Projects\苏州川润\TS_PRS\TS.PRS.MemberMan.Adapter\bin\Release\TS.Sys.Util.pdb
+I:\TSoft Projects\苏州川润\TS_PRS\TS.PRS.MemberMan.Adapter\bin\Release\TS.Sys.Domain.pdb
+I:\TSoft Projects\苏州川润\TS_PRS\TS.PRS.MemberMan.Adapter\bin\Release\TS.Sys.Platform.Exceptions.pdb
+I:\TSoft Projects\苏州川润\TS_PRS\TS.PRS.MemberMan.Adapter\obj\Release\ResolveAssemblyReference.cache
+I:\TSoft Projects\苏州川润\TS_PRS\TS.PRS.MemberMan.Adapter\obj\Release\TS.PRS.MemberMan.Adapter.dll
+I:\TSoft Projects\苏州川润\TS_PRS\TS.PRS.MemberMan.Adapter\obj\Release\TS.PRS.MemberMan.Adapter.pdb
