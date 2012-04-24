@@ -1,0 +1,18 @@
+@charset "utf-8";
+/* CSS Document */
+ 
+ #Header{
+	 vertical-align:middle;
+	 background-image:url(img/Banner.png);
+	 height:50;
+	 width:100%;
+ }
+ 
+ #PageBody{
+	 vertical-align:middle;
+ }
+ 
+ #Foot{
+	 vertical-align:middle;
+	 height:20;
+ }

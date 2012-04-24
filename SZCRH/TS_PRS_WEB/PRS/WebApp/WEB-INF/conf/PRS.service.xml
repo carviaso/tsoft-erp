@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:context="http://www.springframework.org/schema/context"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans   
+        http://www.springframework.org/schema/beans/spring-beans-3.0.xsd  
+          http://www.springframework.org/schema/context  
+         http://www.springframework.org/schema/context/spring-context-3.0.xsd">
+
+
+	<!-- Action -->
+	<bean id="RegistAction" class="com.tsoft.action.RegistAction">
+		<property name="operatorService" ref="operatorService"></property>
+		<property name="membersService" ref="membersService"></property>
+	</bean>
+	<bean id="MemberAction" class="com.tsoft.action.MemberAction">
+		<property name="membersService" ref="membersService"></property>
+		<property name="memberAllowService" ref="memberAllowService"></property>
+		<property name="memberSalaryService" ref="memberSalaryService"></property>
+	</bean>
+	<bean id="loginAction" class="com.tsoft.action.LoginFormAction">
+		<property name="operatorService" ref="operatorService"></property>
+		<property name="membersService" ref="membersService"></property>
+		<property name="memberAllowService" ref="memberAllowService"></property>
+	</bean>
+	<bean id="registionAction" class="com.tsoft.action.RegistionAction">
+		<property name="operatorService" ref="operatorService"></property>
+		<property name="membersService" ref="membersService"></property>
+	</bean>
+	<bean id="memberSalaryAction" class="com.tsoft.action.MemberSalaryAction">
+		<property name="membersService" ref="membersService"></property>
+		<property name="memberSalaryService" ref="memberSalaryService"></property>
+	</bean>
+	<bean id="memberAllowAction" class="com.tsoft.action.MemberAllowAction">
+		<property name="memberAllowService" ref="memberAllowService"></property>
+		<property name="membersService" ref="membersService"></property>
+	</bean>
+	<!-- Service -->
+	<bean id="memberSalaryService" class="com.tsoft.service.impl.MemberSalaryServiceImpl">
+		<property name="memberSalaryDao" ref="memberSalaryDao"/>
+	</bean>
+	<bean id="memberAllowService" class="com.tsoft.service.impl.MemberAllowServiceImpl">
+		<property name="memberAllowDao" ref="memberAllowDao" />
+	</bean>
+	<bean id="membersService" class="com.tsoft.service.impl.MembersServiceImpl">
+		<property name="membersDao" ref="membersDao" />
+	</bean>
+	<bean id="operatorService" class="com.tsoft.service.impl.OperatorServiceImpl">
+		<property name="operatorDao" ref="operatorDao" />
+	</bean>
+	<!-- DAO -->
+	<bean id="memberSalaryDao" class="com.tsoft.dao.MemberSalaryDao">
+		<property name="dataSource" ref="dataSource"/> 
+	</bean>
+	<bean id="memberAllowDao" class="com.tsoft.dao.MemberAllowDao">
+		<property name="dataSource" ref="dataSource"/> 
+	</bean>
+	<bean id="membersDao" class="com.tsoft.dao.MembersDao">
+		<property name="dataSource" ref="dataSource"/> 
+	</bean>
+	<bean id="operatorDao" class="com.tsoft.dao.OperatorDao">
+		<property name="dataSource" ref="dataSource"/> 
+	</bean>
+
+</beans>  
