@@ -1,0 +1,216 @@
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release32\TS.Sys.Platform.Widgets.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release32\TS.Sys.Platform.Widgets.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release32\TS.Sys.DBLayer.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release32\TS.Sys.Util.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release32\TS.Sys.Domain.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release32\TS.Sys.Platform.Exceptions.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release32\TS.Sys.DBLayer.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release32\TS.Sys.Util.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release32\TS.Sys.Domain.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release32\TS.Sys.Platform.Exceptions.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\obj\Release\ResolveAssemblyReference.cache
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\obj\Release\TS.Sys.Platform.Widgets.ButtonCurrencyEdit.resources
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\obj\Release\TS.Sys.Platform.Widgets.CurrencyEdit.resources
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\obj\Release\TS.Sys.Platform.Widgets.DataTree.resources
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\obj\Release\TS.Sys.Platform.Widgets.LabelCombox.resources
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\obj\Release\TS.Sys.Platform.Widgets.LabelDateTime.resources
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\obj\Release\TS.Sys.Platform.Widgets.LabelEdit.resources
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\obj\Release\TS.Sys.Platform.Widgets.Properties.Resources.resources
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\obj\Release\TS.Sys.Widgets.PageDataGridView.resources
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\obj\Release\TS.Sys.Platform.Widgets.Refer.WidgetRefer.LabelRefer.resources
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\obj\Release\GenerateResource.read.1.tlog
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\obj\Release\GenerateResource.write.1.tlog
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\obj\Release\TS.Sys.Platform.Widgets.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\obj\Release\TS.Sys.Platform.Widgets.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release1\TS.Sys.Platform.Widgets.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release1\TS.Sys.Platform.Widgets.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release1\TS.Sys.DBLayer.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release1\TS.Sys.Util.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release1\TS.Sys.Domain.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release1\TS.Sys.Platform.Exceptions.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release1\TS.Sys.DBLayer.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release1\TS.Sys.Util.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release1\TS.Sys.Domain.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release1\TS.Sys.Platform.Exceptions.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release2\TS.Sys.Platform.Widgets.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release2\TS.Sys.Platform.Widgets.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release2\TS.Sys.DBLayer.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release2\TS.Sys.Util.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release2\TS.Sys.Domain.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release2\TS.Sys.Platform.Exceptions.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release2\TS.Sys.DBLayer.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release2\TS.Sys.Util.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release2\TS.Sys.Domain.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release2\TS.Sys.Platform.Exceptions.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release3\TS.Sys.Platform.Widgets.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release3\TS.Sys.Platform.Widgets.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release3\TS.Sys.DBLayer.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release3\TS.Sys.Util.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release3\TS.Sys.Domain.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release3\TS.Sys.Platform.Exceptions.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release3\TS.Sys.DBLayer.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release3\TS.Sys.Util.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release3\TS.Sys.Domain.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release3\TS.Sys.Platform.Exceptions.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release4\TS.Sys.Platform.Widgets.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release4\TS.Sys.Platform.Widgets.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release4\TS.Sys.DBLayer.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release4\TS.Sys.Util.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release4\TS.Sys.Domain.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release4\TS.Sys.Platform.Exceptions.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release4\TS.Sys.DBLayer.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release4\TS.Sys.Util.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release4\TS.Sys.Domain.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release4\TS.Sys.Platform.Exceptions.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release5\TS.Sys.Platform.Widgets.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release5\TS.Sys.Platform.Widgets.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release5\TS.Sys.DBLayer.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release5\TS.Sys.Util.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release5\TS.Sys.Domain.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release5\TS.Sys.Platform.Exceptions.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release5\TS.Sys.DBLayer.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release5\TS.Sys.Util.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release5\TS.Sys.Domain.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release5\TS.Sys.Platform.Exceptions.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release6\TS.Sys.Platform.Widgets.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release6\TS.Sys.Platform.Widgets.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release6\TS.Sys.DBLayer.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release6\TS.Sys.Util.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release6\TS.Sys.Domain.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release6\TS.Sys.Platform.Exceptions.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release6\TS.Sys.DBLayer.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release6\TS.Sys.Util.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release6\TS.Sys.Domain.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release6\TS.Sys.Platform.Exceptions.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release7\TS.Sys.Platform.Widgets.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release7\TS.Sys.Platform.Widgets.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release7\TS.Sys.DBLayer.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release7\TS.Sys.Util.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release7\TS.Sys.Domain.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release7\TS.Sys.Platform.Exceptions.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release7\TS.Sys.DBLayer.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release7\TS.Sys.Util.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release7\TS.Sys.Domain.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release7\TS.Sys.Platform.Exceptions.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release8\TS.Sys.Platform.Widgets.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release8\TS.Sys.Platform.Widgets.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release8\TS.Sys.DBLayer.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release8\TS.Sys.Util.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release8\TS.Sys.Domain.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release8\TS.Sys.Platform.Exceptions.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release8\TS.Sys.DBLayer.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release8\TS.Sys.Util.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release8\TS.Sys.Domain.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release8\TS.Sys.Platform.Exceptions.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release9\TS.Sys.Platform.Widgets.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release9\TS.Sys.Platform.Widgets.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release9\TS.Sys.DBLayer.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release9\TS.Sys.Util.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release9\TS.Sys.Domain.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release9\TS.Sys.Platform.Exceptions.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release9\TS.Sys.DBLayer.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release9\TS.Sys.Util.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release9\TS.Sys.Domain.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release9\TS.Sys.Platform.Exceptions.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release10\TS.Sys.Platform.Widgets.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release10\TS.Sys.Platform.Widgets.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release10\TS.Sys.DBLayer.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release10\TS.Sys.Util.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release10\TS.Sys.Domain.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release10\TS.Sys.Platform.Exceptions.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release10\TS.Sys.DBLayer.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release10\TS.Sys.Util.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release10\TS.Sys.Domain.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release10\TS.Sys.Platform.Exceptions.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release11\TS.Sys.Platform.Widgets.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release11\TS.Sys.Platform.Widgets.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release11\TS.Sys.DBLayer.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release11\TS.Sys.Util.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release11\TS.Sys.Domain.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release11\TS.Sys.Platform.Exceptions.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release11\TS.Sys.DBLayer.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release11\TS.Sys.Util.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release11\TS.Sys.Domain.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release11\TS.Sys.Platform.Exceptions.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release111\TS.Sys.Platform.Widgets.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release111\TS.Sys.Platform.Widgets.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release111\TS.Sys.DBLayer.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release111\TS.Sys.Util.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release111\TS.Sys.Domain.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release111\TS.Sys.Platform.Exceptions.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release111\TS.Sys.DBLayer.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release111\TS.Sys.Util.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release111\TS.Sys.Domain.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Widgets\bin\Release111\TS.Sys.Platform.Exceptions.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Widgets\bin\Release111\TS.Sys.Platform.Widgets.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Widgets\bin\Release111\TS.Sys.Platform.Widgets.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Widgets\bin\Release111\TS.Sys.DBLayer.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Widgets\bin\Release111\TS.Sys.Util.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Widgets\bin\Release111\TS.Sys.Domain.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Widgets\bin\Release111\TS.Sys.Platform.Exceptions.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Widgets\bin\Release111\TS.Sys.DBLayer.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Widgets\bin\Release111\TS.Sys.Util.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Widgets\bin\Release111\TS.Sys.Domain.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Widgets\bin\Release111\TS.Sys.Platform.Exceptions.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Widgets\obj\Release\ResolveAssemblyReference.cache
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Widgets\obj\Release\TS.Sys.Platform.Widgets.ButtonCurrencyEdit.resources
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Widgets\obj\Release\TS.Sys.Platform.Widgets.CurrencyEdit.resources
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Widgets\obj\Release\TS.Sys.Platform.Widgets.DataTree.resources
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Widgets\obj\Release\TS.Sys.Platform.Widgets.LabelCombox.resources
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Widgets\obj\Release\TS.Sys.Platform.Widgets.LabelDateTime.resources
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Widgets\obj\Release\TS.Sys.Platform.Widgets.LabelEdit.resources
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Widgets\obj\Release\TS.Sys.Platform.Widgets.Properties.Resources.resources
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Widgets\obj\Release\TS.Sys.Widgets.PageDataGridView.resources
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Widgets\obj\Release\TS.Sys.Platform.Widgets.Refer.WidgetRefer.LabelRefer.resources
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Widgets\obj\Release\GenerateResource.read.1.tlog
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Widgets\obj\Release\GenerateResource.write.1.tlog
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Widgets\obj\Release\TS.Sys.Platform.Widgets.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Widgets\obj\Release\TS.Sys.Platform.Widgets.pdb
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.Widgets\bin\Release111\TS.Sys.Platform.Widgets.dll
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.Widgets\bin\Release111\TS.Sys.Platform.Widgets.pdb
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.Widgets\bin\Release111\TS.Sys.DBLayer.dll
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.Widgets\bin\Release111\TS.Sys.Util.dll
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.Widgets\bin\Release111\TS.Sys.Domain.dll
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.Widgets\bin\Release111\TS.Sys.Platform.Exceptions.dll
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.Widgets\bin\Release111\TS.Sys.DBLayer.pdb
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.Widgets\bin\Release111\TS.Sys.Util.pdb
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.Widgets\bin\Release111\TS.Sys.Domain.pdb
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.Widgets\bin\Release111\TS.Sys.Platform.Exceptions.pdb
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.Widgets\obj\Release\ResolveAssemblyReference.cache
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.Widgets\obj\Release\TS.Sys.Platform.Widgets.ButtonCurrencyEdit.resources
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.Widgets\obj\Release\TS.Sys.Platform.Widgets.CurrencyEdit.resources
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.Widgets\obj\Release\TS.Sys.Platform.Widgets.DataTree.resources
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.Widgets\obj\Release\TS.Sys.Platform.Widgets.LabelCombox.resources
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.Widgets\obj\Release\TS.Sys.Platform.Widgets.LabelDateTime.resources
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.Widgets\obj\Release\TS.Sys.Platform.Widgets.LabelEdit.resources
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.Widgets\obj\Release\TS.Sys.Platform.Widgets.Properties.Resources.resources
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.Widgets\obj\Release\TS.Sys.Widgets.PageDataGridView.resources
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.Widgets\obj\Release\TS.Sys.Platform.Widgets.Refer.WidgetRefer.LabelRefer.resources
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.Widgets\obj\Release\GenerateResource.read.1.tlog
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.Widgets\obj\Release\GenerateResource.write.1.tlog
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.Widgets\obj\Release\TS.Sys.Platform.Widgets.dll
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.Widgets\obj\Release\TS.Sys.Platform.Widgets.pdb
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Widgets\bin\Release111\TS.Sys.Platform.Widgets.dll
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Widgets\bin\Release111\TS.Sys.Platform.Widgets.pdb
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Widgets\bin\Release111\TS.Sys.DBLayer.dll
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Widgets\bin\Release111\TS.Sys.Util.dll
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Widgets\bin\Release111\TS.Sys.Domain.dll
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Widgets\bin\Release111\TS.Sys.Platform.Exceptions.dll
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Widgets\bin\Release111\TS.Sys.DBLayer.pdb
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Widgets\bin\Release111\TS.Sys.Util.pdb
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Widgets\bin\Release111\TS.Sys.Domain.pdb
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Widgets\bin\Release111\TS.Sys.Platform.Exceptions.pdb
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Widgets\obj\Release\ResolveAssemblyReference.cache
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Widgets\obj\Release\TS.Sys.Platform.Widgets.ButtonCurrencyEdit.resources
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Widgets\obj\Release\TS.Sys.Platform.Widgets.CurrencyEdit.resources
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Widgets\obj\Release\TS.Sys.Platform.Widgets.DataTree.resources
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Widgets\obj\Release\TS.Sys.Platform.Widgets.LabelCombox.resources
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Widgets\obj\Release\TS.Sys.Platform.Widgets.LabelDateTime.resources
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Widgets\obj\Release\TS.Sys.Platform.Widgets.LabelEdit.resources
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Widgets\obj\Release\TS.Sys.Platform.Widgets.Properties.Resources.resources
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Widgets\obj\Release\TS.Sys.Widgets.PageDataGridView.resources
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Widgets\obj\Release\TS.Sys.Platform.Widgets.Refer.WidgetRefer.LabelRefer.resources
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Widgets\obj\Release\GenerateResource.read.1.tlog
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Widgets\obj\Release\GenerateResource.write.1.tlog
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Widgets\obj\Release\TS.Sys.Platform.Widgets.dll
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Widgets\obj\Release\TS.Sys.Platform.Widgets.pdb

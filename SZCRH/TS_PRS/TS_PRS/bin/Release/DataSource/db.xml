@@ -1,0 +1,8 @@
+<dbs>
+<db>
+<dataSource>192.168.0.100,1433</dataSource>
+<initCataLog>PRS_SZ</initCataLog>
+<username>sa</username>
+<password>sa123456</password>
+</db>
+</dbs>

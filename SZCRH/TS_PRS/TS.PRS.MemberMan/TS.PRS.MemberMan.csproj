@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{3EF7BD0F-C94F-4EF2-9BB9-47DDD88CB847}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>TS.PRS.MemberMan</RootNamespace>
+    <AssemblyName>TS.PRS.MemberMan</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Adapter\MemberAdapter.cs" />
+    <Compile Include="Adapter\MembersAllowAdapter.cs" />
+    <Compile Include="Adapter\MembersSalaryAdapter.cs" />
+    <Compile Include="Assit\PwdConfirm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Assit\PwdConfirm.Designer.cs">
+      <DependentUpon>PwdConfirm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Assit\TSoftAssit.cs" />
+    <Compile Include="Business\MemberReommendModual.cs" />
+    <Compile Include="Connection\WebConn.cs" />
+    <Compile Include="Dao\MembersAllowDao.cs" />
+    <Compile Include="Dao\MembersAllowDao.Sql.cs" />
+    <Compile Include="Dao\MembersDao.cs" />
+    <Compile Include="Dao\MembersSalaryDao.cs" />
+    <Compile Include="Dao\MembersSalaryDao.Sql.cs" />
+    <Compile Include="Info\MembersAllowSubInfo.cs" />
+    <Compile Include="Info\MembersAllowInfo.cs" />
+    <Compile Include="Info\MembersInfo.cs" />
+    <Compile Include="Info\MembersDetailInfo.cs" />
+    <Compile Include="Info\MembersSalaryInfo.cs" />
+    <Compile Include="Info\MembersSalarySubInfo.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Service\MembersAllowService.cs" />
+    <Compile Include="Service\MembersSalaryService.cs" />
+    <Compile Include="Service\MembersService.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\TS.PRS.MemberMan.Adapter\TS.PRS.MemberMan.Adapter.csproj">
+      <Project>{47517553-2D18-42BE-86A9-E43892C8851E}</Project>
+      <Name>TS.PRS.MemberMan.Adapter</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TS.Sys.DBLayer\TS.Sys.DBLayer.csproj">
+      <Project>{8F45DE22-E519-4143-896E-07F9FFA33628}</Project>
+      <Name>TS.Sys.DBLayer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TS.Sys.Domain\TS.Sys.Domain.csproj">
+      <Project>{BB99B8B6-8E24-46E5-80C8-D53CECEDD6E8}</Project>
+      <Name>TS.Sys.Domain</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TS.Sys.Platform.Business\TS.Sys.Platform.Business.csproj">
+      <Project>{F9B3FA40-9118-4F1E-BDF2-1ABB26E2857B}</Project>
+      <Name>TS.Sys.Platform.Business</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TS.Sys.Platform.Exceptions\TS.Sys.Platform.Exceptions.csproj">
+      <Project>{1D8F31F6-4A36-452C-909E-491EDB9B2826}</Project>
+      <Name>TS.Sys.Platform.Exceptions</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TS.Sys.Util\TS.Sys.Util.csproj">
+      <Project>{21CEDBCD-C024-4FCB-ACCF-8FCF4244A93C}</Project>
+      <Name>TS.Sys.Util</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TS.Sys.Widgets\TS.Sys.Platform.Widgets.csproj">
+      <Project>{BE0D2A13-56CF-4130-A473-64533880EBE7}</Project>
+      <Name>TS.Sys.Platform.Widgets</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Assit\PwdConfirm.resx">
+      <DependentUpon>PwdConfirm.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
