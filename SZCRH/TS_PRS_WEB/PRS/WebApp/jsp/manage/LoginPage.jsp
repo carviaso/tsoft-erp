@@ -1,5 +1,5 @@
 <%@ page language="java" import="java.util.*" pageEncoding="utf-8"%>
-<%@ include file="/Header.inc" %>
+<%@ include file="/jsp/util/Header.inc" %>
 <body id="loginWrap">
 	<div id="scrollnotice" style="display: none">
            <div class="ieBox">
@@ -11,7 +11,7 @@
 	
 <div class="header2"> 
 	 <img src="${imgPath}/logo.jpg" alt="苏州川润海"/>  
-	<div class="fr"> <a href="http://www.szcrh.com">川润海首页</a><a id="addFavorite" href="javascript:addFavorite(window.location.href,document.title);">加入收藏</a> 
+	<div class="fr"> <a href="/PRS/sys/portal_welcome">川润海首页</a><a id="addFavorite" href="javascript:addFavorite(window.location.href,document.title);">加入收藏</a> 
 	</div>
 </div>
 <div class="content" id="send">
@@ -43,7 +43,7 @@
           
 	      <div class="other">
 	        <p></p>
-	        <p>还不是会员？ <a href="/PRS/jsp/RegistionPage.jsp">立即注册</a></p>
+	        <p>还不是会员？ <a href="/PRS/sys/manage_RegistionPage">立即注册</a></p>
           </div>
         </div> 
       </form>
