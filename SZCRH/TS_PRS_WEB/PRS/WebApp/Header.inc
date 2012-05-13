@@ -16,6 +16,7 @@ request.setAttribute("imgPath",path+"/img");
 	<meta http-equiv="cache-control" content="no-cache">
 	<meta http-equiv="expires" content="0">    
 	<link rel="stylesheet" type="text/css" href="${cssPath}/common.css"/>
+	<link rel="stylesheet" type="text/css" href="${cssPath}/prs_portal.css"/>
 	<script type="text/javascript" src="${jsPath}/PRS.js"></script>
 	<script type="text/javascript" src="${jsPath}/jquery.js"></script>
 	<script type="text/javascript" src="${jsPath}/jquery.cookie.js"></script>
