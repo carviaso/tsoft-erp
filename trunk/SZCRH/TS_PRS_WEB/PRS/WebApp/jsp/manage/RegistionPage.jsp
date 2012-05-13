@@ -5,12 +5,12 @@
 	
 <div class="header2">
 	<img src="${imgPath}/logo.jpg" alt="苏州川润海"/> 
-	<div class="fr"> <a href="http://www.szcrh.com">川润海首页</a>	
+	<div class="fr"> <a href="/PRS/sys/portal_welcome">川润海首页</a>	
 	</div>
 </div>
 	<form id="editForm" action="Regist_addOper.action" method="post">
 		<div id="registerStep1Wrap" class="body">			 
-            <img src="../img/Banner-regist.png" width="922" height="31" />
+            <img src="${imgPath}/Banner-regist.png" width="922" height="31" />
  
 			<div class="regisTop">
 				<strong class="red">*</strong>为必填项 </div>

@@ -1,8 +1,7 @@
 <%@ page language="java" import="java.util.*" pageEncoding="utf-8"%>
 <%@ include file="/Header.inc" %>
 
-<body>
-<div class="smlWrap">
+<body> 
 	
 <div class="header2">
 	<img src="${imgPath}/logo.jpg" alt="苏州川润海"/> 
