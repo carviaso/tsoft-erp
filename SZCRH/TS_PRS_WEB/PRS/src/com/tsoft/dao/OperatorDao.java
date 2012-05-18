@@ -8,6 +8,7 @@ import org.springframework.jdbc.core.support.JdbcDaoSupport;
 
 import com.tsoft.Info.OperatorInfo; 
 import com.tsoft.exception.BusinessException;
+import com.tsoft.util.InfoUtil;
 
 public class OperatorDao extends JdbcDaoSupport {
  
@@ -34,8 +35,9 @@ public class OperatorDao extends JdbcDaoSupport {
 	 * @param operInfo
 	 * @return
 	 * @throws DataAccessException
+	 * @throws BusinessException 
 	 */
-	public OperatorInfo GetOperatorInfo(OperatorInfo operInfo)  throws DataAccessException
+	public OperatorInfo GetOperatorInfo(OperatorInfo operInfo)  throws DataAccessException, BusinessException
 	{
 		String checkFlag = "username";
 		
@@ -57,10 +59,8 @@ public class OperatorDao extends JdbcDaoSupport {
 		}		
 		else
 		{
-			Map detail = (Map)result.get(0);
-			operInfo.setId(detail.get("id").toString());
-			operInfo.setPassword(detail.get("password").toString());
-			operInfo.setUsername(detail.get("username").toString());
+			Map<String,Object> detail = (Map<String,Object>)result.get(0);
+			InfoUtil.mapResultToInfo(operInfo, detail);
 			return operInfo;				
 		}
 	}

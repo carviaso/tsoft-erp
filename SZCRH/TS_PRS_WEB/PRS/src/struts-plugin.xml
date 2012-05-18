@@ -33,34 +33,12 @@
    <result name="success">/success.html</result>
    <result name="error">/error.jsp</result>
   </global-results>
- </package>
-	
-	<package name="Main" extends="struts-default" namespace="/">
-		 
-		
-		<action name="loginForm" class="com.tsoft.action.MainAction" method="mainForm">
-			<result name="success">/jsp/LoginPage.jsp</result>
+ </package>	 
+	<package name="Form" extends="struts-default" namespace="/sys">
+		<action name="*_*" class="com.tsoft.action.MainAction" method="forwardForm">
+			<result name="success">/jsp/{1}/{2}.jsp</result>
         </action>
-        <action name="regForm" class="com.tsoft.action.MainAction" method="regForm">
-			<result name="success">Registion.jsp</result>
-        </action> 
-        <action name="registion" class="registionAction" method="memReg">
-        	<result name="success">ResultPage.jsp</result>
-        	<result name="error">ResultPage.jsp</result>	
-        </action>
-        <action name="login" class="loginAction" method="operValidation">
-        	<result name="success">MemberDetail.jsp</result>
-        	<result name="error">ResultPage.jsp</result>
-        </action>
-		<action name="salaryForm" class="memberSalaryAction" method="toSalary">
-        	<result name="success">MemberSalaryDetail.jsp</result>
-        	<result name="error">ResultPage.jsp</result>
-        </action>
-        <action name="allowForm" class="memberAllowAction" method="toAllow">
-        	<result name="success">MemberDetail.jsp</result>
-        	<result name="error">ResultPage.jsp</result>
-        </action> 
-	</package> 
+	</package>
 	<package name="SystemControl" extends="json-default" namespace="/">
 		 <action name="*_*" class="{1}Action" method="{2}">
 		 	<result name="success" type="json"></result>
@@ -69,9 +47,9 @@
 		 </action>
 	</package>
 	<package name="BusinessControl" extends="struts-default" namespace="/bus">
-		<action name="*_*" class="{1}Action" method="{2}">
-			<result name="success">/jsp/{1}_{2}.jsp</result>
+		<action name="*_*_*" class="{2}Action" method="{3}">
+			<result name="success">/jsp/{1}/{2}_{3}.jsp</result>
 			<result name="error">/jsp/Error_ResultPage.jsp</result>
-		</action>
+		</action> 
 	</package>
 </struts>

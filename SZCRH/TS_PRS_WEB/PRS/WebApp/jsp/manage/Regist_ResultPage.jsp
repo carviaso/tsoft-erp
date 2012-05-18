@@ -1,11 +1,11 @@
 <%@ page language="java" import="java.util.*" pageEncoding="utf-8"%>
-<%@ include file="/Header.inc" %>
+<%@ include file="/jsp/util/Header.inc" %>
 
 <body> 
 	
 <div class="header2">
 	<img src="${imgPath}/logo.jpg" alt="苏州川润海"/> 
-	<div class="fr"> <a href="http://www.szcrh.com">苏州川润海</a>	
+	<div class="fr"> <a href="/PRS/sys/portal_welcome">苏州川润海</a>	
 	</div>
 </div>	 
 		<div id="registerStep1Wrap" class="body">			 
@@ -23,7 +23,7 @@
 	        </li>
 
 					<li>
-						 欢迎来到工友易联网,现在您可以去<a href="javascript:$.cookie('username','${user.name}', {expires: 1, path: '/'});window.location.href='/PRS/bus/Member_querySalary.action?userid=${user.id}';">工作台>></a> 查看相关的信息
+						 欢迎来到工友易联网,现在您可以去<a href="javascript:$.cookie('username','${user.name}', {expires: 1, path: '/'});window.location.href='/PRS/bus/manage_Member_querySalary.action?userid=${user.id}';">工作台>></a> 查看相关的信息
 						 
 					</li>
 

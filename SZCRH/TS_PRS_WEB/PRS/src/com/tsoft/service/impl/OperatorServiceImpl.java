@@ -12,7 +12,7 @@ public class OperatorServiceImpl implements OperatorService {
 
  
 	@Override
-	public OperatorInfo GetOperatorInfo(OperatorInfo operInfo) {
+	public OperatorInfo GetOperatorInfo(OperatorInfo operInfo) throws DataAccessException, BusinessException {
 		return operatorDao.GetOperatorInfo(operInfo);
 	}
 

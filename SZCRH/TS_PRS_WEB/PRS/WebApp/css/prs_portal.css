@@ -1,0 +1,159 @@
+body{margin:0;padding:0;padding-bottom:2em;}
+body,td,th{color:#444;font-size:12px;line-height:1.35}
+body,input,select,button,.en,.tradeshow span{font-family:Tahoma, Arial,"ËÎÌå", sans-serif}
+a img{border:none}
+a:link,#dir a:visited,#fLink a:visited,h2 a:visited{color:#333;text-decoration:none}
+a:visited{color:#333;text-decoration:none}
+a:hover{color:#C0030A !important}
+#pr .now a:hover{color:#fff !important}
+.clr{clear:both}
+th{font-size:90%;vertical-align:text-top;font-weight:bold}
+ul{margin:0;padding:0}
+ul li{padding:0;margin:0;line-height:1.8;list-style-type:none}
+p,form{margin:0;padding:0}
+ 
+
+/*Multi*/
+#top .cont,#header,.nav,#main{margin-left:auto;margin-right:auto}
+#header,#main,#nav{width:980px;margin:0 auto} 
+#main,#nav,#pr,#centerBanner ul,#fourInOne ul{
+	overflow:hidden;
+	zoom:1; 
+}
+#new,#position{float:left;margin-top:10px;margin-left:8px;}
+#nav,#pr a, #pr span,.now a, #pr .now a:hover,#notice h2,#centerBanner li,#login h2,#company h2,.box h2,#new h2{background-image:url(../img/portal/home.png)}
+#login h2,#notice h2,#company h2,.box h2,#new h2{background-position:left -88px;height:26px;line-height:28px;border-bottom:solid 1px #D8D8D8}
+#login h2{border:solid 1px #D8D8D8}
+/* Font*/
+h1,h2,h3{padding:0;margin:0}
+h1{font-size:200%}
+h2{font-size:14px;color:#333;line-height:24px;padding-left:10px}
+
+
+/*top*/
+#top{background-position:left -450px;background-color:#ededed;color:#bbb;height:16px;padding-bottom:3px;padding-top:5px;border-bottom:1px solid #e7e7e7} 
+#top a:link,#top a:visited{color:#023DB5}
+#top .cont{width:980px;font:11px Tahoma, Arial, Helvetica, sans-serif}
+
+#user{color:#bbb;overflow:hidden;zoom:1;float:left;margin-top:-3px;line-height:18px}
+#user li{float:left;padding:1px 3px 0}
+#user .help{display:block;width:39px;background-position:-87px -315px;position:relative;height:18px;padding-left:5px}
+#user {background-position:-87px -351px;z-index:999}
+#user #helpList{width:80px;background:#fff;border:1px solid #c4c3c3;position:absolute;height:80px;margin-top:15px;z-index:11;padding-top:3px}
+#user #helpList a{display:block;padding:3px 4px;line-height:13px} 
+#welcome_logon_span,#new_user{color:#000;_padding-left:2px}
+#top .basket{background-position:-16px -654px;width:16px;height:18px}
+#top .lanh{width:129px;height:23px;background-position:left -527px}
+#top .basket,#top .lanh,#top {background-image:url(../img/portal/home2011_09.png);background-repeat:repeat-x}
+#lan{float:right;margin-right:10px}
+
+ 
+/*Nav*/
+#nav{height:33px;background-repeat: repeat-x;background-color:#fff;background-position:left 29px}
+#pr{float:left}
+#pr li{float:left;margin-right:3px}
+#pr span{background-position:right -29px;background-repeat:no-repeat;display:block;padding-top:4px;padding-right:20px;text-align:center;font-weight:bold;cursor:pointer}
+#pr a{background-position:left -29px;background-repeat:no-repeat;height:29px;font-size:14px;padding-left:20px;color:#8b573d;display:block}
+ 
+#pr a,#pr span{float:left}
+.now a,#pr .now a{font-weight:bold;color:#fff;background-position:left -58px;text-decoration:none;height:30px}
+ #pr .now span {font-weight:bold;color:#fff;background-position:right -58px;text-decoration:none;height:30px}
+#nav img{display:block}
+
+/*side*/ 
+#side{float:left}
+.box{border:solid 1px #D8D8D8}
+#notice{height:197px;width:163px;float:left;margin-right:10px}  
+/*right*/
+#right{float:right;}
+
+ /*side-banner*/
+ #centerBanner{float:left}
+#centerBanner ul{border-left:solid 1px #D8D8D8;border-right:solid 1px #D8D8D8;border-bottom:solid 1px #D8D8D8;background-color:#D8D8D8}
+#centerBanner li{background-position:center -113px;background-repeat:repeat-x;float:left;text-align:center;border-right:solid 1px #fff;cursor:pointer;height:27px;line-height:27px}
+#centerBanner li.now{background:#FBFBFB none;color:#333}
+#centerBanner #adMenu1 li{width:542px;}
+#centerBanner #adMenu2 li{width:271px;border-right:none}
+#centerBanner #adMenu2 li.lst{width:272px;}
+#centerBanner #adMenu3 li{width:180px;}
+#centerBanner #adMenu3 li.lst{border-right:none;width:181px}
+ /*Main*/
+ #main{margin-top:10px}
+ 
+/*LoginForm*/ 
+#login{width:250px;}
+#fourInOne{border:solid 1px #F2DE9F;background-color:#FFF8DC;color:#333} 
+.sign{padding-left:15px;margin:3px 0 8px 0}
+.sign label{display:inline;line-height:2;padding-top:8px;font-weight:bold}
+.sign .inputtext{width:160px;border:solid 1px #e6d3b1;height:22px;line-height:22px;padding-left:3px}
+.sign button{margin-top:10px;border:0 none;background:none;padding:0;width:64px;vertical-align:middle;cursor:pointer} 
+/*2012 sign*/
+#fourInOne .sign{height:156px;overflow:hidden;margin:8px 0 3px 0}
+#fourInOne{margin-bottom:10px}
+#tabcontent_10 input.inputtext{margin-bottom:5px;*margin-bottom:2px;font-size:12px}
+#tabcontent_10 input.wth75{width:75px}
+#tabcontent_10 button{margin-top:5px;}
+#tabcontent_10 a{display:inline-block;margin-right:10px;height:20px;line-height:20px;color:#005aa8;padding:4px} 
+
+#fourInOne h2{background:none;border:none;text-indent:-999em} 
+#fourInOne p{margin-top:50px;margin-left:10px;font-size:14px}
+#fourInOne p a{color:#AD0004;} 
+ 
+.tabS li,#tc li,#fourInOne li{background-position:left -88px;border-bottom:solid 1px #D8D8D8;height:28px;line-height:28px;float:left;width:114px;margin-left:-1px;border-left:solid 1px #D7D7D7;text-align:center;cursor:default;font-size:14px} 
+/*service*/
+#service{margin-top:10px}
+#service ul li {margin:5px}
+/*business*/
+#business{ margin-left:8px;width:804px}
+#business ul li,#new ul li{margin:10px}
+/*new*/
+#new{width:500px}
+/*position*/
+#position{width:294px}
+#company{margin-top:8px}
+/**/ 
+#contentlist h2{background:url(../img/portal/tit.gif) repeat-x;line-height:27px;padding-left:15px;border:solid 1px #EAE3D6;border-bottom:none;margin-bottom:10px;width:700px}
+#contentlist,#img{float:left}
+#contactinfo{margin-left:20px}
+/*content*/
+.content {margin:10px;line-height:2}
+#content{width:720px;margin-right:10px;float:left}
+#new{width:500px}
+.detail{padding:20px 50px;border:solid 1px #E2E2E2;background-color:#f7f8fc;margin-bottom:10px}
+.detail h1{font-size:26px;font-family:"Î¢ÈíÑÅºÚ", "ËÎÌå";font-weight:normal;text-align:center}
+.detail .tag{text-align:center;}
+.tag span{color:#888;margin-right:20px;line-height:26px}
+.otherfunction{border-top:dashed 1px #CDCDCD;padding-top:5px;line-height:20px;margin-bottom:15px;overflow:hidden;zoom:1}
+#cont_text{margin-bottom:20px;font-size:14px;line-height:1.8}
+#cont_text p{text-indent:2em;margin:15px 0} 
+#tag{border:solid 1px #e3e3e3;margin-bottom:10px}
+#tag .cont{padding:0 0 13px 10px;}
+#tag a{white-space:nowrap;margin-right:0.4em;color:#666;line-height:160%}
+
+ /*Table*/
+ #newlist {width:700px}
+ td{font-size:14px;}
+ .c10{width:10px}
+ .c50{width:50px}
+.c80{width:80px}
+.c100{width:100px}
+.c120{width:120px}
+.c150{width:150px}
+.c170{width:170px}
+ 
+ /*footer*/
+ /*footer*/
+#footer{margin:10px}
+#footer{text-align:center;border-top:1px solid #dcdcdc;padding-top:10px;line-height:1.8;}
+#footer a{color:#333}
+#footer a:hover{color:#c0030a}
+#footer div{text-align:center;margin:0 auto;color:#999}
+#footer #footer-link a{margin:0 6px}
+#footer div a{line-height:1.5;white-space:nowrap}
+
+/*searchbar*/
+#searchBar{border:1px solid  #C90A30;width:978px;height:70px; background-image:url(../img/searchbg.png)}
+.box-search{float:left;margin:10px}
+#searchGroupInput{border:1px solid  #999;float:left;width:500px;height:25px;line-height:33px;background: #FFF}
+#searchGroupBtn{height:30px;width:90px}
+#searchGroupLogo{margin-top:5px;margin-bottom:5px;margin-left:10px}

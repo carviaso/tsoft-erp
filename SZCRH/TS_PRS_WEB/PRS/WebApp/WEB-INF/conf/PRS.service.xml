@@ -8,33 +8,27 @@
 
 
 	<!-- Action -->
+	<bean id="PortalAction" class="com.tsoft.action.PortalAction">
+		<property name="contentService" ref="contentService"></property>
+	</bean>
+	<bean id="ContentAction" class="com.tsoft.action.ContentAction">
+		<property name="contentService" ref="contentService"></property>
+	</bean>
 	<bean id="RegistAction" class="com.tsoft.action.RegistAction">
 		<property name="operatorService" ref="operatorService"></property>
 		<property name="membersService" ref="membersService"></property>
+		<property name="contentService" ref="contentService"></property>
 	</bean>
 	<bean id="MemberAction" class="com.tsoft.action.MemberAction">
 		<property name="membersService" ref="membersService"></property>
 		<property name="memberAllowService" ref="memberAllowService"></property>
 		<property name="memberSalaryService" ref="memberSalaryService"></property>
-	</bean>
-	<bean id="loginAction" class="com.tsoft.action.LoginFormAction">
-		<property name="operatorService" ref="operatorService"></property>
-		<property name="membersService" ref="membersService"></property>
-		<property name="memberAllowService" ref="memberAllowService"></property>
-	</bean>
-	<bean id="registionAction" class="com.tsoft.action.RegistionAction">
-		<property name="operatorService" ref="operatorService"></property>
-		<property name="membersService" ref="membersService"></property>
-	</bean>
-	<bean id="memberSalaryAction" class="com.tsoft.action.MemberSalaryAction">
-		<property name="membersService" ref="membersService"></property>
-		<property name="memberSalaryService" ref="memberSalaryService"></property>
-	</bean>
-	<bean id="memberAllowAction" class="com.tsoft.action.MemberAllowAction">
-		<property name="memberAllowService" ref="memberAllowService"></property>
-		<property name="membersService" ref="membersService"></property>
-	</bean>
+	</bean>	 
+	 
 	<!-- Service -->
+	<bean id="contentService" class="com.tsoft.service.impl.ContentServiceImpl">
+		<property name="contentDao" ref="contentDao"/>
+	</bean>
 	<bean id="memberSalaryService" class="com.tsoft.service.impl.MemberSalaryServiceImpl">
 		<property name="memberSalaryDao" ref="memberSalaryDao"/>
 	</bean>
@@ -48,6 +42,9 @@
 		<property name="operatorDao" ref="operatorDao" />
 	</bean>
 	<!-- DAO -->
+	<bean id="contentDao" class="com.tsoft.dao.ContentDao">
+		<property name="dataSource" ref="dataSource"/> 
+	</bean>
 	<bean id="memberSalaryDao" class="com.tsoft.dao.MemberSalaryDao">
 		<property name="dataSource" ref="dataSource"/> 
 	</bean>
