@@ -4,6 +4,13 @@ public class OperatorInfo {
 	private String username;
 	private String password;
 	private String id;
+	private String author;
+	public String getAuthor() {
+		return author;
+	}
+	public void setAuthor(String author) {
+		this.author = author;
+	}
 	public String getId() {
 		return id;
 	}

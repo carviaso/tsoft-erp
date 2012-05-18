@@ -37,7 +37,7 @@
 	p.nameexists = function(o){
 		$.ajax({
 			 type:"post",
-			 url:"Regist_userExists", 
+			 url:"/PRS/Regist_userExists", 
 			 data:"username="+o,
 			 cache:false,
 			 async:false,
@@ -58,7 +58,7 @@
 	p.idexists = function (userid){
 		$.ajax({
 			 type:"post",
-			 url:"Regist_idExists", 
+			 url:"/PRS/Regist_idExists", 
 			 data:"userid="+userid,
 			 cache:false,
 			 async:false,
@@ -80,7 +80,7 @@
 	p.idregist = function (userid){
 			$.ajax({
 			 type:"post",
-			 url:"Regist_idRegist", 
+			 url:"/PRS/Regist_idRegist", 
 			 data:"userid="+userid,
 			 cache:false,
 			 async:false,
@@ -230,22 +230,70 @@
 			};
 		
 	};
-	p.login = function(n){
+	p.deleteContent = function(c){
+		if(confirm("是否删除该记录")){
+			
+		$.ajax({
+			type:"post",
+			 url:"/PRS/Content_delContent", 
+			 data:"code="+c,
+			 cache:false,
+			 async:false,
+			 success:function(r){	　
+				 var q = r.flag;  
+				 if(q==="false"){
+					 alert(r.msg);
+					 return;
+				 } 
+				 else{
+					 alert("删除成功！");
+					 window.location.href='/PRS/bus/manage_Content_queryContent?contentType='+r.contentType; 
+				 } 	 
+			 }
+		});
+		}
+		else{
+			return;
+		}
+			
+	}
+	p.addContent = function(c,t){
+		 
+		var o = $.trim($("#title").val());  
+		$.ajax({
+			type:"post",
+			 url:"/PRS/Content_addContent", 
+			 data:"title="+o+"&content="+c,
+			 cache:false,
+			 async:false,
+			 success:function(r){	　
+				 var q = r.flag;  
+				 if(q==="false"){
+					 alert(r.msg);
+					 return;
+				 } 
+				 else{
+					 alert("保存成功！");
+					 window.location.href='/PRS/bus/manage_Content_queryContent?contentType='+r.contentType; 
+				 } 	 
+			 }
+		});
+	};
+	p.login = function(n){　
 		if(!p.vRequire("#userinfo","#notice_userinfo","请输入用户名！")||!p.vRequire("#password","#notice_password","请输入密码！")){
 			
 			return;
-		}
+		} 
 		$('.errorSml').hide(); 
-		var o = $.trim($("#userinfo").val());
-		
+		var o = $.trim($("#userinfo").val()); 
 		$.ajax({
 			 type:"post",
-			 url:"Regist_userExists", 
+			 url:"/PRS/Regist_userExists", 
 			 data:"username="+o,
 			 cache:false,
 			 async:false,
-			 success:function(r){		 
-				 var q = r.flag; 
+			 success:function(r){	　
+				 var q = r.flag;  
 				 if(q==="false"){
 					 p.config.nameexists = true;
 				 } 
@@ -254,12 +302,12 @@
 				 } 	 
 			 }
 		 });  
-		
+	 
 		if(p.config.nameexists===false){
 			
 			$.ajax({
 				 type:"post",
-				 url:"Regist_idExists", 
+				 url:"/PRS/Regist_idExists", 
 				 data:"userid="+o,
 				 cache:false,
 				 async:false,
@@ -274,7 +322,7 @@
 				 }
 			 });
 			
-			
+			 
 			
 			if(p.config.idexists===false){
 				p.showMessage("#notic_userinfo","用户名或者身份证不存在！");
@@ -291,7 +339,7 @@
 		}
 		$.ajax({
 			 type:"post",
-			 url:"Regist_userValidate", 
+			 url:"/PRS/Regist_userValidate", 
 			 data:datastr,
 			 cache:false,
 			 async:false,
@@ -302,21 +350,30 @@
 					 p.showMessage("#notice_password",r.msg);
 					 return; 
 				 } 
+				 else if(q==="true"){
+					 p.remember();
+					 $.cookie('username', r.name, {
+		                    expires: 1,
+		                    path: '/'
+		                });
+					 window.location.href='/PRS/bus/manage_Member_querySalary?userid='+r.userid; 
+				 }
 				 else{
 					 p.remember();
 					 $.cookie('username', r.name, {
 		                    expires: 1,
 		                    path: '/'
 		                });
-					 window.location.href='/PRS/bus/Member_querySalary.action?userid='+r.userid; 
+					 window.location.href='/PRS/bus/manage_Content_queryContent?contentType=001'; 
 				 }
+					 
 			 }
 		});		
 		
 	};
 	p.logout = function(){
 		$.cookie("username",null,{ path: '/' });
-		window.location.href="/PRS/jsp/LoginPage.jsp";
+		window.location.href="/PRS/sys/manage_LoginPage";
 	}
 	p.senfe = function (o,a,b,c){
 		 var t=document.getElementById(o).getElementsByTagName("tr");

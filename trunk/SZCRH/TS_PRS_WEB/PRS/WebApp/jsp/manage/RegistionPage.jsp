@@ -1,11 +1,11 @@
 <%@ page language="java" import="java.util.*" pageEncoding="utf-8"%>
-<%@ include file="/Header.inc" %>
+<%@ include file="/jsp/util/Header.inc" %>
 <body>
 <div class="smlWrap">
 	
 <div class="header2">
 	<img src="${imgPath}/logo.jpg" alt="苏州川润海"/> 
-	<div class="fr"> <a href="/PRS/sys/portal_welcome">川润海首页</a>	
+	<div class="fr"> <a href="/PRS/bus/portal_Portal_welcome">川润海首页</a>	
 	</div>
 </div>
 	<form id="editForm" action="Regist_addOper.action" method="post">

@@ -14,7 +14,15 @@ public class MainAction extends ActionSupport{
 		return SUCCESS;
 	}
 	
-	public String forwordForm(){
+	public String forwardportalForm(){
+		return SUCCESS;
+	}
+	
+	public String forwardmanageForm(){
+		return SUCCESS;
+	}
+	
+	public String forwardForm(){
 		return SUCCESS;
 	}
 }

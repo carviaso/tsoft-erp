@@ -11,11 +11,11 @@
 	
 <div class="header2"> 
 	 <img src="${imgPath}/logo.jpg" alt="苏州川润海"/>  
-	<div class="fr"> <a href="/PRS/sys/portal_welcome">川润海首页</a><a id="addFavorite" href="javascript:addFavorite(window.location.href,document.title);">加入收藏</a> 
+	<div class="fr"> <a href="/PRS/bus/portal_Portal_welcome">川润海首页</a><a id="addFavorite" href="javascript:addFavorite(window.location.href,document.title);">加入收藏</a> 
 	</div>
 </div>
 <div class="content" id="send">
-	  <form action="/login" method="post" onsubmit="return focusFunc()">
+	  　
 	    <div id="login">
 	      <ul>
 	        <li>
@@ -29,24 +29,18 @@
 	          <span class="errorSml" id="notice_password" ></span>
             </li>
           </ul>
-	      <div class="submit">
-	        <p class="rem rem2">
-	        	<label><input type="checkbox" name="rememberMe" id="rememberMe" /> 记住登录名</label>
-                <a href="${path}/PRS/jsp/Error_ResultPage.jsp" target="_blank">忘记密码？</a>
-                </p>
-	        	<a class="btnOk" href="javascript:PRS.login('#editForm')"><span>登    录</span></a>
-	           
-	          
-            </p>
+	      <div class="submit">	         
+	      
+	        	 <button tabindex="5" onclick ="javascript:PRS.login('#editForm')" ><img src="${imgPath}/portal/but-login_cn.gif" alt="登录" /></button> 
+		      <label><input type="checkbox" name="rememberMe" id="rememberMe" /> 记住登录名</label>                     
+             
           </div>
-	      <div class="line">&nbsp;</div>
-          
+	      <div class="line">&nbsp;</div>         
 	      <div class="other">
 	        <p></p>
 	        <p>还不是会员？ <a href="/PRS/sys/manage_RegistionPage">立即注册</a></p>
           </div>
-        </div> 
-      </form>
+        </div>      　
 	  <div class="loginBg" id="logonBg"> 
 	  		<ul class="bannerPic" rel="moveBox" moveWidth="1000">
 				<li><img src="${imgPath}/bk_login1.jpg" alt="" width="578" height="338" /></li>

@@ -1,14 +1,18 @@
-#Mon Apr 23 19:35:36 CST 2012
+#Thu May 17 11:59:04 CST 2012
 eclipse.preferences.version=1
-encoding//WebApp/LoginForm.jsp=UTF-8
-encoding//WebApp/css/form.css=UTF-8
 encoding//WebApp/js/common.js=UTF-8
-encoding//WebApp/jsp/Error_ResultPage.jsp=UTF-8
-encoding//WebApp/jsp/LoginPage.jsp=UTF-8
-encoding//WebApp/jsp/Member_queryAllow.jsp=UTF-8
-encoding//WebApp/jsp/Member_querySalary.jsp=UTF-8
-encoding//WebApp/jsp/Regist_ResultPage.jsp=UTF-8
-encoding//WebApp/jsp/RegistionPage.jsp=UTF-8
+encoding//WebApp/jsp/manage/Error_ResultPage.jsp=UTF-8
+encoding//WebApp/jsp/manage/LoginPage.jsp=UTF-8
+encoding//WebApp/jsp/manage/Member_queryAllow.jsp=UTF-8
+encoding//WebApp/jsp/manage/Member_querySalary.jsp=UTF-8
+encoding//WebApp/jsp/manage/Regist_ResultPage.jsp=UTF-8
+encoding//WebApp/jsp/manage/RegistionPage.jsp=UTF-8
+encoding//WebApp/jsp/portal/Content_queryContent.jsp=UTF-8
+encoding//WebApp/jsp/portal/Portal_welcome.jsp=UTF-8
+encoding//WebApp/jsp/portal/company.jsp=UTF-8
+encoding//WebApp/jsp/portal/util/Footer.inc=UTF-8
+encoding//WebApp/jsp/portal/util/Header.inc=UTF-8
+encoding//WebApp/jsp/portal/util/Toper.inc=UTF-8
 encoding/<project>=UTF-8
 encoding/WebApp=UTF-8
 encoding/src=UTF-8

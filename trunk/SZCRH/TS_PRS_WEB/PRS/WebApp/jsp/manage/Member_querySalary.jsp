@@ -1,10 +1,10 @@
 <%@ page language="java" import="java.util.*" pageEncoding="utf-8"%>
-<%@ include file="/Header.inc" %>
+<%@ include file="/jsp/util/Header.inc" %>
 
 <body class="bodyBg">
 <div class="header">
 	<h1><img style="margin-top:25px" align="absbottom" src="../img/title.png" alt="工友易联网"/></h1>
-	<div class="headerLink"><a href="http://www.szcrh.com">苏州川润海</a></div>
+	<div class="headerLink"><a href="/PRS/sys/portal_welcome">苏州川润海</a></div>
 	<div id="welcomeInfo">欢迎<span id="username"></span>进入工作台 [<a href="javascript:PRS.logout()">安全退出</a>]</div>
 </div>
 <div class="topNav">
@@ -47,8 +47,8 @@
 	<div class="colSide menuSide">
 		<h3>服务中心</h3>
 		<ul>
-			<li id="service_salary"><a href="${path}/PRS/bus/Member_querySalary">我的工资</a></li>
-			<li id="service_allow"><a href="${path}/PRS/bus/Member_queryAllow">我的津贴</a></li> 
+			<li id="service_salary"><a href="${path}/PRS/bus/manage_Member_querySalary">我的工资</a></li>
+			<li id="service_allow"><a href="${path}/PRS/bus/manage_Member_queryAllow">我的津贴</a></li> 
 			<li id="manager_operinfo"><a href="${path}/PRS/jsp/Error_ResultPage.jsp">个人信息维护</a></li>		
 		</ul>
 		<div class="cloSideShadow">&nbsp;</div>

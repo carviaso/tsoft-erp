@@ -1,16 +1,21 @@
 package com.tsoft.action;
 
   
+import java.util.List;
+
 import org.apache.struts2.ServletActionContext;
 import org.apache.struts2.json.annotations.JSON;
 import org.springframework.dao.DataAccessException;
 
 import com.opensymphony.xwork2.ActionSupport;
+import com.tsoft.Info.CategoryInfo;
+import com.tsoft.Info.ContentInfo;
 import com.tsoft.Info.MembersInfo;
 import com.tsoft.Info.OperatorInfo;
 import com.tsoft.exception.BusinessException;
+import com.tsoft.service.ContentService;
 import com.tsoft.service.MembersService;
-import com.tsoft.service.OperatorService; 
+import com.tsoft.service.OperatorService;
 
 public class RegistAction extends ActionSupport{
 	
@@ -26,7 +31,7 @@ public class RegistAction extends ActionSupport{
 
 	private String password;
 	private static final String REGIST_SUCCESS = "regist_success";
-
+	private static final String ADMIN_SUCCESS = "admin_success";
 
 	//是否成功的标志
 	private String flag;	
@@ -34,6 +39,7 @@ public class RegistAction extends ActionSupport{
 	private String msg;	
 	private OperatorService operatorService; 
 	private MembersService membersService;
+	private ContentService contentService;
 	
 	/**
 	 * @category校验用户是否存在
@@ -101,11 +107,22 @@ public class RegistAction extends ActionSupport{
 			else
 			{
 				this.userid = operInfo.getId(); 
-				MembersInfo mi  = new MembersInfo();
-				mi.setId(operInfo.getId());
-				mi= membersService.GetMemberInfo(mi);
-				this.name = mi.getName();
-				flag = "true";
+				if("oper".equals(operInfo.getAuthor()))
+				{
+					
+					MembersInfo mi  = new MembersInfo();
+					mi.setId(operInfo.getId());
+					mi= membersService.GetMemberInfo(mi);
+					this.name = mi.getName();
+					flag = "true";
+					
+				
+				}
+				else
+				{
+					this.name = "admin";
+					flag = "adimn_true";					 
+				}
 				return SUCCESS;
 			}
 		} catch (DataAccessException de)
@@ -125,6 +142,14 @@ public class RegistAction extends ActionSupport{
 		} 
 	}
 	
+	public ContentService getContentService() {
+		return contentService;
+	}
+
+	public void setContentService(ContentService contentService) {
+		this.contentService = contentService;
+	}
+
 	/**
 	 * 身份证校验
 	 * 校验该身份证是否在川润海人力资源系统中注册过
