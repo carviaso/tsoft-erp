@@ -129,7 +129,7 @@ h2{font-size:14px;color:#333;line-height:24px;padding-left:10px}
 #tag{border:solid 1px #e3e3e3;margin-bottom:10px}
 #tag .cont{padding:0 0 13px 10px;}
 #tag a{white-space:nowrap;margin-right:0.4em;color:#666;line-height:160%}
-
+.errorSml{color:#e60012} 
  /*Table*/
  #newlist {width:700px}
  td{font-size:14px;}
