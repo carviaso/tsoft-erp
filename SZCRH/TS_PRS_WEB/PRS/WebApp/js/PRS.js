@@ -77,6 +77,51 @@
 		 });
 		return true;
 	};
+	p.idvalidation = function(o,n){
+		var pwd = $.trim($("#password").val());
+		if(!p.vRequire("#password","#notice_password","请输入密码！")){
+			$("#check_password").hide();
+			return;
+		}  
+		var confirmpwd = $.trim($("#confirmPassword").val());
+		if(!p.vRequire("#confirmPassword","#notice_confirmPassword","请输入密码！")){
+			$("#check_confirmPassword").hide();
+			return;
+		}  
+		if(!p.samePwd("#password","#confirmPassword")){
+			return ;
+		}			
+		
+		var i = $(o);
+		var id = $.trim(i.val()); 
+		$.ajax({
+			 type:"post",
+			 url:"/PRS/Regist_idExists", 
+			 data:"userid="+id,
+			 cache:false,
+			 async:false,
+			 success:function(r){		 
+				 var q = r.flag;
+				 if(q==="true"){
+					 p.showMessage("#notice_userId","该身份证还未被注册过！");				
+					 p.config.idexists = false;
+				 }
+				 else{
+					 $("#check_userid").hide();
+					 	
+					 p.config.idexists = true;
+				 } 
+			 }
+		 });
+		 
+ 
+		var pass = $("#password").val();
+		var passvalue = $.trim(pass);  
+		if(p.config.idexists===true&&p.pwdvalueable(passvalue)===true){ 
+			$(n).submit();
+		}
+	};
+	
 	p.idregist = function (userid){
 			$.ajax({
 			 type:"post",
@@ -297,13 +342,12 @@
 				 if(q==="false"){
 					 p.config.nameexists = true;
 				 } 
-				 else{
+				 else{ 
 					 p.config.nameexists = false;					 
 				 } 	 
 			 }
 		 });  
-	 
-		if(p.config.nameexists===false){
+ 		if(p.config.nameexists===false){
 			
 			$.ajax({
 				 type:"post",
@@ -322,10 +366,11 @@
 				 }
 			 });
 			
-			 
 			
-			if(p.config.idexists===false){
-				p.showMessage("#notic_userinfo","用户名或者身份证不存在！");
+			
+			if(p.config.idexists===false||p.config.nameexists === false){
+				 
+				p.showMessage("#notice_userinfo","用户名或者身份证不存在！");
 				return;
 			}
 				
