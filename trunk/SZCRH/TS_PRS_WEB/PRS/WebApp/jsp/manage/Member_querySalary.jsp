@@ -49,7 +49,7 @@
 		<ul>
 			<li id="service_salary"><a href="${path}/PRS/bus/manage_Member_querySalary">我的工资</a></li>
 			<li id="service_allow"><a href="${path}/PRS/bus/manage_Member_queryAllow">我的津贴</a></li> 
-			<li id="manager_operinfo"><a href="${path}/PRS/jsp/Error_ResultPage.jsp">个人信息维护</a></li>		
+			<!-- <li id="manager_operinfo"><a href="${path}/PRS/jsp/Error_ResultPage.jsp">个人信息维护</a></li> -->		
 		</ul>
 		<div class="cloSideShadow">&nbsp;</div>
 	</div>

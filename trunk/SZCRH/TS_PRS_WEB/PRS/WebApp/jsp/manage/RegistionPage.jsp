@@ -8,7 +8,7 @@
 	<div class="fr"> <a href="/PRS/bus/portal_Portal_welcome">川润海首页</a>	
 	</div>
 </div>
-	<form id="editForm" action="Regist_addOper.action" method="post">
+	<form id="editForm" action="/PRS/Regist_addOper.action" method="post">
 		<div id="registerStep1Wrap" class="body">			 
             <img src="${imgPath}/Banner-regist.png" width="922" height="31" />
  

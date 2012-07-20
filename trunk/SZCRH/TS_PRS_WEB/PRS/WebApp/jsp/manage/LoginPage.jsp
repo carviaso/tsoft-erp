@@ -32,7 +32,8 @@
 	      <div class="submit">	         
 	      
 	        	 <button tabindex="5" onclick ="javascript:PRS.login('#editForm')" ><img src="${imgPath}/portal/but-login_cn.gif" alt="登录" /></button> 
-		      <label><input type="checkbox" name="rememberMe" id="rememberMe" /> 记住登录名</label>                     
+		      <label><input type="checkbox" name="rememberMe" id="rememberMe" /> 记住登录名</label>    
+		      <a href="/PRS/sys/manage_ResetPasswordPage">忘记密码？</a>                 
              
           </div>
 	      <div class="line">&nbsp;</div>         
