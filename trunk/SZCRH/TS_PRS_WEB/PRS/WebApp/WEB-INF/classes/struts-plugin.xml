@@ -42,14 +42,15 @@
 	<package name="SystemControl" extends="json-default" namespace="/">
 		 <action name="*_*" class="{1}Action" method="{2}">
 		 	<result name="success" type="json"></result>
-		 	<result name="error">/jsp/Error_ResultPage.jsp</result>
-		 	<result name="regist_success">/jsp/Regist_ResultPage.jsp</result>
+		 	<result name="error">/jsp/manage/Error_ResultPage.jsp</result>
+		 	<result name="regist_success">/jsp/manage/Regist_ResultPage.jsp</result>
 		 </action>
 	</package>
 	<package name="BusinessControl" extends="struts-default" namespace="/bus">
 		<action name="*_*_*" class="{2}Action" method="{3}">
 			<result name="success">/jsp/{1}/{2}_{3}.jsp</result>
-			<result name="error">/jsp/Error_ResultPage.jsp</result>
+			<result name="error">/jsp/manage/Error_ResultPage.jsp</result>
+			<result name="reset_success">/jsp/manage/Reset_ResultPage.jsp</result>
 		</action> 
 	</package>
 </struts>
