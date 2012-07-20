@@ -21,12 +21,22 @@ public class OperatorDao extends JdbcDaoSupport {
 	public void AddOper(OperatorInfo operInfo) throws DataAccessException,BusinessException
 	{
 		Object [] params = new Object[]{operInfo.getPassword(),operInfo.getUsername(),operInfo.getId()};
-		if(this.getJdbcTemplate().update("insert into PRS_Operator values(?,?,?)",params)<=0)
+		if(this.getJdbcTemplate().update("insert into PRS_Operator values(?,?,?,'oper')",params)<=0)
 		{
 			throw new BusinessException("数据库操作失败，请联系系统管理员！");
 		}
 			
 		
+	}
+	
+	
+	public void ResetPassword(OperatorInfo operInfo) throws DataAccessException,BusinessException
+	{
+		Object [] params = new Object[]{operInfo.getPassword(),operInfo.getId()};
+		if(this.getJdbcTemplate().update("Update PRS_Operator set password = ? where id = ?",params)<=0)
+		{
+			throw new BusinessException("数据库操作失败，请联系系统管理员！");
+		}
 	}
 	
 	/**

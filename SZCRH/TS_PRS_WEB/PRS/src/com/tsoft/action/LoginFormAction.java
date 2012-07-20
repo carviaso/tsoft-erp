@@ -13,6 +13,7 @@ import com.tsoft.Info.MemberAllowInfo;
 import com.tsoft.Info.MembersInfo;
 import com.tsoft.Info.OperatorInfo;
 import com.tsoft.Info.ResultInfo;
+import com.tsoft.exception.BusinessException;
 import com.tsoft.service.MemberAllowService;
 import com.tsoft.service.MembersService;
 import com.tsoft.service.OperatorService;
@@ -88,6 +89,9 @@ public class LoginFormAction extends ActionSupport {
 			result.setActionUrl("loginForm.action");
 			ServletActionContext.getRequest().setAttribute("resultInfo",
 					result);
+			return ERROR;
+		} catch (BusinessException e) {
+			// TODO Auto-generated catch block
 			return ERROR;
 		}
 	}

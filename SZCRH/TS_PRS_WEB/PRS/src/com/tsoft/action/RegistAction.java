@@ -31,6 +31,7 @@ public class RegistAction extends ActionSupport{
 
 	private String password;
 	private static final String REGIST_SUCCESS = "regist_success";
+	private static final String RESET_SUCCESS = "reset_success";
 	private static final String ADMIN_SUCCESS = "admin_success";
 
 	//是否成功的标志
@@ -41,6 +42,32 @@ public class RegistAction extends ActionSupport{
 	private MembersService membersService;
 	private ContentService contentService;
 	
+	public String restPassword(){
+		OperatorInfo operInfo = new OperatorInfo(); 
+		operInfo.setId(userid);
+		operInfo.setPassword(password);
+		try {
+			operatorService.ResetPassword(operInfo);
+			flag = "true"; 
+			MembersInfo mi  = new MembersInfo();
+			mi.setId(operInfo.getId());
+			mi= membersService.GetMemberInfo(mi);			
+			ServletActionContext.getRequest().setAttribute("user",mi);
+			return RESET_SUCCESS; 
+		} catch (DataAccessException e) {
+			flag = "false";
+			msg = "服务器忙，请稍后再试。"; 
+			return SUCCESS;
+		} catch (BusinessException e) {
+			flag = "false";
+			msg = e.getMessage();
+			return SUCCESS;
+		} catch(Exception ae)
+		{
+			return ERROR;
+		} 
+		
+	}
 	/**
 	 * @category校验用户是否存在
 	 * @return
