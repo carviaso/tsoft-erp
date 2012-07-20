@@ -45,6 +45,14 @@ public class OperatorServiceImpl implements OperatorService {
 		return operatorDao.CheckOperatorId(operInfo);
 	}
 
+
+	@Override
+	public void ResetPassword(OperatorInfo operInfo)
+			throws DataAccessException, BusinessException {
+		operatorDao.ResetPassword(operInfo);
+		
+	}
+
  
 	
  

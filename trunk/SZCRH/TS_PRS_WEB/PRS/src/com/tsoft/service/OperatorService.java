@@ -10,6 +10,8 @@ public interface OperatorService {
 	
 	public void AddOper(OperatorInfo operInfo) throws DataAccessException,BusinessException;
 	
+	public void ResetPassword(OperatorInfo operInfo) throws DataAccessException,BusinessException;
+	
 	public OperatorInfo GetOperatorInfo(OperatorInfo operInfo) throws DataAccessException,BusinessException;
 	
 	public Boolean CheckOperatorName(OperatorInfo operInfo);
