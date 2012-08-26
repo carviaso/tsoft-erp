@@ -1,0 +1,358 @@
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.Sys.Platform.Forms.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.Sys.Platform.Forms.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.PRS.MemberMan.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.Sys.DBLayer.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.Sys.Domain.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.Sys.Platform.BaseData.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.Sys.Platform.Business.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.Sys.Platform.Exceptions.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.Sys.Platform.SecuAccess.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.Sys.Platform.SysInfo.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.Sys.Platform.Widgets.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.Sys.Session.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.Sys.Util.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.PRS.MemberMan.Adapter.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.PRS.MemberMan.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.Sys.DBLayer.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.Sys.Domain.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.Sys.Platform.BaseData.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.Sys.Platform.Business.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.Sys.Platform.Exceptions.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.Sys.Platform.SecuAccess.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.Sys.Platform.SysInfo.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.Sys.Session.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.Sys.Util.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.PRS.MemberMan.Adapter.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Platform.Forms\obj\Release\ResolveAssemblyReference.cache
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.BaseDataForms.AccountForm.resources
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.BaseDataForms.AccountDetailForm.resources
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.BaseDataForms.BankAccountForm.resources
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.BaseDataForms.BankAccountDetailForm.resources
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.BaseDataForms.CustomerForm.resources
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.BaseDataForms.CustomerDetailForm.resources
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.BaseDataForms.DepartmentForm.resources
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.BaseDataForms.DepartmentDetailForm.resources
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.BaseDataForms.EmployeeForm.resources
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.BaseDataForms.EmployeeDetailForm.resources
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.BaseDataForms.FaTypeForm.resources
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.BaseDataForms.FaTypeDetailForm.resources
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.BaseDataForms.RegionForm.resources
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.BaseDataForms.RegionDetailForm.resources
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.MemberMan.MemberAllowDetailForm.resources
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.MemberMan.MemberAllowListForm.resources
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.MemberMan.MemberListFilterForm.resources
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.MemberMan.MemberRecommendForm.resources
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.MenuListTest.MenuContext.resources
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.SysForms.ProcessBarForm.resources
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.SysManager.RoleForm.resources
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.SysManager.RoleDetailForm.resources
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Forms.BusinessForm.BS.SettleTypeForm.resources
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Forms.BusinessForm.BS.SettleTypeDetailForm.resources
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.BaseDataForms.SupplyForm.resources
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.BaseDataForms.SupplyDetailForm.resources
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.LoginForm.resources
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.MainForm.resources
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.MemberMan.MemberDetailForm.resources
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.MemberMan.MemberListForm.resources
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.MenuBaseTest.resources
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.Properties.Resources.resources
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.SysManager.RoleSecuForm.resources
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.SysManager.UserForm.resources
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.SysManager.UserDetailForm.resources
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.SysManager.UserModifyPwdForm.resources
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.WelcomeForm.resources
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Platform.Forms\obj\Release\GenerateResource.read.1.tlog
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Platform.Forms\obj\Release\GenerateResource.write.1.tlog
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.MemberMan.MemberAllowFomula.resources
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.MemberMan.MemberTest.resources
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.Sys.Platform.Widgets.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.Sys.Platform.Forms.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.Sys.Platform.Forms.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.PRS.MemberMan.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.Sys.DBLayer.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.Sys.Domain.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.Sys.Platform.BaseData.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.Sys.Platform.Business.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.Sys.Platform.Exceptions.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.Sys.Platform.SecuAccess.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.Sys.Platform.SysInfo.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.Sys.Platform.Widgets.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.Sys.Session.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.Sys.Util.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.PRS.MemberMan.Adapter.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.PRS.MemberMan.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.Sys.DBLayer.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.Sys.Domain.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.Sys.Platform.BaseData.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.Sys.Platform.Business.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.Sys.Platform.Exceptions.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.Sys.Platform.SecuAccess.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.Sys.Platform.SysInfo.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.Sys.Session.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.Sys.Util.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.Sys.Platform.Widgets.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.PRS.MemberMan.Adapter.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\ResolveAssemblyReference.cache
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.BaseDataForms.AccountForm.resources
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.BaseDataForms.AccountDetailForm.resources
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.BaseDataForms.BankAccountForm.resources
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.BaseDataForms.BankAccountDetailForm.resources
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.BaseDataForms.CustomerForm.resources
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.BaseDataForms.CustomerDetailForm.resources
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.BaseDataForms.DepartmentForm.resources
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.BaseDataForms.DepartmentDetailForm.resources
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.BaseDataForms.EmployeeForm.resources
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.BaseDataForms.EmployeeDetailForm.resources
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.BaseDataForms.FaTypeForm.resources
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.BaseDataForms.FaTypeDetailForm.resources
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.BaseDataForms.RegionForm.resources
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.BaseDataForms.RegionDetailForm.resources
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.MemberMan.MemberAllowDetailForm.resources
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.MemberMan.MemberAllowFomula.resources
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.MemberMan.MemberAllowListForm.resources
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.MemberMan.MemberListFilterForm.resources
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.MemberMan.MemberRecommendForm.resources
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.MemberMan.MemberTest.resources
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.MenuListTest.MenuContext.resources
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.SysForms.ProcessBarForm.resources
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.SysManager.RoleForm.resources
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.SysManager.RoleDetailForm.resources
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Forms.BusinessForm.BS.SettleTypeForm.resources
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Forms.BusinessForm.BS.SettleTypeDetailForm.resources
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.BaseDataForms.SupplyForm.resources
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.BaseDataForms.SupplyDetailForm.resources
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.LoginForm.resources
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.MainForm.resources
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.MemberMan.MemberDetailForm.resources
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.MemberMan.MemberListForm.resources
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.MenuBaseTest.resources
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.Properties.Resources.resources
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.SysManager.RoleSecuForm.resources
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.SysManager.UserForm.resources
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.SysManager.UserDetailForm.resources
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.SysManager.UserModifyPwdForm.resources
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.WelcomeForm.resources
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\GenerateResource.read.1.tlog
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\GenerateResource.write.1.tlog
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.pdb
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.Sys.Platform.Forms.dll
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.Sys.Platform.Forms.pdb
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.PRS.MemberMan.dll
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.Sys.DBLayer.dll
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.Sys.Domain.dll
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.Sys.Platform.BaseData.dll
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.Sys.Platform.Business.dll
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.Sys.Platform.Exceptions.dll
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.Sys.Platform.SecuAccess.dll
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.Sys.Platform.SysInfo.dll
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.Sys.Platform.Widgets.dll
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.Sys.Session.dll
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.Sys.Util.dll
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.PRS.MemberMan.Adapter.dll
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.PRS.MemberMan.pdb
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.Sys.DBLayer.pdb
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.Sys.Domain.pdb
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.Sys.Platform.BaseData.pdb
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.Sys.Platform.Business.pdb
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.Sys.Platform.Exceptions.pdb
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.Sys.Platform.SecuAccess.pdb
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.Sys.Platform.SysInfo.pdb
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.Sys.Session.pdb
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.Sys.Util.pdb
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.Sys.Platform.Widgets.pdb
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.PRS.MemberMan.Adapter.pdb
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\ResolveAssemblyReference.cache
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.BaseDataForms.AccountForm.resources
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.BaseDataForms.AccountDetailForm.resources
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.BaseDataForms.BankAccountForm.resources
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.BaseDataForms.BankAccountDetailForm.resources
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.BaseDataForms.CustomerForm.resources
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.BaseDataForms.CustomerDetailForm.resources
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.BaseDataForms.DepartmentForm.resources
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.BaseDataForms.DepartmentDetailForm.resources
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.BaseDataForms.EmployeeForm.resources
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.BaseDataForms.EmployeeDetailForm.resources
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.BaseDataForms.FaTypeForm.resources
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.BaseDataForms.FaTypeDetailForm.resources
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.BaseDataForms.RegionForm.resources
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.BaseDataForms.RegionDetailForm.resources
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.MemberMan.MemberAllowDetailForm.resources
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.MemberMan.MemberAllowFomula.resources
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.MemberMan.MemberAllowListForm.resources
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.MemberMan.MemberListFilterForm.resources
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.MemberMan.MemberRecommendForm.resources
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.MemberMan.MemberTest.resources
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.MenuListTest.MenuContext.resources
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.SysForms.ProcessBarForm.resources
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.SysManager.RoleForm.resources
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.SysManager.RoleDetailForm.resources
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Forms.BusinessForm.BS.SettleTypeForm.resources
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Forms.BusinessForm.BS.SettleTypeDetailForm.resources
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.BaseDataForms.SupplyForm.resources
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.BaseDataForms.SupplyDetailForm.resources
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.LoginForm.resources
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.MainForm.resources
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.MemberMan.MemberDetailForm.resources
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.MemberMan.MemberListForm.resources
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.MenuBaseTest.resources
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.Properties.Resources.resources
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.SysManager.RoleSecuForm.resources
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.SysManager.UserForm.resources
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.SysManager.UserDetailForm.resources
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.SysManager.UserModifyPwdForm.resources
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.WelcomeForm.resources
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\GenerateResource.read.1.tlog
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\GenerateResource.write.1.tlog
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.dll
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.pdb
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.Sys.Platform.Forms.dll
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.Sys.Platform.Forms.pdb
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.PRS.MemberMan.dll
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.Sys.DBLayer.dll
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.Sys.Domain.dll
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.Sys.Platform.BaseData.dll
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.Sys.Platform.Business.dll
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.Sys.Platform.Exceptions.dll
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.Sys.Platform.SecuAccess.dll
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.Sys.Platform.SysInfo.dll
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.Sys.Platform.Widgets.dll
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.Sys.Session.dll
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.Sys.Util.dll
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.PRS.MemberMan.Adapter.dll
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.PRS.MemberMan.pdb
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.Sys.DBLayer.pdb
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.Sys.Domain.pdb
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.Sys.Platform.BaseData.pdb
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.Sys.Platform.Business.pdb
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.Sys.Platform.Exceptions.pdb
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.Sys.Platform.SecuAccess.pdb
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.Sys.Platform.SysInfo.pdb
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.Sys.Session.pdb
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.Sys.Util.pdb
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.Sys.Platform.Widgets.pdb
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.PRS.MemberMan.Adapter.pdb
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\ResolveAssemblyReference.cache
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.BaseDataForms.AccountForm.resources
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.BaseDataForms.AccountDetailForm.resources
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.BaseDataForms.BankAccountForm.resources
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.BaseDataForms.BankAccountDetailForm.resources
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.BaseDataForms.CustomerForm.resources
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.BaseDataForms.CustomerDetailForm.resources
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.BaseDataForms.DepartmentForm.resources
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.BaseDataForms.DepartmentDetailForm.resources
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.BaseDataForms.EmployeeForm.resources
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.BaseDataForms.EmployeeDetailForm.resources
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.BaseDataForms.FaTypeForm.resources
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.BaseDataForms.FaTypeDetailForm.resources
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.BaseDataForms.RegionForm.resources
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.BaseDataForms.RegionDetailForm.resources
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.MemberMan.MemberAllowDetailForm.resources
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.MemberMan.MemberAllowFomula.resources
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.MemberMan.MemberAllowListForm.resources
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.MemberMan.MemberListFilterForm.resources
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.MemberMan.MemberRecommendForm.resources
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.MemberMan.MemberTest.resources
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.MenuListTest.MenuContext.resources
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.SysForms.ProcessBarForm.resources
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.SysManager.RoleForm.resources
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.SysManager.RoleDetailForm.resources
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Forms.BusinessForm.BS.SettleTypeForm.resources
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Forms.BusinessForm.BS.SettleTypeDetailForm.resources
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.BaseDataForms.SupplyForm.resources
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.BaseDataForms.SupplyDetailForm.resources
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.LoginForm.resources
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.MainForm.resources
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.MemberMan.MemberDetailForm.resources
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.MemberMan.MemberListForm.resources
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.MenuBaseTest.resources
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.Properties.Resources.resources
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.SysManager.RoleSecuForm.resources
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.SysManager.UserForm.resources
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.SysManager.UserDetailForm.resources
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.SysManager.UserModifyPwdForm.resources
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.WelcomeForm.resources
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\GenerateResource.read.1.tlog
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\GenerateResource.write.1.tlog
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.dll
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.pdb
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.MemberMan.MemberSalaryDetailForm.resources
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.MemberMan.MemberSalaryListForm.resources
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.MemberMan.MemberSalaryDetailForm.resources
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.MemberMan.MemberSalaryListForm.resources
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.MemberMan.MemberImportForm.resources
+D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.Sys.Platform.Forms.dll
+D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.Sys.Platform.Forms.pdb
+D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.PRS.MemberMan.dll
+D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.Sys.DBLayer.dll
+D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.Sys.Domain.dll
+D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.Sys.Platform.BaseData.dll
+D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.Sys.Platform.Business.dll
+D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.Sys.Platform.Exceptions.dll
+D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.Sys.Platform.SecuAccess.dll
+D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.Sys.Platform.SysInfo.dll
+D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.Sys.Platform.Widgets.dll
+D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.Sys.Session.dll
+D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.Sys.Util.dll
+D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.PRS.MemberMan.Adapter.dll
+D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.PRS.MemberMan.pdb
+D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.Sys.DBLayer.pdb
+D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.Sys.Domain.pdb
+D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.Sys.Platform.BaseData.pdb
+D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.Sys.Platform.Business.pdb
+D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.Sys.Platform.Exceptions.pdb
+D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.Sys.Platform.SecuAccess.pdb
+D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.Sys.Platform.SysInfo.pdb
+D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.Sys.Session.pdb
+D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.Sys.Util.pdb
+D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.Sys.Platform.Widgets.pdb
+D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.Platform.Forms\bin\Release\TS.PRS.MemberMan.Adapter.pdb
+D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.Platform.Forms\obj\Release\ResolveAssemblyReference.cache
+D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.BaseDataForms.AccountForm.resources
+D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.BaseDataForms.AccountDetailForm.resources
+D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.BaseDataForms.BankAccountForm.resources
+D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.BaseDataForms.BankAccountDetailForm.resources
+D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.BaseDataForms.CustomerForm.resources
+D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.BaseDataForms.CustomerDetailForm.resources
+D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.BaseDataForms.DepartmentForm.resources
+D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.BaseDataForms.DepartmentDetailForm.resources
+D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.BaseDataForms.EmployeeForm.resources
+D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.BaseDataForms.EmployeeDetailForm.resources
+D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.BaseDataForms.FaTypeForm.resources
+D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.BaseDataForms.FaTypeDetailForm.resources
+D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.BaseDataForms.RegionForm.resources
+D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.BaseDataForms.RegionDetailForm.resources
+D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.MemberMan.MemberAllowDetailForm.resources
+D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.MemberMan.MemberAllowFomula.resources
+D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.MemberMan.MemberAllowListForm.resources
+D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.MemberMan.MemberImportForm.resources
+D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.MemberMan.MemberListFilterForm.resources
+D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.MemberMan.MemberRecommendForm.resources
+D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.MemberMan.MemberSalaryDetailForm.resources
+D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.MemberMan.MemberSalaryListForm.resources
+D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.MemberMan.MemberTest.resources
+D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.MenuListTest.MenuContext.resources
+D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.SysForms.ProcessBarForm.resources
+D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.SysManager.RoleForm.resources
+D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.SysManager.RoleDetailForm.resources
+D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Forms.BusinessForm.BS.SettleTypeForm.resources
+D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Forms.BusinessForm.BS.SettleTypeDetailForm.resources
+D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.BaseDataForms.SupplyForm.resources
+D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.BaseDataForms.SupplyDetailForm.resources
+D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.LoginForm.resources
+D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.MainForm.resources
+D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.MemberMan.MemberDetailForm.resources
+D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.MemberMan.MemberListForm.resources
+D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.MenuBaseTest.resources
+D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.Properties.Resources.resources
+D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.SysManager.RoleSecuForm.resources
+D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.SysManager.UserForm.resources
+D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.SysManager.UserDetailForm.resources
+D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.SysManager.UserModifyPwdForm.resources
+D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.WelcomeForm.resources
+D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.Platform.Forms\obj\Release\GenerateResource.read.1.tlog
+D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.Platform.Forms\obj\Release\GenerateResource.write.1.tlog
+D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.dll
+D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.Platform.Forms\obj\Release\TS.Sys.Platform.Forms.pdb

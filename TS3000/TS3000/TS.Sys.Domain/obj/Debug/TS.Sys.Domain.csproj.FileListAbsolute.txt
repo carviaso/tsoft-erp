@@ -1,0 +1,5 @@
+D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Domain\bin\Debug\TS.Sys.Domain.dll
+D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Domain\bin\Debug\TS.Sys.Domain.pdb
+D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Domain\obj\Debug\ResolveAssemblyReference.cache
+D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Domain\obj\Debug\TS.Sys.Domain.dll
+D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Domain\obj\Debug\TS.Sys.Domain.pdb
