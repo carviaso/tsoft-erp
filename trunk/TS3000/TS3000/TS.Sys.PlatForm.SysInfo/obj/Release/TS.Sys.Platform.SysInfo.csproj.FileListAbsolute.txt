@@ -1,0 +1,105 @@
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.PlatForm.SysInfo\bin\Release\TS.Sys.Platform.SysInfo.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.PlatForm.SysInfo\bin\Release\TS.Sys.Platform.SysInfo.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.PlatForm.SysInfo\bin\Release\TS.Sys.DBLayer.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.PlatForm.SysInfo\bin\Release\TS.Sys.Domain.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.PlatForm.SysInfo\bin\Release\TS.Sys.Platform.Business.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.PlatForm.SysInfo\bin\Release\TS.Sys.Platform.Exceptions.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.PlatForm.SysInfo\bin\Release\TS.Sys.Session.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.PlatForm.SysInfo\bin\Release\TS.Sys.Util.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.PlatForm.SysInfo\bin\Release\TS.Sys.Platform.Widgets.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.PlatForm.SysInfo\bin\Release\TS.Sys.Platform.SecuAccess.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.PlatForm.SysInfo\bin\Release\TS.Sys.DBLayer.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.PlatForm.SysInfo\bin\Release\TS.Sys.Domain.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.PlatForm.SysInfo\bin\Release\TS.Sys.Platform.Business.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.PlatForm.SysInfo\bin\Release\TS.Sys.Platform.Exceptions.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.PlatForm.SysInfo\bin\Release\TS.Sys.Session.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.PlatForm.SysInfo\bin\Release\TS.Sys.Util.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.PlatForm.SysInfo\bin\Release\TS.Sys.Platform.SecuAccess.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.PlatForm.SysInfo\obj\Release\ResolveAssemblyReference.cache
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.PlatForm.SysInfo\obj\Release\TS.Sys.Platform.SysInfo.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.PlatForm.SysInfo\obj\Release\TS.Sys.Platform.SysInfo.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.PlatForm.SysInfo\bin\Release\TS.Sys.Platform.Widgets.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.PlatForm.SysInfo\bin\Release\TS.Sys.Platform.SysInfo.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.PlatForm.SysInfo\bin\Release\TS.Sys.Platform.SysInfo.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.PlatForm.SysInfo\bin\Release\TS.Sys.DBLayer.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.PlatForm.SysInfo\bin\Release\TS.Sys.Domain.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.PlatForm.SysInfo\bin\Release\TS.Sys.Platform.Business.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.PlatForm.SysInfo\bin\Release\TS.Sys.Platform.Exceptions.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.PlatForm.SysInfo\bin\Release\TS.Sys.Session.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.PlatForm.SysInfo\bin\Release\TS.Sys.Util.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.PlatForm.SysInfo\bin\Release\TS.Sys.Platform.Widgets.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.PlatForm.SysInfo\bin\Release\TS.Sys.Platform.SecuAccess.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.PlatForm.SysInfo\bin\Release\TS.Sys.DBLayer.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.PlatForm.SysInfo\bin\Release\TS.Sys.Domain.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.PlatForm.SysInfo\bin\Release\TS.Sys.Platform.Business.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.PlatForm.SysInfo\bin\Release\TS.Sys.Platform.Exceptions.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.PlatForm.SysInfo\bin\Release\TS.Sys.Session.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.PlatForm.SysInfo\bin\Release\TS.Sys.Util.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.PlatForm.SysInfo\bin\Release\TS.Sys.Platform.Widgets.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.PlatForm.SysInfo\bin\Release\TS.Sys.Platform.SecuAccess.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.PlatForm.SysInfo\obj\Release\ResolveAssemblyReference.cache
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.PlatForm.SysInfo\obj\Release\TS.Sys.Platform.SysInfo.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.PlatForm.SysInfo\obj\Release\TS.Sys.Platform.SysInfo.pdb
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.PlatForm.SysInfo\bin\Release\TS.Sys.Platform.SysInfo.dll
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.PlatForm.SysInfo\bin\Release\TS.Sys.Platform.SysInfo.pdb
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.PlatForm.SysInfo\bin\Release\TS.Sys.DBLayer.dll
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.PlatForm.SysInfo\bin\Release\TS.Sys.Domain.dll
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.PlatForm.SysInfo\bin\Release\TS.Sys.Platform.Business.dll
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.PlatForm.SysInfo\bin\Release\TS.Sys.Platform.Exceptions.dll
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.PlatForm.SysInfo\bin\Release\TS.Sys.Session.dll
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.PlatForm.SysInfo\bin\Release\TS.Sys.Util.dll
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.PlatForm.SysInfo\bin\Release\TS.Sys.Platform.SecuAccess.dll
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.PlatForm.SysInfo\bin\Release\TS.Sys.Platform.Widgets.dll
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.PlatForm.SysInfo\bin\Release\TS.Sys.DBLayer.pdb
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.PlatForm.SysInfo\bin\Release\TS.Sys.Domain.pdb
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.PlatForm.SysInfo\bin\Release\TS.Sys.Platform.Business.pdb
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.PlatForm.SysInfo\bin\Release\TS.Sys.Platform.Exceptions.pdb
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.PlatForm.SysInfo\bin\Release\TS.Sys.Session.pdb
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.PlatForm.SysInfo\bin\Release\TS.Sys.Util.pdb
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.PlatForm.SysInfo\bin\Release\TS.Sys.Platform.SecuAccess.pdb
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.PlatForm.SysInfo\bin\Release\TS.Sys.Platform.Widgets.pdb
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.PlatForm.SysInfo\obj\Release\ResolveAssemblyReference.cache
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.PlatForm.SysInfo\obj\Release\TS.Sys.Platform.SysInfo.dll
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.PlatForm.SysInfo\obj\Release\TS.Sys.Platform.SysInfo.pdb
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.PlatForm.SysInfo\bin\Release\TS.Sys.Platform.SysInfo.dll
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.PlatForm.SysInfo\bin\Release\TS.Sys.Platform.SysInfo.pdb
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.PlatForm.SysInfo\bin\Release\TS.Sys.DBLayer.dll
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.PlatForm.SysInfo\bin\Release\TS.Sys.Domain.dll
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.PlatForm.SysInfo\bin\Release\TS.Sys.Platform.Business.dll
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.PlatForm.SysInfo\bin\Release\TS.Sys.Platform.Exceptions.dll
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.PlatForm.SysInfo\bin\Release\TS.Sys.Session.dll
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.PlatForm.SysInfo\bin\Release\TS.Sys.Util.dll
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.PlatForm.SysInfo\bin\Release\TS.Sys.Platform.Widgets.dll
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.PlatForm.SysInfo\bin\Release\TS.Sys.Platform.SecuAccess.dll
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.PlatForm.SysInfo\bin\Release\TS.Sys.DBLayer.pdb
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.PlatForm.SysInfo\bin\Release\TS.Sys.Domain.pdb
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.PlatForm.SysInfo\bin\Release\TS.Sys.Platform.Business.pdb
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.PlatForm.SysInfo\bin\Release\TS.Sys.Platform.Exceptions.pdb
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.PlatForm.SysInfo\bin\Release\TS.Sys.Session.pdb
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.PlatForm.SysInfo\bin\Release\TS.Sys.Util.pdb
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.PlatForm.SysInfo\bin\Release\TS.Sys.Platform.Widgets.pdb
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.PlatForm.SysInfo\bin\Release\TS.Sys.Platform.SecuAccess.pdb
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.PlatForm.SysInfo\obj\Release\ResolveAssemblyReference.cache
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.PlatForm.SysInfo\obj\Release\TS.Sys.Platform.SysInfo.dll
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.PlatForm.SysInfo\obj\Release\TS.Sys.Platform.SysInfo.pdb
+D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.PlatForm.SysInfo\bin\Release\TS.Sys.Platform.SysInfo.dll
+D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.PlatForm.SysInfo\bin\Release\TS.Sys.Platform.SysInfo.pdb
+D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.PlatForm.SysInfo\bin\Release\TS.Sys.DBLayer.dll
+D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.PlatForm.SysInfo\bin\Release\TS.Sys.Domain.dll
+D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.PlatForm.SysInfo\bin\Release\TS.Sys.Platform.Business.dll
+D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.PlatForm.SysInfo\bin\Release\TS.Sys.Platform.Exceptions.dll
+D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.PlatForm.SysInfo\bin\Release\TS.Sys.Session.dll
+D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.PlatForm.SysInfo\bin\Release\TS.Sys.Util.dll
+D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.PlatForm.SysInfo\bin\Release\TS.Sys.Platform.Widgets.dll
+D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.PlatForm.SysInfo\bin\Release\TS.Sys.Platform.SecuAccess.dll
+D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.PlatForm.SysInfo\bin\Release\TS.Sys.DBLayer.pdb
+D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.PlatForm.SysInfo\bin\Release\TS.Sys.Domain.pdb
+D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.PlatForm.SysInfo\bin\Release\TS.Sys.Platform.Business.pdb
+D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.PlatForm.SysInfo\bin\Release\TS.Sys.Platform.Exceptions.pdb
+D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.PlatForm.SysInfo\bin\Release\TS.Sys.Session.pdb
+D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.PlatForm.SysInfo\bin\Release\TS.Sys.Util.pdb
+D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.PlatForm.SysInfo\bin\Release\TS.Sys.Platform.Widgets.pdb
+D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.PlatForm.SysInfo\bin\Release\TS.Sys.Platform.SecuAccess.pdb
+D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.PlatForm.SysInfo\obj\Release\ResolveAssemblyReference.cache
+D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.PlatForm.SysInfo\obj\Release\TS.Sys.Platform.SysInfo.dll
+D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.PlatForm.SysInfo\obj\Release\TS.Sys.Platform.SysInfo.pdb

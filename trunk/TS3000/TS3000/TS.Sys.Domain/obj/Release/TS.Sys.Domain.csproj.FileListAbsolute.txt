@@ -1,0 +1,25 @@
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Domain\bin\Release\TS.Sys.Domain.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Domain\bin\Release\TS.Sys.Domain.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Domain\obj\Release\ResolveAssemblyReference.cache
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Domain\obj\Release\TS.Sys.Domain.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\TS.Sys.Domain\obj\Release\TS.Sys.Domain.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Domain\bin\Release\TS.Sys.Domain.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Domain\bin\Release\TS.Sys.Domain.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Domain\obj\Release\ResolveAssemblyReference.cache
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Domain\obj\Release\TS.Sys.Domain.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Domain\obj\Release\TS.Sys.Domain.pdb
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.Domain\bin\Release\TS.Sys.Domain.dll
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.Domain\bin\Release\TS.Sys.Domain.pdb
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.Domain\obj\Release\ResolveAssemblyReference.cache
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.Domain\obj\Release\TS.Sys.Domain.dll
+D:\Working\TSoft\苏州川润\TS_PRS\TS.Sys.Domain\obj\Release\TS.Sys.Domain.pdb
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Domain\bin\Release\TS.Sys.Domain.dll
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Domain\bin\Release\TS.Sys.Domain.pdb
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Domain\obj\Release\ResolveAssemblyReference.cache
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Domain\obj\Release\TS.Sys.Domain.dll
+I:\TSoft Projects\苏州川润\TS_PRS\TS.Sys.Domain\obj\Release\TS.Sys.Domain.pdb
+D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.Domain\bin\Release\TS.Sys.Domain.dll
+D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.Domain\bin\Release\TS.Sys.Domain.pdb
+D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.Domain\obj\Release\ResolveAssemblyReference.cache
+D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.Domain\obj\Release\TS.Sys.Domain.dll
+D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.Domain\obj\Release\TS.Sys.Domain.pdb

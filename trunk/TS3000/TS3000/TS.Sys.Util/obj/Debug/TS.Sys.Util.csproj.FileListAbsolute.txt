@@ -1,0 +1,9 @@
+D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Util\bin\Debug\TS.Sys.Util.dll
+D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Util\bin\Debug\TS.Sys.Util.pdb
+D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Util\bin\Debug\TS.Sys.Domain.dll
+D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Util\bin\Debug\TS.Sys.Platform.Exceptions.dll
+D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Util\bin\Debug\TS.Sys.Domain.pdb
+D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Util\bin\Debug\TS.Sys.Platform.Exceptions.pdb
+D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Util\obj\Debug\ResolveAssemblyReference.cache
+D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Util\obj\Debug\TS.Sys.Util.dll
+D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Util\obj\Debug\TS.Sys.Util.pdb

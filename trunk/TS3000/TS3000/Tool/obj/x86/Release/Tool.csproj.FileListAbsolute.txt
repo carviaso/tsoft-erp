@@ -1,0 +1,105 @@
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\Tool\bin\Release\Tool.exe
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\Tool\bin\Release\Tool.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\Tool\bin\Release\TS.Sys.DBLayer.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\Tool\bin\Release\TS.Sys.Platform.Widgets.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\Tool\bin\Release\TS.Sys.Util.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\Tool\bin\Release\TS.Sys.Domain.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\Tool\bin\Release\TS.Sys.Platform.Exceptions.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\Tool\bin\Release\TS.Sys.Util.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\Tool\bin\Release\TS.Sys.DBLayer.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\Tool\bin\Release\TS.Sys.Domain.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\Tool\bin\Release\TS.Sys.Platform.Exceptions.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\Tool\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\Tool\obj\x86\Release\Tool.Form1.resources
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\Tool\obj\x86\Release\Tool.Form2.resources
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\Tool\obj\x86\Release\Tool.Form3.resources
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\Tool\obj\x86\Release\Tool.Properties.Resources.resources
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\Tool\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\Tool\obj\x86\Release\GenerateResource.write.1.tlog
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\Tool\obj\x86\Release\Tool.exe
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\Tool\obj\x86\Release\Tool.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润人力资源管理系统\TS_PRS\Tool\bin\Release\TS.Sys.Platform.Widgets.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\Tool\bin\Release\Tool.exe
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\Tool\bin\Release\Tool.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\Tool\bin\Release\TS.Sys.DBLayer.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\Tool\bin\Release\TS.Sys.Platform.Widgets.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\Tool\bin\Release\TS.Sys.Util.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\Tool\bin\Release\TS.Sys.Domain.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\Tool\bin\Release\TS.Sys.Platform.Exceptions.dll
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\Tool\bin\Release\TS.Sys.Util.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\Tool\bin\Release\TS.Sys.Platform.Widgets.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\Tool\bin\Release\TS.Sys.DBLayer.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\Tool\bin\Release\TS.Sys.Domain.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\Tool\bin\Release\TS.Sys.Platform.Exceptions.pdb
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\Tool\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\Tool\obj\x86\Release\Tool.Form1.resources
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\Tool\obj\x86\Release\Tool.Form2.resources
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\Tool\obj\x86\Release\Tool.Form3.resources
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\Tool\obj\x86\Release\Tool.Properties.Resources.resources
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\Tool\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\Tool\obj\x86\Release\GenerateResource.write.1.tlog
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\Tool\obj\x86\Release\Tool.exe
+D:\Project Files\Work Projects\TSoft Projects\苏州川润\TS_PRS\Tool\obj\x86\Release\Tool.pdb
+D:\Working\TSoft\苏州川润\TS_PRS\Tool\bin\Release\Tool.exe
+D:\Working\TSoft\苏州川润\TS_PRS\Tool\bin\Release\Tool.pdb
+D:\Working\TSoft\苏州川润\TS_PRS\Tool\bin\Release\TS.Sys.DBLayer.dll
+D:\Working\TSoft\苏州川润\TS_PRS\Tool\bin\Release\TS.Sys.Platform.Widgets.dll
+D:\Working\TSoft\苏州川润\TS_PRS\Tool\bin\Release\TS.Sys.Util.dll
+D:\Working\TSoft\苏州川润\TS_PRS\Tool\bin\Release\TS.Sys.Domain.dll
+D:\Working\TSoft\苏州川润\TS_PRS\Tool\bin\Release\TS.Sys.Platform.Exceptions.dll
+D:\Working\TSoft\苏州川润\TS_PRS\Tool\bin\Release\TS.Sys.Util.pdb
+D:\Working\TSoft\苏州川润\TS_PRS\Tool\bin\Release\TS.Sys.Platform.Widgets.pdb
+D:\Working\TSoft\苏州川润\TS_PRS\Tool\bin\Release\TS.Sys.DBLayer.pdb
+D:\Working\TSoft\苏州川润\TS_PRS\Tool\bin\Release\TS.Sys.Domain.pdb
+D:\Working\TSoft\苏州川润\TS_PRS\Tool\bin\Release\TS.Sys.Platform.Exceptions.pdb
+D:\Working\TSoft\苏州川润\TS_PRS\Tool\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Working\TSoft\苏州川润\TS_PRS\Tool\obj\x86\Release\Tool.Form1.resources
+D:\Working\TSoft\苏州川润\TS_PRS\Tool\obj\x86\Release\Tool.Form2.resources
+D:\Working\TSoft\苏州川润\TS_PRS\Tool\obj\x86\Release\Tool.Form3.resources
+D:\Working\TSoft\苏州川润\TS_PRS\Tool\obj\x86\Release\Tool.Properties.Resources.resources
+D:\Working\TSoft\苏州川润\TS_PRS\Tool\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Working\TSoft\苏州川润\TS_PRS\Tool\obj\x86\Release\GenerateResource.write.1.tlog
+D:\Working\TSoft\苏州川润\TS_PRS\Tool\obj\x86\Release\Tool.exe
+D:\Working\TSoft\苏州川润\TS_PRS\Tool\obj\x86\Release\Tool.pdb
+I:\TSoft Projects\苏州川润\TS_PRS\Tool\bin\Release\Tool.exe
+I:\TSoft Projects\苏州川润\TS_PRS\Tool\bin\Release\Tool.pdb
+I:\TSoft Projects\苏州川润\TS_PRS\Tool\bin\Release\TS.Sys.DBLayer.dll
+I:\TSoft Projects\苏州川润\TS_PRS\Tool\bin\Release\TS.Sys.Platform.Widgets.dll
+I:\TSoft Projects\苏州川润\TS_PRS\Tool\bin\Release\TS.Sys.Util.dll
+I:\TSoft Projects\苏州川润\TS_PRS\Tool\bin\Release\TS.Sys.Domain.dll
+I:\TSoft Projects\苏州川润\TS_PRS\Tool\bin\Release\TS.Sys.Platform.Exceptions.dll
+I:\TSoft Projects\苏州川润\TS_PRS\Tool\bin\Release\TS.Sys.Util.pdb
+I:\TSoft Projects\苏州川润\TS_PRS\Tool\bin\Release\TS.Sys.Platform.Widgets.pdb
+I:\TSoft Projects\苏州川润\TS_PRS\Tool\bin\Release\TS.Sys.DBLayer.pdb
+I:\TSoft Projects\苏州川润\TS_PRS\Tool\bin\Release\TS.Sys.Domain.pdb
+I:\TSoft Projects\苏州川润\TS_PRS\Tool\bin\Release\TS.Sys.Platform.Exceptions.pdb
+I:\TSoft Projects\苏州川润\TS_PRS\Tool\obj\x86\Release\ResolveAssemblyReference.cache
+I:\TSoft Projects\苏州川润\TS_PRS\Tool\obj\x86\Release\Tool.Form1.resources
+I:\TSoft Projects\苏州川润\TS_PRS\Tool\obj\x86\Release\Tool.Form2.resources
+I:\TSoft Projects\苏州川润\TS_PRS\Tool\obj\x86\Release\Tool.Form3.resources
+I:\TSoft Projects\苏州川润\TS_PRS\Tool\obj\x86\Release\Tool.Properties.Resources.resources
+I:\TSoft Projects\苏州川润\TS_PRS\Tool\obj\x86\Release\GenerateResource.read.1.tlog
+I:\TSoft Projects\苏州川润\TS_PRS\Tool\obj\x86\Release\GenerateResource.write.1.tlog
+I:\TSoft Projects\苏州川润\TS_PRS\Tool\obj\x86\Release\Tool.exe
+I:\TSoft Projects\苏州川润\TS_PRS\Tool\obj\x86\Release\Tool.pdb
+D:\TSoft Projects\SZCRH\TS_PRS\Tool\bin\Release\Tool.exe
+D:\TSoft Projects\SZCRH\TS_PRS\Tool\bin\Release\Tool.pdb
+D:\TSoft Projects\SZCRH\TS_PRS\Tool\bin\Release\TS.Sys.DBLayer.dll
+D:\TSoft Projects\SZCRH\TS_PRS\Tool\bin\Release\TS.Sys.Platform.Widgets.dll
+D:\TSoft Projects\SZCRH\TS_PRS\Tool\bin\Release\TS.Sys.Util.dll
+D:\TSoft Projects\SZCRH\TS_PRS\Tool\bin\Release\TS.Sys.Platform.Exceptions.dll
+D:\TSoft Projects\SZCRH\TS_PRS\Tool\bin\Release\TS.Sys.Domain.dll
+D:\TSoft Projects\SZCRH\TS_PRS\Tool\bin\Release\TS.Sys.Util.pdb
+D:\TSoft Projects\SZCRH\TS_PRS\Tool\bin\Release\TS.Sys.Platform.Widgets.pdb
+D:\TSoft Projects\SZCRH\TS_PRS\Tool\bin\Release\TS.Sys.DBLayer.pdb
+D:\TSoft Projects\SZCRH\TS_PRS\Tool\bin\Release\TS.Sys.Platform.Exceptions.pdb
+D:\TSoft Projects\SZCRH\TS_PRS\Tool\bin\Release\TS.Sys.Domain.pdb
+D:\TSoft Projects\SZCRH\TS_PRS\Tool\obj\x86\Release\ResolveAssemblyReference.cache
+D:\TSoft Projects\SZCRH\TS_PRS\Tool\obj\x86\Release\Tool.Form1.resources
+D:\TSoft Projects\SZCRH\TS_PRS\Tool\obj\x86\Release\Tool.Form2.resources
+D:\TSoft Projects\SZCRH\TS_PRS\Tool\obj\x86\Release\Tool.Form3.resources
+D:\TSoft Projects\SZCRH\TS_PRS\Tool\obj\x86\Release\Tool.Properties.Resources.resources
+D:\TSoft Projects\SZCRH\TS_PRS\Tool\obj\x86\Release\GenerateResource.read.1.tlog
+D:\TSoft Projects\SZCRH\TS_PRS\Tool\obj\x86\Release\GenerateResource.write.1.tlog
+D:\TSoft Projects\SZCRH\TS_PRS\Tool\obj\x86\Release\Tool.exe
+D:\TSoft Projects\SZCRH\TS_PRS\Tool\obj\x86\Release\Tool.pdb
