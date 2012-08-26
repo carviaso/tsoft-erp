@@ -1,0 +1,18 @@
+用户名：1131302008@QQ.com  密码：abcde1
+http://www.netjsp.com
+
+Ｆ Ｔ Ｐ
+服 务 器：u01.netjsp.com 
+端    口：21 
+帐    号：za00036 
+密    码：i0H9Njvc 
+根 路 径：/home/za00036 
+
+数 据 库
+管理地址： 
+类    型：SQL Server 2008 
+服 务 器：mssql1.netjsp.com 
+库 名 称：za00036 
+端    口：1433 
+帐    号：za00036 
+密    码：i0H9Njvc 
