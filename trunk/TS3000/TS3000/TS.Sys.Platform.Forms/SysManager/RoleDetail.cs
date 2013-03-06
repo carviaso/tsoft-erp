@@ -37,22 +37,21 @@ namespace TS.Sys.Platform.Forms.SysManager
             InitializeComponent();
             roleService = new RoleService();
             roleInfo = new RoleInfo();  
-            Hashtable con = new Hashtable();
-            con.Add("ToolBtn", this.toolBtn);
-            con.Add("TpControl", this.tpControl);
-            con.Add("Info", roleInfo); 
-            con.Add("Service", roleService);
+            this.ToolBtn=this.toolBtn;
+            this.TpControl=this.tpControl;
+            this.Info=roleInfo; 
+            this.Service=roleService;
             ToolStripButton btnSecu = new ToolStripButton();
 
             ToolStripItem[] items = new ToolStripItem[1];
 
-            InitForm(con);
+            InitForm();
         }
 
         public RoleDetailForm(String code)
             :this()
         {
-            InitForm();
+            InitForm("new");
             this.cParent.Value = "000000";
 
         }

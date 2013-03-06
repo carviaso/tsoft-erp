@@ -23,3 +23,28 @@ D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.Session\bin\Release\TS.Sys.Session.pdb
 D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.Session\obj\Release\ResolveAssemblyReference.cache
 D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.Session\obj\Release\TS.Sys.Session.dll
 D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.Session\obj\Release\TS.Sys.Session.pdb
+D:\TSoft Projects\TSGLASS\TS_PRS\TS.Sys.Session\bin\Release\TS.Sys.Session.dll
+D:\TSoft Projects\TSGLASS\TS_PRS\TS.Sys.Session\bin\Release\TS.Sys.Session.pdb
+D:\TSoft Projects\TSGLASS\TS_PRS\TS.Sys.Session\obj\Release\ResolveAssemblyReference.cache
+D:\TSoft Projects\TSGLASS\TS_PRS\TS.Sys.Session\obj\Release\TS.Sys.Session.dll
+D:\TSoft Projects\TSGLASS\TS_PRS\TS.Sys.Session\obj\Release\TS.Sys.Session.pdb
+D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Session\bin\Release\TS.Sys.Session.dll
+D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Session\bin\Release\TS.Sys.Session.pdb
+D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Session\obj\Release\ResolveAssemblyReference.cache
+D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Session\obj\Release\TS.Sys.Session.dll
+D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Session\obj\Release\TS.Sys.Session.pdb
+H:\work\TSGLASS\TS3000\TS.Sys.Session\bin\Release\TS.Sys.Session.dll
+H:\work\TSGLASS\TS3000\TS.Sys.Session\bin\Release\TS.Sys.Session.pdb
+H:\work\TSGLASS\TS3000\TS.Sys.Session\obj\Release\ResolveAssemblyReference.cache
+H:\work\TSGLASS\TS3000\TS.Sys.Session\obj\Release\TS.Sys.Session.dll
+H:\work\TSGLASS\TS3000\TS.Sys.Session\obj\Release\TS.Sys.Session.pdb
+H:\work\TSGLASS - 副本\TS3000\TS.Sys.Session\bin\Release\TS.Sys.Session.dll
+H:\work\TSGLASS - 副本\TS3000\TS.Sys.Session\bin\Release\TS.Sys.Session.pdb
+H:\work\TSGLASS - 副本\TS3000\TS.Sys.Session\obj\Release\ResolveAssemblyReference.cache
+H:\work\TSGLASS - 副本\TS3000\TS.Sys.Session\obj\Release\TS.Sys.Session.dll
+H:\work\TSGLASS - 副本\TS3000\TS.Sys.Session\obj\Release\TS.Sys.Session.pdb
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Session\bin\Release\TS.Sys.Session.dll
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Session\bin\Release\TS.Sys.Session.pdb
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Session\obj\Release\ResolveAssemblyReference.cache
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Session\obj\Release\TS.Sys.Session.dll
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Session\obj\Release\TS.Sys.Session.pdb

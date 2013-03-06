@@ -39,13 +39,13 @@
     <Reference Include="System.XML" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Service\Dao\ButtonDao.cs" />
-    <Compile Include="Service\Dao\LogDao.cs" />
-    <Compile Include="Service\Dao\MenuDao.cs" />
-    <Compile Include="Service\Dao\ModualDao.cs" />
-    <Compile Include="Service\Dao\RoleDao.cs" />
-    <Compile Include="Service\Dao\SecurityDao.cs" />
-    <Compile Include="Service\Dao\UserDao.cs" />
+    <Compile Include="Dao\ButtonDao.cs" />
+    <Compile Include="Dao\LogDao.cs" />
+    <Compile Include="Dao\MenuDao.cs" />
+    <Compile Include="Dao\ModualDao.cs" />
+    <Compile Include="Dao\RoleDao.cs" />
+    <Compile Include="Dao\SecurityDao.cs" />
+    <Compile Include="Dao\UserDao.cs" />
     <Compile Include="Info\ButtonInfo.cs" />
     <Compile Include="Info\LogInfo.cs" />
     <Compile Include="Info\MenuInfo.cs" />

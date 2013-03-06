@@ -1,15 +1,30 @@
-D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Platform.SecuAccess\bin\Debug\TS.Sys.Platform.SecuAccess.dll
-D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Platform.SecuAccess\bin\Debug\TS.Sys.Platform.SecuAccess.pdb
-D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Platform.SecuAccess\bin\Debug\TS.Sys.DBLayer.dll
-D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Platform.SecuAccess\bin\Debug\TS.Sys.Domain.dll
-D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Platform.SecuAccess\bin\Debug\TS.Sys.Platform.Exceptions.dll
-D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Platform.SecuAccess\bin\Debug\TS.Sys.Session.dll
-D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Platform.SecuAccess\bin\Debug\TS.Sys.Util.dll
-D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Platform.SecuAccess\bin\Debug\TS.Sys.DBLayer.pdb
-D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Platform.SecuAccess\bin\Debug\TS.Sys.Domain.pdb
-D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Platform.SecuAccess\bin\Debug\TS.Sys.Platform.Exceptions.pdb
-D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Platform.SecuAccess\bin\Debug\TS.Sys.Session.pdb
-D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Platform.SecuAccess\bin\Debug\TS.Sys.Util.pdb
-D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Platform.SecuAccess\obj\Debug\ResolveAssemblyReference.cache
-D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Platform.SecuAccess\obj\Debug\TS.Sys.Platform.SecuAccess.dll
-D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Platform.SecuAccess\obj\Debug\TS.Sys.Platform.SecuAccess.pdb
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Platform.SecuAccess\bin\Debug\TS.Sys.Platform.SecuAccess.dll
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Platform.SecuAccess\bin\Debug\TS.Sys.Platform.SecuAccess.pdb
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Platform.SecuAccess\bin\Debug\TS.Sys.DBLayer.dll
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Platform.SecuAccess\bin\Debug\TS.Sys.Domain.dll
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Platform.SecuAccess\bin\Debug\TS.Sys.Platform.Exceptions.dll
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Platform.SecuAccess\bin\Debug\TS.Sys.Session.dll
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Platform.SecuAccess\bin\Debug\TS.Sys.Util.dll
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Platform.SecuAccess\bin\Debug\TS.Sys.DBLayer.pdb
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Platform.SecuAccess\bin\Debug\TS.Sys.Domain.pdb
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Platform.SecuAccess\bin\Debug\TS.Sys.Platform.Exceptions.pdb
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Platform.SecuAccess\bin\Debug\TS.Sys.Session.pdb
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Platform.SecuAccess\bin\Debug\TS.Sys.Util.pdb
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Platform.SecuAccess\obj\Debug\ResolveAssemblyReference.cache
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Platform.SecuAccess\obj\Debug\TS.Sys.Platform.SecuAccess.dll
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Platform.SecuAccess\obj\Debug\TS.Sys.Platform.SecuAccess.pdb
+D:\TSoft Projects\TSERP\TS3000\TS.Sys.Platform.SecuAccess\bin\Debug\TS.Sys.Platform.SecuAccess.dll
+D:\TSoft Projects\TSERP\TS3000\TS.Sys.Platform.SecuAccess\bin\Debug\TS.Sys.Platform.SecuAccess.pdb
+D:\TSoft Projects\TSERP\TS3000\TS.Sys.Platform.SecuAccess\bin\Debug\TS.Sys.DBLayer.dll
+D:\TSoft Projects\TSERP\TS3000\TS.Sys.Platform.SecuAccess\bin\Debug\TS.Sys.Domain.dll
+D:\TSoft Projects\TSERP\TS3000\TS.Sys.Platform.SecuAccess\bin\Debug\TS.Sys.Platform.Exceptions.dll
+D:\TSoft Projects\TSERP\TS3000\TS.Sys.Platform.SecuAccess\bin\Debug\TS.Sys.Session.dll
+D:\TSoft Projects\TSERP\TS3000\TS.Sys.Platform.SecuAccess\bin\Debug\TS.Sys.Util.dll
+D:\TSoft Projects\TSERP\TS3000\TS.Sys.Platform.SecuAccess\bin\Debug\TS.Sys.DBLayer.pdb
+D:\TSoft Projects\TSERP\TS3000\TS.Sys.Platform.SecuAccess\bin\Debug\TS.Sys.Domain.pdb
+D:\TSoft Projects\TSERP\TS3000\TS.Sys.Platform.SecuAccess\bin\Debug\TS.Sys.Platform.Exceptions.pdb
+D:\TSoft Projects\TSERP\TS3000\TS.Sys.Platform.SecuAccess\bin\Debug\TS.Sys.Session.pdb
+D:\TSoft Projects\TSERP\TS3000\TS.Sys.Platform.SecuAccess\bin\Debug\TS.Sys.Util.pdb
+D:\TSoft Projects\TSERP\TS3000\TS.Sys.Platform.SecuAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\TSoft Projects\TSERP\TS3000\TS.Sys.Platform.SecuAccess\obj\Debug\TS.Sys.Platform.SecuAccess.dll
+D:\TSoft Projects\TSERP\TS3000\TS.Sys.Platform.SecuAccess\obj\Debug\TS.Sys.Platform.SecuAccess.pdb

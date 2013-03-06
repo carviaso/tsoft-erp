@@ -1,4 +1,5 @@
 ﻿using System;
+using TS.Sys.Platform.Widgets.Refer.Control;
 
 namespace TS.Sys.Platform.Widgets.Refer.Fetcher.Refer.Impl
 {
@@ -18,6 +19,16 @@ namespace TS.Sys.Platform.Widgets.Refer.Fetcher.Refer.Impl
             }
             String sql = "select st.cCode,st.cName from CM_SettleType st  " + con;
             return sql;
+        }
+
+        public override string getForm()
+        {
+            return "TS.Sys.Platform.BaseData.Forms.SettleTypeForm";
+        }
+
+        public override DataFetcher GetDataFetcher()
+        {
+            return new DataFetcher("CM_SettleType");
         }
     }
 }

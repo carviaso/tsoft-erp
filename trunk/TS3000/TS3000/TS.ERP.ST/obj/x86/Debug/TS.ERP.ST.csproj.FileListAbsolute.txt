@@ -1,0 +1,70 @@
+G:\Work\Projects\TSERP\TS3000\TS.ERP.ST\bin\Debug\TS.ERP.ST.dll
+G:\Work\Projects\TSERP\TS3000\TS.ERP.ST\bin\Debug\TS.ERP.ST.pdb
+G:\Work\Projects\TSERP\TS3000\TS.ERP.ST\bin\Debug\TS.Sys.DBLayer.dll
+G:\Work\Projects\TSERP\TS3000\TS.ERP.ST\bin\Debug\TS.Sys.Domain.dll
+G:\Work\Projects\TSERP\TS3000\TS.ERP.ST\bin\Debug\TS.Sys.Platform.Business.dll
+G:\Work\Projects\TSERP\TS3000\TS.ERP.ST\bin\Debug\TS.Sys.Platform.Exceptions.dll
+G:\Work\Projects\TSERP\TS3000\TS.ERP.ST\bin\Debug\TS.Sys.Platform.Forms.dll
+G:\Work\Projects\TSERP\TS3000\TS.ERP.ST\bin\Debug\TS.Sys.Platform.SecuAccess.dll
+G:\Work\Projects\TSERP\TS3000\TS.ERP.ST\bin\Debug\TS.Sys.Platform.Widgets.dll
+G:\Work\Projects\TSERP\TS3000\TS.ERP.ST\bin\Debug\TS.Sys.Util.dll
+G:\Work\Projects\TSERP\TS3000\TS.ERP.ST\bin\Debug\TS.Sys.Session.dll
+G:\Work\Projects\TSERP\TS3000\TS.ERP.ST\bin\Debug\TS.Sys.Platform.SysInfo.dll
+G:\Work\Projects\TSERP\TS3000\TS.ERP.ST\bin\Debug\TS.Sys.DBLayer.pdb
+G:\Work\Projects\TSERP\TS3000\TS.ERP.ST\bin\Debug\TS.Sys.Domain.pdb
+G:\Work\Projects\TSERP\TS3000\TS.ERP.ST\bin\Debug\TS.Sys.Platform.Business.pdb
+G:\Work\Projects\TSERP\TS3000\TS.ERP.ST\bin\Debug\TS.Sys.Platform.Exceptions.pdb
+G:\Work\Projects\TSERP\TS3000\TS.ERP.ST\bin\Debug\TS.Sys.Platform.Forms.pdb
+G:\Work\Projects\TSERP\TS3000\TS.ERP.ST\bin\Debug\TS.Sys.Platform.SecuAccess.pdb
+G:\Work\Projects\TSERP\TS3000\TS.ERP.ST\bin\Debug\TS.Sys.Util.pdb
+G:\Work\Projects\TSERP\TS3000\TS.ERP.ST\bin\Debug\TS.Sys.Session.pdb
+G:\Work\Projects\TSERP\TS3000\TS.ERP.ST\bin\Debug\TS.Sys.Platform.SysInfo.pdb
+G:\Work\Projects\TSERP\TS3000\TS.ERP.ST\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Work\Projects\TSERP\TS3000\TS.ERP.ST\obj\x86\Debug\TS.ERP.ST.SaOutDetailForm.resources
+G:\Work\Projects\TSERP\TS3000\TS.ERP.ST\obj\x86\Debug\TS.ERP.ST.Forms.SaOutListForm.resources
+G:\Work\Projects\TSERP\TS3000\TS.ERP.ST\obj\x86\Debug\TS.ERP.ST.PuInDetailForm.resources
+G:\Work\Projects\TSERP\TS3000\TS.ERP.ST\obj\x86\Debug\TS.ERP.ST.Forms.PuInListForm.resources
+G:\Work\Projects\TSERP\TS3000\TS.ERP.ST\obj\x86\Debug\TS.ERP.ST.Forms.StockListForm.resources
+G:\Work\Projects\TSERP\TS3000\TS.ERP.ST\obj\x86\Debug\TS.ERP.ST.Properties.Resources.resources
+G:\Work\Projects\TSERP\TS3000\TS.ERP.ST\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Work\Projects\TSERP\TS3000\TS.ERP.ST\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Work\Projects\TSERP\TS3000\TS.ERP.ST\obj\x86\Debug\TS.ERP.ST.dll
+G:\Work\Projects\TSERP\TS3000\TS.ERP.ST\obj\x86\Debug\TS.ERP.ST.pdb
+G:\Work\Projects\TSERP\TS3000\TS.ERP.ST\bin\Debug\TS.ERP.Business.dll
+G:\Work\Projects\TSERP\TS3000\TS.ERP.ST\bin\Debug\TS.ERP.Business.pdb
+D:\TSoft Projects\TSERP\TS3000\TS.ERP.ST\bin\Debug\TS.ERP.ST.dll
+D:\TSoft Projects\TSERP\TS3000\TS.ERP.ST\bin\Debug\TS.ERP.ST.pdb
+D:\TSoft Projects\TSERP\TS3000\TS.ERP.ST\bin\Debug\TS.ERP.Business.dll
+D:\TSoft Projects\TSERP\TS3000\TS.ERP.ST\bin\Debug\TS.Sys.DBLayer.dll
+D:\TSoft Projects\TSERP\TS3000\TS.ERP.ST\bin\Debug\TS.Sys.Domain.dll
+D:\TSoft Projects\TSERP\TS3000\TS.ERP.ST\bin\Debug\TS.Sys.Platform.Business.dll
+D:\TSoft Projects\TSERP\TS3000\TS.ERP.ST\bin\Debug\TS.Sys.Platform.Exceptions.dll
+D:\TSoft Projects\TSERP\TS3000\TS.ERP.ST\bin\Debug\TS.Sys.Platform.Forms.dll
+D:\TSoft Projects\TSERP\TS3000\TS.ERP.ST\bin\Debug\TS.Sys.Platform.SecuAccess.dll
+D:\TSoft Projects\TSERP\TS3000\TS.ERP.ST\bin\Debug\TS.Sys.Platform.Widgets.dll
+D:\TSoft Projects\TSERP\TS3000\TS.ERP.ST\bin\Debug\TS.Sys.Util.dll
+D:\TSoft Projects\TSERP\TS3000\TS.ERP.ST\bin\Debug\TS.Sys.Session.dll
+D:\TSoft Projects\TSERP\TS3000\TS.ERP.ST\bin\Debug\TS.Sys.Platform.SysInfo.dll
+D:\TSoft Projects\TSERP\TS3000\TS.ERP.ST\bin\Debug\TS.ERP.Business.pdb
+D:\TSoft Projects\TSERP\TS3000\TS.ERP.ST\bin\Debug\TS.Sys.DBLayer.pdb
+D:\TSoft Projects\TSERP\TS3000\TS.ERP.ST\bin\Debug\TS.Sys.Domain.pdb
+D:\TSoft Projects\TSERP\TS3000\TS.ERP.ST\bin\Debug\TS.Sys.Platform.Business.pdb
+D:\TSoft Projects\TSERP\TS3000\TS.ERP.ST\bin\Debug\TS.Sys.Platform.Exceptions.pdb
+D:\TSoft Projects\TSERP\TS3000\TS.ERP.ST\bin\Debug\TS.Sys.Platform.Forms.pdb
+D:\TSoft Projects\TSERP\TS3000\TS.ERP.ST\bin\Debug\TS.Sys.Platform.SecuAccess.pdb
+D:\TSoft Projects\TSERP\TS3000\TS.ERP.ST\bin\Debug\TS.Sys.Platform.Widgets.pdb
+D:\TSoft Projects\TSERP\TS3000\TS.ERP.ST\bin\Debug\TS.Sys.Util.pdb
+D:\TSoft Projects\TSERP\TS3000\TS.ERP.ST\bin\Debug\TS.Sys.Session.pdb
+D:\TSoft Projects\TSERP\TS3000\TS.ERP.ST\bin\Debug\TS.Sys.Platform.SysInfo.pdb
+D:\TSoft Projects\TSERP\TS3000\TS.ERP.ST\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\TSoft Projects\TSERP\TS3000\TS.ERP.ST\obj\x86\Debug\TS.ERP.ST.SaOutDetailForm.resources
+D:\TSoft Projects\TSERP\TS3000\TS.ERP.ST\obj\x86\Debug\TS.ERP.ST.Forms.SaOutListForm.resources
+D:\TSoft Projects\TSERP\TS3000\TS.ERP.ST\obj\x86\Debug\TS.ERP.ST.PuInDetailForm.resources
+D:\TSoft Projects\TSERP\TS3000\TS.ERP.ST\obj\x86\Debug\TS.ERP.ST.Forms.PuInListForm.resources
+D:\TSoft Projects\TSERP\TS3000\TS.ERP.ST\obj\x86\Debug\TS.ERP.ST.Forms.StockListForm.resources
+D:\TSoft Projects\TSERP\TS3000\TS.ERP.ST\obj\x86\Debug\TS.ERP.ST.Properties.Resources.resources
+D:\TSoft Projects\TSERP\TS3000\TS.ERP.ST\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\TSoft Projects\TSERP\TS3000\TS.ERP.ST\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\TSoft Projects\TSERP\TS3000\TS.ERP.ST\obj\x86\Debug\TS.ERP.ST.dll
+D:\TSoft Projects\TSERP\TS3000\TS.ERP.ST\obj\x86\Debug\TS.ERP.ST.pdb
+G:\Work\Projects\TSERP\TS3000\TS.ERP.ST\bin\Debug\TS.Sys.Platform.Widgets.pdb

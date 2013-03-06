@@ -43,12 +43,11 @@ namespace TS.Sys.Platform.Forms.SysManager
             Items = items;
             userService = new UserService();
             userInfo = new UserInfo();  
-            Hashtable con = new Hashtable();
-            con.Add("ToolBtn", this.toolBank);
-            con.Add("TpControl", this.tpControl);
-            con.Add("Info", userInfo); 
-            con.Add("Service", userService);  
-            InitForm(con);
+            this.ToolBtn=this.toolBank;
+            this.TpControl=this.tpControl;
+            this.Info=userInfo; 
+            this.Service=userService;  
+            InitForm();
         }
 
         private void InitDefinedButton(ToolStripButton btnModifyPwd)
@@ -70,7 +69,7 @@ namespace TS.Sys.Platform.Forms.SysManager
         public UserDetailForm(String code)
             :this()
         {
-            InitForm();
+            InitForm("new");
             this.cRole.Value = code;
 
         }

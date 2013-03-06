@@ -5,6 +5,7 @@ using TS.Sys.Platform.Business.Info;
 using TS.Sys.Platform.Business.Dao;
 using TS.Sys.Platform.Exceptions;
 using System.Windows.Forms;
+using System;
 
 namespace TS.Sys.Platform.Business.Service
 {
@@ -74,6 +75,7 @@ namespace TS.Sys.Platform.Business.Service
         {
              
         }
+         
 
         public void DoDel(BaseInfo bi)
         {

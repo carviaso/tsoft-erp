@@ -1,8 +1,16 @@
-D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Platform.Exceptions\bin\Debug\TS.Sys.Platform.Exceptions.dll
-D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Platform.Exceptions\bin\Debug\TS.Sys.Platform.Exceptions.pdb
-D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Platform.Exceptions\obj\Debug\ResolveAssemblyReference.cache
-D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Platform.Exceptions\obj\Debug\TS.Sys.Platform.Exceptions.Properties.ExceptionResource.resources
-D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Platform.Exceptions\obj\Debug\GenerateResource.read.1.tlog
-D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Platform.Exceptions\obj\Debug\GenerateResource.write.1.tlog
-D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Platform.Exceptions\obj\Debug\TS.Sys.Platform.Exceptions.dll
-D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Platform.Exceptions\obj\Debug\TS.Sys.Platform.Exceptions.pdb
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Platform.Exceptions\bin\Debug\TS.Sys.Platform.Exceptions.dll
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Platform.Exceptions\bin\Debug\TS.Sys.Platform.Exceptions.pdb
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Platform.Exceptions\obj\Debug\ResolveAssemblyReference.cache
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Platform.Exceptions\obj\Debug\TS.Sys.Platform.Exceptions.Properties.ExceptionResource.resources
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Platform.Exceptions\obj\Debug\GenerateResource.read.1.tlog
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Platform.Exceptions\obj\Debug\GenerateResource.write.1.tlog
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Platform.Exceptions\obj\Debug\TS.Sys.Platform.Exceptions.dll
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Platform.Exceptions\obj\Debug\TS.Sys.Platform.Exceptions.pdb
+D:\TSoft Projects\TSERP\TS3000\TS.Sys.Platform.Exceptions\bin\Debug\TS.Sys.Platform.Exceptions.dll
+D:\TSoft Projects\TSERP\TS3000\TS.Sys.Platform.Exceptions\bin\Debug\TS.Sys.Platform.Exceptions.pdb
+D:\TSoft Projects\TSERP\TS3000\TS.Sys.Platform.Exceptions\obj\Debug\ResolveAssemblyReference.cache
+D:\TSoft Projects\TSERP\TS3000\TS.Sys.Platform.Exceptions\obj\Debug\TS.Sys.Platform.Exceptions.Properties.ExceptionResource.resources
+D:\TSoft Projects\TSERP\TS3000\TS.Sys.Platform.Exceptions\obj\Debug\GenerateResource.read.1.tlog
+D:\TSoft Projects\TSERP\TS3000\TS.Sys.Platform.Exceptions\obj\Debug\GenerateResource.write.1.tlog
+D:\TSoft Projects\TSERP\TS3000\TS.Sys.Platform.Exceptions\obj\Debug\TS.Sys.Platform.Exceptions.dll
+D:\TSoft Projects\TSERP\TS3000\TS.Sys.Platform.Exceptions\obj\Debug\TS.Sys.Platform.Exceptions.pdb

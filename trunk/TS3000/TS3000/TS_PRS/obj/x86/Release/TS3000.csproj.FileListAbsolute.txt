@@ -1,0 +1,168 @@
+D:\TSoft Projects\TSGLASS\TS_PRS\TS_PRS\bin\Release\TS_PRS.exe
+D:\TSoft Projects\TSGLASS\TS_PRS\TS_PRS\bin\Release\TS_PRS.pdb
+D:\TSoft Projects\TSGLASS\TS_PRS\TS_PRS\bin\Release\TS.PRS.MemberMan.dll
+D:\TSoft Projects\TSGLASS\TS_PRS\TS_PRS\bin\Release\TS.Sys.DBLayer.dll
+D:\TSoft Projects\TSGLASS\TS_PRS\TS_PRS\bin\Release\TS.Sys.Domain.dll
+D:\TSoft Projects\TSGLASS\TS_PRS\TS_PRS\bin\Release\TS.Sys.Platform.BaseData.dll
+D:\TSoft Projects\TSGLASS\TS_PRS\TS_PRS\bin\Release\TS.Sys.Platform.Business.dll
+D:\TSoft Projects\TSGLASS\TS_PRS\TS_PRS\bin\Release\TS.Sys.Platform.Exceptions.dll
+D:\TSoft Projects\TSGLASS\TS_PRS\TS_PRS\bin\Release\TS.Sys.Platform.Forms.dll
+D:\TSoft Projects\TSGLASS\TS_PRS\TS_PRS\bin\Release\TS.Sys.Platform.SysInfo.dll
+D:\TSoft Projects\TSGLASS\TS_PRS\TS_PRS\bin\Release\TS.Sys.Platform.Widgets.dll
+D:\TSoft Projects\TSGLASS\TS_PRS\TS_PRS\bin\Release\TS.Sys.Session.dll
+D:\TSoft Projects\TSGLASS\TS_PRS\TS_PRS\bin\Release\TS.Sys.Util.dll
+D:\TSoft Projects\TSGLASS\TS_PRS\TS_PRS\bin\Release\TS.PRS.MemberMan.Adapter.dll
+D:\TSoft Projects\TSGLASS\TS_PRS\TS_PRS\bin\Release\TS.Sys.Platform.SecuAccess.dll
+D:\TSoft Projects\TSGLASS\TS_PRS\TS_PRS\bin\Release\TS.PRS.MemberMan.pdb
+D:\TSoft Projects\TSGLASS\TS_PRS\TS_PRS\bin\Release\TS.Sys.DBLayer.pdb
+D:\TSoft Projects\TSGLASS\TS_PRS\TS_PRS\bin\Release\TS.Sys.Domain.pdb
+D:\TSoft Projects\TSGLASS\TS_PRS\TS_PRS\bin\Release\TS.Sys.Platform.BaseData.pdb
+D:\TSoft Projects\TSGLASS\TS_PRS\TS_PRS\bin\Release\TS.Sys.Platform.Business.pdb
+D:\TSoft Projects\TSGLASS\TS_PRS\TS_PRS\bin\Release\TS.Sys.Platform.Exceptions.pdb
+D:\TSoft Projects\TSGLASS\TS_PRS\TS_PRS\bin\Release\TS.Sys.Platform.Forms.pdb
+D:\TSoft Projects\TSGLASS\TS_PRS\TS_PRS\bin\Release\TS.Sys.Platform.SysInfo.pdb
+D:\TSoft Projects\TSGLASS\TS_PRS\TS_PRS\bin\Release\TS.Sys.Session.pdb
+D:\TSoft Projects\TSGLASS\TS_PRS\TS_PRS\bin\Release\TS.Sys.Util.pdb
+D:\TSoft Projects\TSGLASS\TS_PRS\TS_PRS\bin\Release\TS.Sys.Platform.Widgets.pdb
+D:\TSoft Projects\TSGLASS\TS_PRS\TS_PRS\bin\Release\TS.PRS.MemberMan.Adapter.pdb
+D:\TSoft Projects\TSGLASS\TS_PRS\TS_PRS\bin\Release\TS.Sys.Platform.SecuAccess.pdb
+D:\TSoft Projects\TSGLASS\TS_PRS\TS_PRS\obj\x86\Release\ResolveAssemblyReference.cache
+D:\TSoft Projects\TSGLASS\TS_PRS\TS_PRS\obj\x86\Release\TS_PRS.Form1.resources
+D:\TSoft Projects\TSGLASS\TS_PRS\TS_PRS\obj\x86\Release\GenerateResource.read.1.tlog
+D:\TSoft Projects\TSGLASS\TS_PRS\TS_PRS\obj\x86\Release\GenerateResource.write.1.tlog
+D:\TSoft Projects\TSGLASS\TS_PRS\TS_PRS\obj\x86\Release\TS_PRS.exe
+D:\TSoft Projects\TSGLASS\TS_PRS\TS_PRS\obj\x86\Release\TS_PRS.pdb
+D:\TSoft Projects\TSGLASS\TS3000\TS_PRS\bin\Release\TS_PRS.exe
+D:\TSoft Projects\TSGLASS\TS3000\TS_PRS\bin\Release\TS_PRS.pdb
+D:\TSoft Projects\TSGLASS\TS3000\TS_PRS\bin\Release\TS.ERP.FA.exe
+D:\TSoft Projects\TSGLASS\TS3000\TS_PRS\bin\Release\TS.Sys.DBLayer.dll
+D:\TSoft Projects\TSGLASS\TS3000\TS_PRS\bin\Release\TS.Sys.Domain.dll
+D:\TSoft Projects\TSGLASS\TS3000\TS_PRS\bin\Release\TS.Sys.Platform.BaseData.dll
+D:\TSoft Projects\TSGLASS\TS3000\TS_PRS\bin\Release\TS.Sys.Platform.Business.dll
+D:\TSoft Projects\TSGLASS\TS3000\TS_PRS\bin\Release\TS.Sys.Platform.Exceptions.dll
+D:\TSoft Projects\TSGLASS\TS3000\TS_PRS\bin\Release\TS.Sys.Platform.Forms.dll
+D:\TSoft Projects\TSGLASS\TS3000\TS_PRS\bin\Release\TS.Sys.Platform.SysInfo.dll
+D:\TSoft Projects\TSGLASS\TS3000\TS_PRS\bin\Release\TS.Sys.Platform.Widgets.dll
+D:\TSoft Projects\TSGLASS\TS3000\TS_PRS\bin\Release\TS.Sys.Session.dll
+D:\TSoft Projects\TSGLASS\TS3000\TS_PRS\bin\Release\TS.Sys.Util.dll
+D:\TSoft Projects\TSGLASS\TS3000\TS_PRS\bin\Release\TS.Sys.Platform.SecuAccess.dll
+D:\TSoft Projects\TSGLASS\TS3000\TS_PRS\bin\Release\TS.ERP.FA.pdb
+D:\TSoft Projects\TSGLASS\TS3000\TS_PRS\bin\Release\TS.Sys.DBLayer.pdb
+D:\TSoft Projects\TSGLASS\TS3000\TS_PRS\bin\Release\TS.Sys.Domain.pdb
+D:\TSoft Projects\TSGLASS\TS3000\TS_PRS\bin\Release\TS.Sys.Platform.BaseData.pdb
+D:\TSoft Projects\TSGLASS\TS3000\TS_PRS\bin\Release\TS.Sys.Platform.Business.pdb
+D:\TSoft Projects\TSGLASS\TS3000\TS_PRS\bin\Release\TS.Sys.Platform.Exceptions.pdb
+D:\TSoft Projects\TSGLASS\TS3000\TS_PRS\bin\Release\TS.Sys.Platform.Forms.pdb
+D:\TSoft Projects\TSGLASS\TS3000\TS_PRS\bin\Release\TS.Sys.Platform.SysInfo.pdb
+D:\TSoft Projects\TSGLASS\TS3000\TS_PRS\bin\Release\TS.Sys.Session.pdb
+D:\TSoft Projects\TSGLASS\TS3000\TS_PRS\bin\Release\TS.Sys.Util.pdb
+D:\TSoft Projects\TSGLASS\TS3000\TS_PRS\bin\Release\TS.Sys.Platform.SecuAccess.pdb
+D:\TSoft Projects\TSGLASS\TS3000\TS_PRS\obj\x86\Release\ResolveAssemblyReference.cache
+D:\TSoft Projects\TSGLASS\TS3000\TS_PRS\obj\x86\Release\TS_PRS.Form1.resources
+D:\TSoft Projects\TSGLASS\TS3000\TS_PRS\obj\x86\Release\GenerateResource.read.1.tlog
+D:\TSoft Projects\TSGLASS\TS3000\TS_PRS\obj\x86\Release\GenerateResource.write.1.tlog
+D:\TSoft Projects\TSGLASS\TS3000\TS_PRS\obj\x86\Release\TS_PRS.exe
+D:\TSoft Projects\TSGLASS\TS3000\TS_PRS\obj\x86\Release\TS_PRS.pdb
+D:\TSoft Projects\TSGLASS\TS3000\TS_PRS\bin\Release\TS.Sys.Platform.Widgets.pdb
+H:\work\TSGLASS\TS3000\TS_PRS\obj\x86\Release\TS_PRS.exe
+H:\work\TSGLASS\TS3000\TS_PRS\obj\x86\Release\TS_PRS.pdb
+H:\work\TSGLASS\TS3000\TS_PRS\bin\Release\TS_PRS.exe
+H:\work\TSGLASS\TS3000\TS_PRS\bin\Release\TS_PRS.pdb
+H:\work\TSGLASS\TS3000\TS_PRS\bin\Release\TS.ERP.FA.exe
+H:\work\TSGLASS\TS3000\TS_PRS\bin\Release\TS.Sys.DBLayer.dll
+H:\work\TSGLASS\TS3000\TS_PRS\bin\Release\TS.Sys.Domain.dll
+H:\work\TSGLASS\TS3000\TS_PRS\bin\Release\TS.Sys.Platform.BaseData.dll
+H:\work\TSGLASS\TS3000\TS_PRS\bin\Release\TS.Sys.Platform.Business.dll
+H:\work\TSGLASS\TS3000\TS_PRS\bin\Release\TS.Sys.Platform.Exceptions.dll
+H:\work\TSGLASS\TS3000\TS_PRS\bin\Release\TS.Sys.Platform.Forms.dll
+H:\work\TSGLASS\TS3000\TS_PRS\bin\Release\TS.Sys.Platform.SysInfo.dll
+H:\work\TSGLASS\TS3000\TS_PRS\bin\Release\TS.Sys.Platform.Widgets.dll
+H:\work\TSGLASS\TS3000\TS_PRS\bin\Release\TS.Sys.Session.dll
+H:\work\TSGLASS\TS3000\TS_PRS\bin\Release\TS.Sys.Util.dll
+H:\work\TSGLASS\TS3000\TS_PRS\bin\Release\TS.Sys.Platform.SecuAccess.dll
+H:\work\TSGLASS\TS3000\TS_PRS\bin\Release\TS.ERP.FA.pdb
+H:\work\TSGLASS\TS3000\TS_PRS\bin\Release\TS.Sys.DBLayer.pdb
+H:\work\TSGLASS\TS3000\TS_PRS\bin\Release\TS.Sys.Domain.pdb
+H:\work\TSGLASS\TS3000\TS_PRS\bin\Release\TS.Sys.Platform.BaseData.pdb
+H:\work\TSGLASS\TS3000\TS_PRS\bin\Release\TS.Sys.Platform.Business.pdb
+H:\work\TSGLASS\TS3000\TS_PRS\bin\Release\TS.Sys.Platform.Exceptions.pdb
+H:\work\TSGLASS\TS3000\TS_PRS\bin\Release\TS.Sys.Platform.Forms.pdb
+H:\work\TSGLASS\TS3000\TS_PRS\bin\Release\TS.Sys.Platform.SysInfo.pdb
+H:\work\TSGLASS\TS3000\TS_PRS\bin\Release\TS.Sys.Session.pdb
+H:\work\TSGLASS\TS3000\TS_PRS\bin\Release\TS.Sys.Util.pdb
+H:\work\TSGLASS\TS3000\TS_PRS\bin\Release\TS.Sys.Platform.Widgets.pdb
+H:\work\TSGLASS\TS3000\TS_PRS\bin\Release\TS.Sys.Platform.SecuAccess.pdb
+H:\work\TSGLASS\TS3000\TS_PRS\obj\x86\Release\ResolveAssemblyReference.cache
+H:\work\TSGLASS\TS3000\TS_PRS\obj\x86\Release\TS_PRS.Form1.resources
+H:\work\TSGLASS\TS3000\TS_PRS\obj\x86\Release\GenerateResource.read.1.tlog
+H:\work\TSGLASS\TS3000\TS_PRS\obj\x86\Release\GenerateResource.write.1.tlog
+H:\work\TSGLASS - 副本\TS3000\TS_PRS\obj\x86\Release\TS_PRS.exe
+H:\work\TSGLASS - 副本\TS3000\TS_PRS\obj\x86\Release\TS_PRS.pdb
+H:\work\TSGLASS - 副本\TS3000\TS_PRS\bin\Release\TS_PRS.exe
+H:\work\TSGLASS - 副本\TS3000\TS_PRS\bin\Release\TS_PRS.pdb
+H:\work\TSGLASS - 副本\TS3000\TS_PRS\bin\Release\TS.ERP.FA.exe
+H:\work\TSGLASS - 副本\TS3000\TS_PRS\bin\Release\TS.Sys.DBLayer.dll
+H:\work\TSGLASS - 副本\TS3000\TS_PRS\bin\Release\TS.Sys.Domain.dll
+H:\work\TSGLASS - 副本\TS3000\TS_PRS\bin\Release\TS.Sys.Platform.BaseData.dll
+H:\work\TSGLASS - 副本\TS3000\TS_PRS\bin\Release\TS.Sys.Platform.Business.dll
+H:\work\TSGLASS - 副本\TS3000\TS_PRS\bin\Release\TS.Sys.Platform.Exceptions.dll
+H:\work\TSGLASS - 副本\TS3000\TS_PRS\bin\Release\TS.Sys.Platform.Forms.dll
+H:\work\TSGLASS - 副本\TS3000\TS_PRS\bin\Release\TS.Sys.Platform.SysInfo.dll
+H:\work\TSGLASS - 副本\TS3000\TS_PRS\bin\Release\TS.Sys.Platform.Widgets.dll
+H:\work\TSGLASS - 副本\TS3000\TS_PRS\bin\Release\TS.Sys.Session.dll
+H:\work\TSGLASS - 副本\TS3000\TS_PRS\bin\Release\TS.Sys.Util.dll
+H:\work\TSGLASS - 副本\TS3000\TS_PRS\bin\Release\TS.Sys.Platform.SecuAccess.dll
+H:\work\TSGLASS - 副本\TS3000\TS_PRS\bin\Release\TS.ERP.FA.pdb
+H:\work\TSGLASS - 副本\TS3000\TS_PRS\bin\Release\TS.Sys.DBLayer.pdb
+H:\work\TSGLASS - 副本\TS3000\TS_PRS\bin\Release\TS.Sys.Domain.pdb
+H:\work\TSGLASS - 副本\TS3000\TS_PRS\bin\Release\TS.Sys.Platform.BaseData.pdb
+H:\work\TSGLASS - 副本\TS3000\TS_PRS\bin\Release\TS.Sys.Platform.Business.pdb
+H:\work\TSGLASS - 副本\TS3000\TS_PRS\bin\Release\TS.Sys.Platform.Exceptions.pdb
+H:\work\TSGLASS - 副本\TS3000\TS_PRS\bin\Release\TS.Sys.Platform.Forms.pdb
+H:\work\TSGLASS - 副本\TS3000\TS_PRS\bin\Release\TS.Sys.Platform.SysInfo.pdb
+H:\work\TSGLASS - 副本\TS3000\TS_PRS\bin\Release\TS.Sys.Session.pdb
+H:\work\TSGLASS - 副本\TS3000\TS_PRS\bin\Release\TS.Sys.Util.pdb
+H:\work\TSGLASS - 副本\TS3000\TS_PRS\bin\Release\TS.Sys.Platform.Widgets.pdb
+H:\work\TSGLASS - 副本\TS3000\TS_PRS\bin\Release\TS.Sys.Platform.SecuAccess.pdb
+H:\work\TSGLASS - 副本\TS3000\TS_PRS\obj\x86\Release\ResolveAssemblyReference.cache
+H:\work\TSGLASS - 副本\TS3000\TS_PRS\obj\x86\Release\TS_PRS.Form1.resources
+H:\work\TSGLASS - 副本\TS3000\TS_PRS\obj\x86\Release\GenerateResource.read.1.tlog
+H:\work\TSGLASS - 副本\TS3000\TS_PRS\obj\x86\Release\GenerateResource.write.1.tlog
+G:\Work\Projects\TSERP\TS3000\TS_PRS\bin\Release\TS_PRS.exe
+G:\Work\Projects\TSERP\TS3000\TS_PRS\bin\Release\TS_PRS.pdb
+G:\Work\Projects\TSERP\TS3000\TS_PRS\bin\Release\TS.ERP.FA.dll
+G:\Work\Projects\TSERP\TS3000\TS_PRS\bin\Release\TS.ERP.PU.dll
+G:\Work\Projects\TSERP\TS3000\TS_PRS\bin\Release\TS.ERP.SA.dll
+G:\Work\Projects\TSERP\TS3000\TS_PRS\bin\Release\TS.ERP.ST.dll
+G:\Work\Projects\TSERP\TS3000\TS_PRS\bin\Release\TS.Sys.DBLayer.dll
+G:\Work\Projects\TSERP\TS3000\TS_PRS\bin\Release\TS.Sys.Domain.dll
+G:\Work\Projects\TSERP\TS3000\TS_PRS\bin\Release\TS.Sys.Platform.BaseData.dll
+G:\Work\Projects\TSERP\TS3000\TS_PRS\bin\Release\TS.Sys.Platform.Business.dll
+G:\Work\Projects\TSERP\TS3000\TS_PRS\bin\Release\TS.Sys.Platform.Exceptions.dll
+G:\Work\Projects\TSERP\TS3000\TS_PRS\bin\Release\TS.Sys.Platform.Forms.dll
+G:\Work\Projects\TSERP\TS3000\TS_PRS\bin\Release\TS.Sys.Platform.SysInfo.dll
+G:\Work\Projects\TSERP\TS3000\TS_PRS\bin\Release\TS.Sys.Platform.Widgets.dll
+G:\Work\Projects\TSERP\TS3000\TS_PRS\bin\Release\TS.Sys.Session.dll
+G:\Work\Projects\TSERP\TS3000\TS_PRS\bin\Release\TS.Sys.Util.dll
+G:\Work\Projects\TSERP\TS3000\TS_PRS\bin\Release\TS.Sys.Platform.SecuAccess.dll
+G:\Work\Projects\TSERP\TS3000\TS_PRS\bin\Release\TS.ERP.FA.pdb
+G:\Work\Projects\TSERP\TS3000\TS_PRS\bin\Release\TS.ERP.PU.pdb
+G:\Work\Projects\TSERP\TS3000\TS_PRS\bin\Release\TS.ERP.SA.pdb
+G:\Work\Projects\TSERP\TS3000\TS_PRS\bin\Release\TS.ERP.ST.pdb
+G:\Work\Projects\TSERP\TS3000\TS_PRS\bin\Release\TS.Sys.DBLayer.pdb
+G:\Work\Projects\TSERP\TS3000\TS_PRS\bin\Release\TS.Sys.Domain.pdb
+G:\Work\Projects\TSERP\TS3000\TS_PRS\bin\Release\TS.Sys.Platform.BaseData.pdb
+G:\Work\Projects\TSERP\TS3000\TS_PRS\bin\Release\TS.Sys.Platform.Business.pdb
+G:\Work\Projects\TSERP\TS3000\TS_PRS\bin\Release\TS.Sys.Platform.Exceptions.pdb
+G:\Work\Projects\TSERP\TS3000\TS_PRS\bin\Release\TS.Sys.Platform.Forms.pdb
+G:\Work\Projects\TSERP\TS3000\TS_PRS\bin\Release\TS.Sys.Platform.SysInfo.pdb
+G:\Work\Projects\TSERP\TS3000\TS_PRS\bin\Release\TS.Sys.Session.pdb
+G:\Work\Projects\TSERP\TS3000\TS_PRS\bin\Release\TS.Sys.Util.pdb
+G:\Work\Projects\TSERP\TS3000\TS_PRS\bin\Release\TS.Sys.Platform.SecuAccess.pdb
+G:\Work\Projects\TSERP\TS3000\TS_PRS\obj\x86\Release\ResolveAssemblyReference.cache
+G:\Work\Projects\TSERP\TS3000\TS_PRS\obj\x86\Release\TS_PRS.Form1.resources
+G:\Work\Projects\TSERP\TS3000\TS_PRS\obj\x86\Release\GenerateResource.read.1.tlog
+G:\Work\Projects\TSERP\TS3000\TS_PRS\obj\x86\Release\GenerateResource.write.1.tlog
+G:\Work\Projects\TSERP\TS3000\TS_PRS\obj\x86\Release\TS_PRS.exe
+G:\Work\Projects\TSERP\TS3000\TS_PRS\obj\x86\Release\TS_PRS.pdb
+G:\Work\Projects\TSERP\TS3000\TS_PRS\bin\Release\TS.Sys.Platform.Widgets.pdb

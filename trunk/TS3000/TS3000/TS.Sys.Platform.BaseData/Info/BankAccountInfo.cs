@@ -9,7 +9,7 @@ namespace TS.Sys.Platform.BaseData.Info
     public class BankAccountInfo:BaseInfo
     {
         private object _cBank;
-        private object _cBankAcct;
+        private object _cAccount;
 
         public Object cBank
         {
@@ -17,10 +17,10 @@ namespace TS.Sys.Platform.BaseData.Info
             set { this._cBank = value; }
         }
 
-        public Object cBankAcct
+        public Object cAccount
         {
-            get { return this._cBankAcct; }
-            set { this._cBankAcct = value; }
+            get { return this._cAccount; }
+            set { this._cAccount = value; }
         }
     }
 }

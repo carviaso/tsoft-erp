@@ -52,9 +52,9 @@ namespace TS.Sys.Platform.Business.Forms
                 BusinessControl.ValidateRequire(tpControl);
 
                 //构造fi
-                BusinessControl.SetInfoProperties(info, tpControl);
+                BusinessControl.SetInfoProperties(_info, tpControl);
                 //保存时新增还是修改
-                if (info.cGUID != null && !String.IsNullOrEmpty(info.cGUID.ToString()))
+                if (_info.cGUID != null && !String.IsNullOrEmpty(_info.cGUID.ToString()))
                 {
                     if (formEvents != null)
                     {
@@ -74,8 +74,8 @@ namespace TS.Sys.Platform.Business.Forms
                         //考虑加入doAfter();
                     }
                 }
-                BusinessControl.SetComValue(tpControl.Controls["cGUID"], info.cGUID);
-                BusinessControl.SetComValue(tpControl.Controls["cTimeStamp"], info.cTimeStamp);
+                BusinessControl.SetComValue(tpControl.Controls["cGUID"], _info.cGUID);
+                BusinessControl.SetComValue(tpControl.Controls["cTimeStamp"], _info.cTimeStamp);
                 //根据保存结果处理 
                 Msg.Show(SysConst.msgSaveSuccess);
                 BusinessControl.SetSaveCancelInitStatus(toolBtn);
@@ -122,9 +122,15 @@ namespace TS.Sys.Platform.Business.Forms
 
         private void btnInfo_Click(object sender, EventArgs e)
         {
-            Type t = this.GetType();
-            MethodInfo mi = t.GetMethod("btnInfo_Click", BindingFlags.Instance | BindingFlags.NonPublic | BindingFlags.ExactBinding);
-            mi.Invoke(this, null);
+            //载入基础资料forms
+            Assembly tempAssembly = Assembly.LoadFile(Application.StartupPath+"\\TS.Sys.Platform.BaseData.dll");
+
+            Type t = tempAssembly.GetType(_referType);
+            object[] args = _args;
+            object o = System.Activator.CreateInstance(t, args);
+
+            ((Form)o).WindowState = FormWindowState.Normal;
+            ((Form)o).ShowDialog();
         }
 
         private void btnExit_Click(object sender, EventArgs e)

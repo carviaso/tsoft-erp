@@ -1,0 +1,80 @@
+G:\Work\Projects\TSERP\TS3000\TS_PRS\bin\Debug\TS_PRS.exe
+G:\Work\Projects\TSERP\TS3000\TS_PRS\bin\Debug\TS_PRS.pdb
+G:\Work\Projects\TSERP\TS3000\TS_PRS\bin\Debug\TS.ERP.FA.dll
+G:\Work\Projects\TSERP\TS3000\TS_PRS\bin\Debug\TS.ERP.PU.dll
+G:\Work\Projects\TSERP\TS3000\TS_PRS\bin\Debug\TS.ERP.SA.dll
+G:\Work\Projects\TSERP\TS3000\TS_PRS\bin\Debug\TS.ERP.ST.dll
+G:\Work\Projects\TSERP\TS3000\TS_PRS\bin\Debug\TS.Sys.DBLayer.dll
+G:\Work\Projects\TSERP\TS3000\TS_PRS\bin\Debug\TS.Sys.Domain.dll
+G:\Work\Projects\TSERP\TS3000\TS_PRS\bin\Debug\TS.Sys.Platform.BaseData.dll
+G:\Work\Projects\TSERP\TS3000\TS_PRS\bin\Debug\TS.Sys.Platform.Business.dll
+G:\Work\Projects\TSERP\TS3000\TS_PRS\bin\Debug\TS.Sys.Platform.Exceptions.dll
+G:\Work\Projects\TSERP\TS3000\TS_PRS\bin\Debug\TS.Sys.Platform.Forms.dll
+G:\Work\Projects\TSERP\TS3000\TS_PRS\bin\Debug\TS.Sys.Platform.SysInfo.dll
+G:\Work\Projects\TSERP\TS3000\TS_PRS\bin\Debug\TS.Sys.Platform.Widgets.dll
+G:\Work\Projects\TSERP\TS3000\TS_PRS\bin\Debug\TS.Sys.Session.dll
+G:\Work\Projects\TSERP\TS3000\TS_PRS\bin\Debug\TS.Sys.Util.dll
+G:\Work\Projects\TSERP\TS3000\TS_PRS\bin\Debug\TS.Sys.Platform.SecuAccess.dll
+G:\Work\Projects\TSERP\TS3000\TS_PRS\bin\Debug\TS.ERP.FA.pdb
+G:\Work\Projects\TSERP\TS3000\TS_PRS\bin\Debug\TS.ERP.PU.pdb
+G:\Work\Projects\TSERP\TS3000\TS_PRS\bin\Debug\TS.ERP.SA.pdb
+G:\Work\Projects\TSERP\TS3000\TS_PRS\bin\Debug\TS.ERP.ST.pdb
+G:\Work\Projects\TSERP\TS3000\TS_PRS\bin\Debug\TS.Sys.DBLayer.pdb
+G:\Work\Projects\TSERP\TS3000\TS_PRS\bin\Debug\TS.Sys.Domain.pdb
+G:\Work\Projects\TSERP\TS3000\TS_PRS\bin\Debug\TS.Sys.Platform.BaseData.pdb
+G:\Work\Projects\TSERP\TS3000\TS_PRS\bin\Debug\TS.Sys.Platform.Business.pdb
+G:\Work\Projects\TSERP\TS3000\TS_PRS\bin\Debug\TS.Sys.Platform.Exceptions.pdb
+G:\Work\Projects\TSERP\TS3000\TS_PRS\bin\Debug\TS.Sys.Platform.Forms.pdb
+G:\Work\Projects\TSERP\TS3000\TS_PRS\bin\Debug\TS.Sys.Platform.SysInfo.pdb
+G:\Work\Projects\TSERP\TS3000\TS_PRS\bin\Debug\TS.Sys.Session.pdb
+G:\Work\Projects\TSERP\TS3000\TS_PRS\bin\Debug\TS.Sys.Util.pdb
+G:\Work\Projects\TSERP\TS3000\TS_PRS\bin\Debug\TS.Sys.Platform.SecuAccess.pdb
+G:\Work\Projects\TSERP\TS3000\TS_PRS\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Work\Projects\TSERP\TS3000\TS_PRS\obj\x86\Debug\TS_PRS.Form1.resources
+G:\Work\Projects\TSERP\TS3000\TS_PRS\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Work\Projects\TSERP\TS3000\TS_PRS\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Work\Projects\TSERP\TS3000\TS_PRS\obj\x86\Debug\TS_PRS.exe
+G:\Work\Projects\TSERP\TS3000\TS_PRS\obj\x86\Debug\TS_PRS.pdb
+G:\Work\Projects\TSERP\TS3000\TS_PRS\bin\Debug\TS.ERP.Business.dll
+G:\Work\Projects\TSERP\TS3000\TS_PRS\bin\Debug\TS.ERP.Business.pdb
+D:\TSoft Projects\TSERP\TS3000\TS_PRS\obj\x86\Debug\TS_PRS.exe
+D:\TSoft Projects\TSERP\TS3000\TS_PRS\obj\x86\Debug\TS_PRS.pdb
+D:\TSoft Projects\TSERP\TS3000\TS_PRS\bin\Debug\TS_PRS.exe
+D:\TSoft Projects\TSERP\TS3000\TS_PRS\bin\Debug\TS_PRS.pdb
+D:\TSoft Projects\TSERP\TS3000\TS_PRS\bin\Debug\TS.ERP.FA.dll
+D:\TSoft Projects\TSERP\TS3000\TS_PRS\bin\Debug\TS.ERP.PU.dll
+D:\TSoft Projects\TSERP\TS3000\TS_PRS\bin\Debug\TS.ERP.SA.dll
+D:\TSoft Projects\TSERP\TS3000\TS_PRS\bin\Debug\TS.ERP.ST.dll
+D:\TSoft Projects\TSERP\TS3000\TS_PRS\bin\Debug\TS.Sys.DBLayer.dll
+D:\TSoft Projects\TSERP\TS3000\TS_PRS\bin\Debug\TS.Sys.Domain.dll
+D:\TSoft Projects\TSERP\TS3000\TS_PRS\bin\Debug\TS.Sys.Platform.BaseData.dll
+D:\TSoft Projects\TSERP\TS3000\TS_PRS\bin\Debug\TS.Sys.Platform.Business.dll
+D:\TSoft Projects\TSERP\TS3000\TS_PRS\bin\Debug\TS.Sys.Platform.Exceptions.dll
+D:\TSoft Projects\TSERP\TS3000\TS_PRS\bin\Debug\TS.Sys.Platform.Forms.dll
+D:\TSoft Projects\TSERP\TS3000\TS_PRS\bin\Debug\TS.Sys.Platform.SysInfo.dll
+D:\TSoft Projects\TSERP\TS3000\TS_PRS\bin\Debug\TS.Sys.Platform.Widgets.dll
+D:\TSoft Projects\TSERP\TS3000\TS_PRS\bin\Debug\TS.Sys.Session.dll
+D:\TSoft Projects\TSERP\TS3000\TS_PRS\bin\Debug\TS.Sys.Util.dll
+D:\TSoft Projects\TSERP\TS3000\TS_PRS\bin\Debug\TS.Sys.Platform.SecuAccess.dll
+D:\TSoft Projects\TSERP\TS3000\TS_PRS\bin\Debug\TS.ERP.Business.dll
+D:\TSoft Projects\TSERP\TS3000\TS_PRS\bin\Debug\TS.ERP.FA.pdb
+D:\TSoft Projects\TSERP\TS3000\TS_PRS\bin\Debug\TS.ERP.PU.pdb
+D:\TSoft Projects\TSERP\TS3000\TS_PRS\bin\Debug\TS.ERP.SA.pdb
+D:\TSoft Projects\TSERP\TS3000\TS_PRS\bin\Debug\TS.ERP.ST.pdb
+D:\TSoft Projects\TSERP\TS3000\TS_PRS\bin\Debug\TS.Sys.DBLayer.pdb
+D:\TSoft Projects\TSERP\TS3000\TS_PRS\bin\Debug\TS.Sys.Domain.pdb
+D:\TSoft Projects\TSERP\TS3000\TS_PRS\bin\Debug\TS.Sys.Platform.BaseData.pdb
+D:\TSoft Projects\TSERP\TS3000\TS_PRS\bin\Debug\TS.Sys.Platform.Business.pdb
+D:\TSoft Projects\TSERP\TS3000\TS_PRS\bin\Debug\TS.Sys.Platform.Exceptions.pdb
+D:\TSoft Projects\TSERP\TS3000\TS_PRS\bin\Debug\TS.Sys.Platform.Forms.pdb
+D:\TSoft Projects\TSERP\TS3000\TS_PRS\bin\Debug\TS.Sys.Platform.SysInfo.pdb
+D:\TSoft Projects\TSERP\TS3000\TS_PRS\bin\Debug\TS.Sys.Session.pdb
+D:\TSoft Projects\TSERP\TS3000\TS_PRS\bin\Debug\TS.Sys.Util.pdb
+D:\TSoft Projects\TSERP\TS3000\TS_PRS\bin\Debug\TS.Sys.Platform.Widgets.pdb
+D:\TSoft Projects\TSERP\TS3000\TS_PRS\bin\Debug\TS.Sys.Platform.SecuAccess.pdb
+D:\TSoft Projects\TSERP\TS3000\TS_PRS\bin\Debug\TS.ERP.Business.pdb
+D:\TSoft Projects\TSERP\TS3000\TS_PRS\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\TSoft Projects\TSERP\TS3000\TS_PRS\obj\x86\Debug\TS_PRS.Form1.resources
+D:\TSoft Projects\TSERP\TS3000\TS_PRS\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\TSoft Projects\TSERP\TS3000\TS_PRS\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Work\Projects\TSERP\TS3000\TS_PRS\bin\Debug\TS.Sys.Platform.Widgets.pdb

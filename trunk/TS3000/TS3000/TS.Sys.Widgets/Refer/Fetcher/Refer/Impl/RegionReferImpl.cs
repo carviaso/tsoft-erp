@@ -1,4 +1,5 @@
 ﻿using System;
+using TS.Sys.Platform.Widgets.Refer.Control;
 
 namespace TS.Sys.Platform.Widgets.Refer.Fetcher.Refer.Impl
 {
@@ -17,6 +18,16 @@ namespace TS.Sys.Platform.Widgets.Refer.Fetcher.Refer.Impl
             }
             String sql = "select rg.cCode,rg.cName from CM_Region rg  " + con;
             return sql;
+        }
+
+        public override String getForm()
+        {
+            return "TS.Sys.Platform.BaseData.Forms.RegionForm";
+        }
+
+        public override DataFetcher GetDataFetcher()
+        {
+            return new DataFetcher("CM_Region");
         }
     }
 }

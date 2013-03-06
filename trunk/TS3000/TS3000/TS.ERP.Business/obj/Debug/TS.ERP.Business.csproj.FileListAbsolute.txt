@@ -1,0 +1,10 @@
+G:\Work\Projects\TSERP\TS3000\TS.ERP.Business\bin\Debug\TS.ERP.Business.dll
+G:\Work\Projects\TSERP\TS3000\TS.ERP.Business\bin\Debug\TS.ERP.Business.pdb
+G:\Work\Projects\TSERP\TS3000\TS.ERP.Business\obj\Debug\ResolveAssemblyReference.cache
+G:\Work\Projects\TSERP\TS3000\TS.ERP.Business\obj\Debug\TS.ERP.Business.dll
+G:\Work\Projects\TSERP\TS3000\TS.ERP.Business\obj\Debug\TS.ERP.Business.pdb
+D:\TSoft Projects\TSERP\TS3000\TS.ERP.Business\bin\Debug\TS.ERP.Business.dll
+D:\TSoft Projects\TSERP\TS3000\TS.ERP.Business\bin\Debug\TS.ERP.Business.pdb
+D:\TSoft Projects\TSERP\TS3000\TS.ERP.Business\obj\Debug\ResolveAssemblyReference.cache
+D:\TSoft Projects\TSERP\TS3000\TS.ERP.Business\obj\Debug\TS.ERP.Business.dll
+D:\TSoft Projects\TSERP\TS3000\TS.ERP.Business\obj\Debug\TS.ERP.Business.pdb

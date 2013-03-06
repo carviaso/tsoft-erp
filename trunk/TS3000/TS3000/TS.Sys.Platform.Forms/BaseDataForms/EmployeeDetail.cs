@@ -23,11 +23,11 @@ namespace TS.Sys.Platform.Forms.BaseDataForms
             empService = new EmployeeService();
             empInfo = new EmployeeInfo();
             Hashtable con = new Hashtable();
-            con.Add("ToolBtn", this.toolBtn);
-            con.Add("TpControl", this.tpControl);
-            con.Add("Info", empInfo);
-            con.Add("Service", empService);
-            InitForm(con);
+            this.ToolBtn = this.toolBtn;
+            this.TpControl = this.tpControl;
+            this.Info = empInfo;
+            this.Service = empService; 
+            InitForm();
             this.tbControl.TabPages[0].Text = "职员属性";
         }
 
@@ -49,7 +49,7 @@ namespace TS.Sys.Platform.Forms.BaseDataForms
         public EmployeeDetailForm(String code)
             :this()
         {
-            InitForm();
+            InitForm("new");
             this.cDepartment.Value = code;
 
         }

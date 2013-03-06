@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Collections;
 using System.Reflection;
 using System.Windows.Forms;
 using TS.Sys.Platform.BaseData.Info;
@@ -47,13 +46,12 @@ namespace TS.Sys.Platform.Forms.BaseDataForms
             InitializeComponent();
             custService = new CustomerService();
             custInfo = new CustomerInfo();  
-            Hashtable con = new Hashtable();
-            con.Add("ToolBtn", this.toolItem);
-            con.Add("TpControl", this.tpControl);
-            con.Add("TbControl", this.tbControl);
-            con.Add("Info", custInfo); 
-            con.Add("Service", custService);  
-            InitForm(con);
+            this.ToolBtn=this.toolItem;
+            this.TpControl=this.tpControl;
+            this.TbControl=this.tbControl;
+            this.Info=custInfo; 
+            this.Service=custService;  
+            InitForm();
         }
 
         /// <summary>
@@ -63,7 +61,7 @@ namespace TS.Sys.Platform.Forms.BaseDataForms
         public CustomerDetailForm(String code)
             :this()
         {
-            InitForm();
+            InitForm("new");
             this.cRegion.Value = code;       
 
         }

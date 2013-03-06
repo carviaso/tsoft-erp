@@ -41,95 +41,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="BaseDataForms\Account.cs">
-      <SubType>Form</SubType>
+    <Compile Include="MenuList\MenuBase.cs">
+      <SubType>Component</SubType>
     </Compile>
-    <Compile Include="BaseDataForms\Account.Designer.cs">
-      <DependentUpon>Account.cs</DependentUpon>
-    </Compile>
-    <Compile Include="BaseDataForms\AccountDetail.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="BaseDataForms\AccountDetail.Designer.cs">
-      <DependentUpon>AccountDetail.cs</DependentUpon>
-    </Compile>
-    <Compile Include="BaseDataForms\BankAccount.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="BaseDataForms\BankAccount.Designer.cs">
-      <DependentUpon>BankAccount.cs</DependentUpon>
-    </Compile>
-    <Compile Include="BaseDataForms\BankAccountDetail.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="BaseDataForms\BankAccountDetail.Designer.cs">
-      <DependentUpon>BankAccountDetail.cs</DependentUpon>
-    </Compile>
-    <Compile Include="BaseDataForms\Customer.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="BaseDataForms\Customer.Designer.cs">
-      <DependentUpon>Customer.cs</DependentUpon>
-    </Compile>
-    <Compile Include="BaseDataForms\CustomerDetail.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="BaseDataForms\CustomerDetail.Designer.cs">
-      <DependentUpon>CustomerDetail.cs</DependentUpon>
-    </Compile>
-    <Compile Include="BaseDataForms\Department.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="BaseDataForms\Department.Designer.cs">
-      <DependentUpon>Department.cs</DependentUpon>
-    </Compile>
-    <Compile Include="BaseDataForms\DepartmentDetail.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="BaseDataForms\DepartmentDetail.Designer.cs">
-      <DependentUpon>DepartmentDetail.cs</DependentUpon>
-    </Compile>
-    <Compile Include="BaseDataForms\Employee.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="BaseDataForms\Employee.Designer.cs">
-      <DependentUpon>Employee.cs</DependentUpon>
-    </Compile>
-    <Compile Include="BaseDataForms\EmployeeDetail.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="BaseDataForms\EmployeeDetail.Designer.cs">
-      <DependentUpon>EmployeeDetail.cs</DependentUpon>
-    </Compile>
-    <Compile Include="BaseDataForms\FaType.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="BaseDataForms\FaType.Designer.cs">
-      <DependentUpon>FaType.cs</DependentUpon>
-    </Compile>
-    <Compile Include="BaseDataForms\FaTypeDetail.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="BaseDataForms\FaTypeDetail.Designer.cs">
-      <DependentUpon>FaTypeDetail.cs</DependentUpon>
-    </Compile>
-    <Compile Include="BaseDataForms\Region.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="BaseDataForms\Region.Designer.cs">
-      <DependentUpon>Region.cs</DependentUpon>
-    </Compile>
-    <Compile Include="BaseDataForms\RegionDetail.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="BaseDataForms\RegionDetail.Designer.cs">
-      <DependentUpon>RegionDetail.cs</DependentUpon>
-    </Compile>
-    <Compile Include="MenuListTest\MenuContext.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="MenuListTest\MenuContext.Designer.cs">
-      <DependentUpon>MenuContext.cs</DependentUpon>
+    <Compile Include="MenuList\MenuContext.cs">
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="SysForms\ProcessBarForm.cs">
       <SubType>Form</SubType>
@@ -149,30 +65,6 @@
     <Compile Include="SysManager\RoleDetail.Designer.cs">
       <DependentUpon>RoleDetail.cs</DependentUpon>
     </Compile>
-    <Compile Include="BaseDataForms\SettleType.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="BaseDataForms\SettleType.Designer.cs">
-      <DependentUpon>SettleType.cs</DependentUpon>
-    </Compile>
-    <Compile Include="BaseDataForms\SettleTypeDetail.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="BaseDataForms\SettleTypeDetail.Designer.cs">
-      <DependentUpon>SettleTypeDetail.cs</DependentUpon>
-    </Compile>
-    <Compile Include="BaseDataForms\Supply.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="BaseDataForms\Supply.Designer.cs">
-      <DependentUpon>Supply.cs</DependentUpon>
-    </Compile>
-    <Compile Include="BaseDataForms\SupplyDetail.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="BaseDataForms\SupplyDetail.Designer.cs">
-      <DependentUpon>SupplyDetail.cs</DependentUpon>
-    </Compile>
     <Compile Include="LoginForm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -184,18 +76,6 @@
     </Compile>
     <Compile Include="MainForm.Designer.cs">
       <DependentUpon>MainForm.cs</DependentUpon>
-    </Compile>
-    <Compile Include="MenuListTest\MenuBaseTest.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="MenuListTest\MenuBaseTest.Designer.cs">
-      <DependentUpon>MenuBaseTest.cs</DependentUpon>
-    </Compile>
-    <Compile Include="MenuList\MenuBase.cs">
-      <SubType>Component</SubType>
-    </Compile>
-    <Compile Include="MenuList\MenuContext.cs">
-      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Properties\Resources.Designer.cs">
@@ -235,51 +115,6 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="BaseDataForms\Account.resx">
-      <DependentUpon>Account.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="BaseDataForms\AccountDetail.resx">
-      <DependentUpon>AccountDetail.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="BaseDataForms\BankAccount.resx">
-      <DependentUpon>BankAccount.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="BaseDataForms\BankAccountDetail.resx">
-      <DependentUpon>BankAccountDetail.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="BaseDataForms\Customer.resx">
-      <DependentUpon>Customer.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="BaseDataForms\CustomerDetail.resx">
-      <DependentUpon>CustomerDetail.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="BaseDataForms\Department.resx">
-      <DependentUpon>Department.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="BaseDataForms\DepartmentDetail.resx">
-      <DependentUpon>DepartmentDetail.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="BaseDataForms\Employee.resx">
-      <DependentUpon>Employee.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="BaseDataForms\EmployeeDetail.resx">
-      <DependentUpon>EmployeeDetail.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="BaseDataForms\FaType.resx">
-      <DependentUpon>FaType.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="BaseDataForms\FaTypeDetail.resx">
-      <DependentUpon>FaTypeDetail.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="BaseDataForms\Region.resx">
-      <DependentUpon>Region.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="BaseDataForms\RegionDetail.resx">
-      <DependentUpon>RegionDetail.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="MenuListTest\MenuContext.resx">
-      <DependentUpon>MenuContext.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="SysForms\ProcessBarForm.resx">
       <DependentUpon>ProcessBarForm.cs</DependentUpon>
     </EmbeddedResource>
@@ -289,26 +124,11 @@
     <EmbeddedResource Include="SysManager\RoleDetail.resx">
       <DependentUpon>RoleDetail.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="BaseDataForms\SettleType.resx">
-      <DependentUpon>SettleType.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="BaseDataForms\SettleTypeDetail.resx">
-      <DependentUpon>SettleTypeDetail.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="BaseDataForms\Supply.resx">
-      <DependentUpon>Supply.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="BaseDataForms\SupplyDetail.resx">
-      <DependentUpon>SupplyDetail.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="LoginForm.resx">
       <DependentUpon>LoginForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="MainForm.resx">
       <DependentUpon>MainForm.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="MenuListTest\MenuBaseTest.resx">
-      <DependentUpon>MenuBaseTest.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -443,10 +263,6 @@
     <None Include="Resource\img\User.png" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\TS.PRS.MemberMan\TS.PRS.MemberMan.csproj">
-      <Project>{3EF7BD0F-C94F-4EF2-9BB9-47DDD88CB847}</Project>
-      <Name>TS.PRS.MemberMan</Name>
-    </ProjectReference>
     <ProjectReference Include="..\TS.Sys.DBLayer\TS.Sys.DBLayer.csproj">
       <Project>{8F45DE22-E519-4143-896E-07F9FFA33628}</Project>
       <Name>TS.Sys.DBLayer</Name>

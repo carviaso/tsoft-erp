@@ -33,6 +33,23 @@ namespace TS.Sys.Platform.Business.Dao
 
         protected void Audit(BusinessMainInfo bmi)
         {
+            SqlCommand command = GetAuditCommand(bmi);
+            DbSvr.GetDbService().ExecuteCommand(command);
+        }
+
+        protected void UnAudit(BusinessMainInfo bmi)
+        {
+            SqlCommand command = GetUnAuditCommand(bmi);
+            DbSvr.GetDbService().ExecuteCommand(command);
+        }
+
+        /// <summary>
+        /// 单据审核
+        /// </summary>
+        /// <param name="bmi">单据元数据</param>
+        /// <returns>审核命令</returns>
+        protected SqlCommand GetAuditCommand(BusinessMainInfo bmi)
+        {
             Hashtable con = new Hashtable();
             con.Add("cGUID", bmi.cGUID);
             Hashtable values = new Hashtable();
@@ -40,15 +57,20 @@ namespace TS.Sys.Platform.Business.Dao
             values.Add("dAuditDate", UserSession.LoginDate);
             String cTimeStamp = KeyUtil.genSimpleKey();
             values.Add("cTimeStamp", cTimeStamp);
-
-            Result result = new Result();
-            DbSvr.GetDbService().Update(TableName, values, con);
+            SqlCommand result = DbSvr.GetDbService().GetUpdateCommand(TableName, values, con);
             bmi.cTimeStamp = cTimeStamp;
             bmi.cAuditor = UserSession.UserID;
             bmi.dAuditDate = UserSession.LoginDate; 
+            return result;
         }
 
-        protected void UnAudit(BusinessMainInfo bmi)
+
+        /// <summary>
+        /// 单据反审核命令
+        /// </summary>
+        /// <param name="bmi">单据元数据</param>
+        /// <returns>单据反审核命令</returns>
+        protected SqlCommand GetUnAuditCommand(BusinessMainInfo bmi)
         {
             Hashtable con = new Hashtable();
             con.Add("cGUID", bmi.cGUID);
@@ -58,10 +80,10 @@ namespace TS.Sys.Platform.Business.Dao
             String cTimeStamp = KeyUtil.genSimpleKey();
             values.Add("cTimeStamp", cTimeStamp);
             bmi.cTimeStamp = cTimeStamp;
-            Result result = new Result();
-            DbSvr.GetDbService().Update(TableName, values, con);
+            SqlCommand result = DbSvr.GetDbService().GetUpdateCommand(TableName, values, con);
             bmi.cAuditor = null;
             bmi.dAuditDate = null;
+            return result;
         }
 
         protected SqlCommand GetAddMainCommand(BusinessMainInfo bi)

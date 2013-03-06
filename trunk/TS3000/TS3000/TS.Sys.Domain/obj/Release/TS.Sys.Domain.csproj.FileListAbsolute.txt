@@ -23,3 +23,28 @@ D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.Domain\bin\Release\TS.Sys.Domain.pdb
 D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.Domain\obj\Release\ResolveAssemblyReference.cache
 D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.Domain\obj\Release\TS.Sys.Domain.dll
 D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.Domain\obj\Release\TS.Sys.Domain.pdb
+D:\TSoft Projects\TSGLASS\TS_PRS\TS.Sys.Domain\bin\Release\TS.Sys.Domain.dll
+D:\TSoft Projects\TSGLASS\TS_PRS\TS.Sys.Domain\bin\Release\TS.Sys.Domain.pdb
+D:\TSoft Projects\TSGLASS\TS_PRS\TS.Sys.Domain\obj\Release\ResolveAssemblyReference.cache
+D:\TSoft Projects\TSGLASS\TS_PRS\TS.Sys.Domain\obj\Release\TS.Sys.Domain.dll
+D:\TSoft Projects\TSGLASS\TS_PRS\TS.Sys.Domain\obj\Release\TS.Sys.Domain.pdb
+D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Domain\bin\Release\TS.Sys.Domain.dll
+D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Domain\bin\Release\TS.Sys.Domain.pdb
+D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Domain\obj\Release\ResolveAssemblyReference.cache
+D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Domain\obj\Release\TS.Sys.Domain.dll
+D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Domain\obj\Release\TS.Sys.Domain.pdb
+H:\work\TSGLASS\TS3000\TS.Sys.Domain\bin\Release\TS.Sys.Domain.dll
+H:\work\TSGLASS\TS3000\TS.Sys.Domain\bin\Release\TS.Sys.Domain.pdb
+H:\work\TSGLASS\TS3000\TS.Sys.Domain\obj\Release\ResolveAssemblyReference.cache
+H:\work\TSGLASS\TS3000\TS.Sys.Domain\obj\Release\TS.Sys.Domain.dll
+H:\work\TSGLASS\TS3000\TS.Sys.Domain\obj\Release\TS.Sys.Domain.pdb
+H:\work\TSGLASS - 副本\TS3000\TS.Sys.Domain\bin\Release\TS.Sys.Domain.dll
+H:\work\TSGLASS - 副本\TS3000\TS.Sys.Domain\bin\Release\TS.Sys.Domain.pdb
+H:\work\TSGLASS - 副本\TS3000\TS.Sys.Domain\obj\Release\ResolveAssemblyReference.cache
+H:\work\TSGLASS - 副本\TS3000\TS.Sys.Domain\obj\Release\TS.Sys.Domain.dll
+H:\work\TSGLASS - 副本\TS3000\TS.Sys.Domain\obj\Release\TS.Sys.Domain.pdb
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Domain\bin\Release\TS.Sys.Domain.dll
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Domain\bin\Release\TS.Sys.Domain.pdb
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Domain\obj\Release\ResolveAssemblyReference.cache
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Domain\obj\Release\TS.Sys.Domain.dll
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Domain\obj\Release\TS.Sys.Domain.pdb

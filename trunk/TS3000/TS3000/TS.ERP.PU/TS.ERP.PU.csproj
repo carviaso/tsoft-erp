@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{ED91E214-D8CF-49FC-864E-813A5265E7DC}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>TS.ERP.PU</RootNamespace>
+    <AssemblyName>TS.ERP.PU</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Dao\OrderDao.cs" />
+    <Compile Include="Dao\OrderDao.sql.cs" />
+    <Compile Include="Forms\OrderDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\OrderDetail.Designer.cs">
+      <DependentUpon>OrderDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\OrderList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\OrderList.Designer.cs">
+      <DependentUpon>OrderList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Info\OrderInfo.cs" />
+    <Compile Include="Info\OrderSubInfo.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Service\OrderService.cs" />
+    <EmbeddedResource Include="Forms\OrderDetail.resx">
+      <DependentUpon>OrderDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\OrderList.resx">
+      <DependentUpon>OrderList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <ProjectReference Include="..\TS.ERP.Business\TS.ERP.Business.csproj">
+      <Project>{21D4CA9A-607A-4CB8-A5B7-58A088ECF8B9}</Project>
+      <Name>TS.ERP.Business</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TS.ERP.ST\TS.ERP.ST.csproj">
+      <Project>{D6BD387E-FE8A-4574-B9DC-CD43B520C7A8}</Project>
+      <Name>TS.ERP.ST</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TS.Sys.DBLayer\TS.Sys.DBLayer.csproj">
+      <Project>{8F45DE22-E519-4143-896E-07F9FFA33628}</Project>
+      <Name>TS.Sys.DBLayer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TS.Sys.Domain\TS.Sys.Domain.csproj">
+      <Project>{BB99B8B6-8E24-46E5-80C8-D53CECEDD6E8}</Project>
+      <Name>TS.Sys.Domain</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TS.Sys.Platform.Business\TS.Sys.Platform.Business.csproj">
+      <Project>{F9B3FA40-9118-4F1E-BDF2-1ABB26E2857B}</Project>
+      <Name>TS.Sys.Platform.Business</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TS.Sys.Platform.Exceptions\TS.Sys.Platform.Exceptions.csproj">
+      <Project>{1D8F31F6-4A36-452C-909E-491EDB9B2826}</Project>
+      <Name>TS.Sys.Platform.Exceptions</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TS.Sys.Platform.SecuAccess\TS.Sys.Platform.SecuAccess.csproj">
+      <Project>{4FED04D7-0B23-4ED3-BC33-BA90285D7CFC}</Project>
+      <Name>TS.Sys.Platform.SecuAccess</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TS.Sys.Widgets\TS.Sys.Platform.Widgets.csproj">
+      <Project>{BE0D2A13-56CF-4130-A473-64533880EBE7}</Project>
+      <Name>TS.Sys.Platform.Widgets</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

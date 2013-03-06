@@ -77,6 +77,7 @@ namespace TS.Sys.Platform.Forms
             preButton = btn;
         }
 
+
         private void InitMenuModual()
         {
             //业务菜单

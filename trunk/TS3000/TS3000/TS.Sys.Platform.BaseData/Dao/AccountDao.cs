@@ -2,7 +2,6 @@
 using System.Collections;
 using System.Data;
 using TS.Sys.DBLayer;
-using TS.Sys.Domain; 
 using TS.Sys.Platform.BaseData.Info;
 using TS.Sys.Platform.Business.Dao; 
 

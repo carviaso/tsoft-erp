@@ -1,9 +1,18 @@
-D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Util\bin\Debug\TS.Sys.Util.dll
-D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Util\bin\Debug\TS.Sys.Util.pdb
-D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Util\bin\Debug\TS.Sys.Domain.dll
-D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Util\bin\Debug\TS.Sys.Platform.Exceptions.dll
-D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Util\bin\Debug\TS.Sys.Domain.pdb
-D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Util\bin\Debug\TS.Sys.Platform.Exceptions.pdb
-D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Util\obj\Debug\ResolveAssemblyReference.cache
-D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Util\obj\Debug\TS.Sys.Util.dll
-D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Util\obj\Debug\TS.Sys.Util.pdb
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Util\bin\Debug\TS.Sys.Util.dll
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Util\bin\Debug\TS.Sys.Util.pdb
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Util\bin\Debug\TS.Sys.Domain.dll
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Util\bin\Debug\TS.Sys.Platform.Exceptions.dll
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Util\bin\Debug\TS.Sys.Domain.pdb
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Util\bin\Debug\TS.Sys.Platform.Exceptions.pdb
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Util\obj\Debug\ResolveAssemblyReference.cache
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Util\obj\Debug\TS.Sys.Util.dll
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Util\obj\Debug\TS.Sys.Util.pdb
+D:\TSoft Projects\TSERP\TS3000\TS.Sys.Util\bin\Debug\TS.Sys.Util.dll
+D:\TSoft Projects\TSERP\TS3000\TS.Sys.Util\bin\Debug\TS.Sys.Util.pdb
+D:\TSoft Projects\TSERP\TS3000\TS.Sys.Util\bin\Debug\TS.Sys.Domain.dll
+D:\TSoft Projects\TSERP\TS3000\TS.Sys.Util\bin\Debug\TS.Sys.Platform.Exceptions.dll
+D:\TSoft Projects\TSERP\TS3000\TS.Sys.Util\bin\Debug\TS.Sys.Domain.pdb
+D:\TSoft Projects\TSERP\TS3000\TS.Sys.Util\bin\Debug\TS.Sys.Platform.Exceptions.pdb
+D:\TSoft Projects\TSERP\TS3000\TS.Sys.Util\obj\Debug\ResolveAssemblyReference.cache
+D:\TSoft Projects\TSERP\TS3000\TS.Sys.Util\obj\Debug\TS.Sys.Util.dll
+D:\TSoft Projects\TSERP\TS3000\TS.Sys.Util\obj\Debug\TS.Sys.Util.pdb

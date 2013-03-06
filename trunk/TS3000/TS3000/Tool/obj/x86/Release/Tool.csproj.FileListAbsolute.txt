@@ -103,3 +103,108 @@ D:\TSoft Projects\SZCRH\TS_PRS\Tool\obj\x86\Release\GenerateResource.read.1.tlog
 D:\TSoft Projects\SZCRH\TS_PRS\Tool\obj\x86\Release\GenerateResource.write.1.tlog
 D:\TSoft Projects\SZCRH\TS_PRS\Tool\obj\x86\Release\Tool.exe
 D:\TSoft Projects\SZCRH\TS_PRS\Tool\obj\x86\Release\Tool.pdb
+D:\TSoft Projects\TSGLASS\TS_PRS\Tool\bin\Release\Tool.exe
+D:\TSoft Projects\TSGLASS\TS_PRS\Tool\bin\Release\Tool.pdb
+D:\TSoft Projects\TSGLASS\TS_PRS\Tool\bin\Release\TS.Sys.DBLayer.dll
+D:\TSoft Projects\TSGLASS\TS_PRS\Tool\bin\Release\TS.Sys.Platform.Widgets.dll
+D:\TSoft Projects\TSGLASS\TS_PRS\Tool\bin\Release\TS.Sys.Util.dll
+D:\TSoft Projects\TSGLASS\TS_PRS\Tool\bin\Release\TS.Sys.Platform.Exceptions.dll
+D:\TSoft Projects\TSGLASS\TS_PRS\Tool\bin\Release\TS.Sys.Domain.dll
+D:\TSoft Projects\TSGLASS\TS_PRS\Tool\bin\Release\TS.Sys.Util.pdb
+D:\TSoft Projects\TSGLASS\TS_PRS\Tool\bin\Release\TS.Sys.Platform.Widgets.pdb
+D:\TSoft Projects\TSGLASS\TS_PRS\Tool\bin\Release\TS.Sys.DBLayer.pdb
+D:\TSoft Projects\TSGLASS\TS_PRS\Tool\bin\Release\TS.Sys.Platform.Exceptions.pdb
+D:\TSoft Projects\TSGLASS\TS_PRS\Tool\bin\Release\TS.Sys.Domain.pdb
+D:\TSoft Projects\TSGLASS\TS_PRS\Tool\obj\x86\Release\ResolveAssemblyReference.cache
+D:\TSoft Projects\TSGLASS\TS_PRS\Tool\obj\x86\Release\Tool.Form1.resources
+D:\TSoft Projects\TSGLASS\TS_PRS\Tool\obj\x86\Release\Tool.Form2.resources
+D:\TSoft Projects\TSGLASS\TS_PRS\Tool\obj\x86\Release\Tool.Form3.resources
+D:\TSoft Projects\TSGLASS\TS_PRS\Tool\obj\x86\Release\Tool.Properties.Resources.resources
+D:\TSoft Projects\TSGLASS\TS_PRS\Tool\obj\x86\Release\GenerateResource.read.1.tlog
+D:\TSoft Projects\TSGLASS\TS_PRS\Tool\obj\x86\Release\GenerateResource.write.1.tlog
+D:\TSoft Projects\TSGLASS\TS_PRS\Tool\obj\x86\Release\Tool.exe
+D:\TSoft Projects\TSGLASS\TS_PRS\Tool\obj\x86\Release\Tool.pdb
+D:\TSoft Projects\TSGLASS\TS3000\Tool\bin\Release\Tool.exe
+D:\TSoft Projects\TSGLASS\TS3000\Tool\bin\Release\Tool.pdb
+D:\TSoft Projects\TSGLASS\TS3000\Tool\bin\Release\TS.Sys.DBLayer.dll
+D:\TSoft Projects\TSGLASS\TS3000\Tool\bin\Release\TS.Sys.Platform.Widgets.dll
+D:\TSoft Projects\TSGLASS\TS3000\Tool\bin\Release\TS.Sys.Util.dll
+D:\TSoft Projects\TSGLASS\TS3000\Tool\bin\Release\TS.Sys.Platform.Exceptions.dll
+D:\TSoft Projects\TSGLASS\TS3000\Tool\bin\Release\TS.Sys.Domain.dll
+D:\TSoft Projects\TSGLASS\TS3000\Tool\bin\Release\TS.Sys.Util.pdb
+D:\TSoft Projects\TSGLASS\TS3000\Tool\bin\Release\TS.Sys.DBLayer.pdb
+D:\TSoft Projects\TSGLASS\TS3000\Tool\bin\Release\TS.Sys.Platform.Exceptions.pdb
+D:\TSoft Projects\TSGLASS\TS3000\Tool\bin\Release\TS.Sys.Domain.pdb
+D:\TSoft Projects\TSGLASS\TS3000\Tool\obj\x86\Release\ResolveAssemblyReference.cache
+D:\TSoft Projects\TSGLASS\TS3000\Tool\obj\x86\Release\Tool.Form1.resources
+D:\TSoft Projects\TSGLASS\TS3000\Tool\obj\x86\Release\Tool.Form2.resources
+D:\TSoft Projects\TSGLASS\TS3000\Tool\obj\x86\Release\Tool.Form3.resources
+D:\TSoft Projects\TSGLASS\TS3000\Tool\obj\x86\Release\Tool.Properties.Resources.resources
+D:\TSoft Projects\TSGLASS\TS3000\Tool\obj\x86\Release\GenerateResource.read.1.tlog
+D:\TSoft Projects\TSGLASS\TS3000\Tool\obj\x86\Release\GenerateResource.write.1.tlog
+D:\TSoft Projects\TSGLASS\TS3000\Tool\obj\x86\Release\Tool.exe
+D:\TSoft Projects\TSGLASS\TS3000\Tool\obj\x86\Release\Tool.pdb
+D:\TSoft Projects\TSGLASS\TS3000\Tool\bin\Release\TS.Sys.Platform.Widgets.pdb
+H:\work\TSGLASS\TS3000\Tool\bin\Release\Tool.exe
+H:\work\TSGLASS\TS3000\Tool\bin\Release\Tool.pdb
+H:\work\TSGLASS\TS3000\Tool\bin\Release\TS.Sys.DBLayer.dll
+H:\work\TSGLASS\TS3000\Tool\bin\Release\TS.Sys.Platform.Widgets.dll
+H:\work\TSGLASS\TS3000\Tool\bin\Release\TS.Sys.Util.dll
+H:\work\TSGLASS\TS3000\Tool\bin\Release\TS.Sys.Platform.Exceptions.dll
+H:\work\TSGLASS\TS3000\Tool\bin\Release\TS.Sys.Domain.dll
+H:\work\TSGLASS\TS3000\Tool\bin\Release\TS.Sys.Util.pdb
+H:\work\TSGLASS\TS3000\Tool\bin\Release\TS.Sys.Platform.Widgets.pdb
+H:\work\TSGLASS\TS3000\Tool\bin\Release\TS.Sys.DBLayer.pdb
+H:\work\TSGLASS\TS3000\Tool\bin\Release\TS.Sys.Platform.Exceptions.pdb
+H:\work\TSGLASS\TS3000\Tool\bin\Release\TS.Sys.Domain.pdb
+H:\work\TSGLASS\TS3000\Tool\obj\x86\Release\ResolveAssemblyReference.cache
+H:\work\TSGLASS\TS3000\Tool\obj\x86\Release\Tool.Form1.resources
+H:\work\TSGLASS\TS3000\Tool\obj\x86\Release\Tool.Form2.resources
+H:\work\TSGLASS\TS3000\Tool\obj\x86\Release\Tool.Form3.resources
+H:\work\TSGLASS\TS3000\Tool\obj\x86\Release\Tool.Properties.Resources.resources
+H:\work\TSGLASS\TS3000\Tool\obj\x86\Release\GenerateResource.read.1.tlog
+H:\work\TSGLASS\TS3000\Tool\obj\x86\Release\GenerateResource.write.1.tlog
+H:\work\TSGLASS\TS3000\Tool\obj\x86\Release\Tool.exe
+H:\work\TSGLASS\TS3000\Tool\obj\x86\Release\Tool.pdb
+H:\work\TSGLASS - 副本\TS3000\Tool\bin\Release\Tool.exe
+H:\work\TSGLASS - 副本\TS3000\Tool\bin\Release\Tool.pdb
+H:\work\TSGLASS - 副本\TS3000\Tool\bin\Release\TS.Sys.DBLayer.dll
+H:\work\TSGLASS - 副本\TS3000\Tool\bin\Release\TS.Sys.Platform.Widgets.dll
+H:\work\TSGLASS - 副本\TS3000\Tool\bin\Release\TS.Sys.Util.dll
+H:\work\TSGLASS - 副本\TS3000\Tool\bin\Release\TS.Sys.Platform.Exceptions.dll
+H:\work\TSGLASS - 副本\TS3000\Tool\bin\Release\TS.Sys.Domain.dll
+H:\work\TSGLASS - 副本\TS3000\Tool\bin\Release\TS.Sys.Util.pdb
+H:\work\TSGLASS - 副本\TS3000\Tool\bin\Release\TS.Sys.Platform.Widgets.pdb
+H:\work\TSGLASS - 副本\TS3000\Tool\bin\Release\TS.Sys.DBLayer.pdb
+H:\work\TSGLASS - 副本\TS3000\Tool\bin\Release\TS.Sys.Platform.Exceptions.pdb
+H:\work\TSGLASS - 副本\TS3000\Tool\bin\Release\TS.Sys.Domain.pdb
+H:\work\TSGLASS - 副本\TS3000\Tool\obj\x86\Release\ResolveAssemblyReference.cache
+H:\work\TSGLASS - 副本\TS3000\Tool\obj\x86\Release\Tool.Form1.resources
+H:\work\TSGLASS - 副本\TS3000\Tool\obj\x86\Release\Tool.Form2.resources
+H:\work\TSGLASS - 副本\TS3000\Tool\obj\x86\Release\Tool.Form3.resources
+H:\work\TSGLASS - 副本\TS3000\Tool\obj\x86\Release\Tool.Properties.Resources.resources
+H:\work\TSGLASS - 副本\TS3000\Tool\obj\x86\Release\GenerateResource.read.1.tlog
+H:\work\TSGLASS - 副本\TS3000\Tool\obj\x86\Release\GenerateResource.write.1.tlog
+H:\work\TSGLASS - 副本\TS3000\Tool\obj\x86\Release\Tool.exe
+H:\work\TSGLASS - 副本\TS3000\Tool\obj\x86\Release\Tool.pdb
+G:\Work\Projects\TSERP\TS3000\Tool\bin\Release\Tool.exe
+G:\Work\Projects\TSERP\TS3000\Tool\bin\Release\Tool.pdb
+G:\Work\Projects\TSERP\TS3000\Tool\bin\Release\TS.Sys.DBLayer.dll
+G:\Work\Projects\TSERP\TS3000\Tool\bin\Release\TS.Sys.Platform.Widgets.dll
+G:\Work\Projects\TSERP\TS3000\Tool\bin\Release\TS.Sys.Util.dll
+G:\Work\Projects\TSERP\TS3000\Tool\bin\Release\TS.Sys.Domain.dll
+G:\Work\Projects\TSERP\TS3000\Tool\bin\Release\TS.Sys.Platform.Exceptions.dll
+G:\Work\Projects\TSERP\TS3000\Tool\bin\Release\TS.Sys.Util.pdb
+G:\Work\Projects\TSERP\TS3000\Tool\bin\Release\TS.Sys.DBLayer.pdb
+G:\Work\Projects\TSERP\TS3000\Tool\bin\Release\TS.Sys.Domain.pdb
+G:\Work\Projects\TSERP\TS3000\Tool\bin\Release\TS.Sys.Platform.Exceptions.pdb
+G:\Work\Projects\TSERP\TS3000\Tool\obj\x86\Release\ResolveAssemblyReference.cache
+G:\Work\Projects\TSERP\TS3000\Tool\obj\x86\Release\Tool.Form1.resources
+G:\Work\Projects\TSERP\TS3000\Tool\obj\x86\Release\Tool.Form2.resources
+G:\Work\Projects\TSERP\TS3000\Tool\obj\x86\Release\Tool.Form3.resources
+G:\Work\Projects\TSERP\TS3000\Tool\obj\x86\Release\Tool.Properties.Resources.resources
+G:\Work\Projects\TSERP\TS3000\Tool\obj\x86\Release\GenerateResource.read.1.tlog
+G:\Work\Projects\TSERP\TS3000\Tool\obj\x86\Release\GenerateResource.write.1.tlog
+G:\Work\Projects\TSERP\TS3000\Tool\obj\x86\Release\Tool.exe
+G:\Work\Projects\TSERP\TS3000\Tool\obj\x86\Release\Tool.pdb
+G:\Work\Projects\TSERP\TS3000\Tool\bin\Release\TS.Sys.Platform.Widgets.pdb

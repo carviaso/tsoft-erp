@@ -103,3 +103,134 @@ D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.Platform.BaseData\bin\Release\TS.Sys.Sessi
 D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.Platform.BaseData\obj\Release\ResolveAssemblyReference.cache
 D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.Platform.BaseData\obj\Release\TS.Sys.Platform.BaseData.dll
 D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.Platform.BaseData\obj\Release\TS.Sys.Platform.BaseData.pdb
+D:\TSoft Projects\TSGLASS\TS_PRS\TS.Sys.Platform.BaseData\bin\Release\TS.Sys.Platform.BaseData.dll
+D:\TSoft Projects\TSGLASS\TS_PRS\TS.Sys.Platform.BaseData\bin\Release\TS.Sys.Platform.BaseData.pdb
+D:\TSoft Projects\TSGLASS\TS_PRS\TS.Sys.Platform.BaseData\bin\Release\TS.Sys.DBLayer.dll
+D:\TSoft Projects\TSGLASS\TS_PRS\TS.Sys.Platform.BaseData\bin\Release\TS.Sys.Domain.dll
+D:\TSoft Projects\TSGLASS\TS_PRS\TS.Sys.Platform.BaseData\bin\Release\TS.Sys.Platform.Business.dll
+D:\TSoft Projects\TSGLASS\TS_PRS\TS.Sys.Platform.BaseData\bin\Release\TS.Sys.Platform.Exceptions.dll
+D:\TSoft Projects\TSGLASS\TS_PRS\TS.Sys.Platform.BaseData\bin\Release\TS.Sys.Util.dll
+D:\TSoft Projects\TSGLASS\TS_PRS\TS.Sys.Platform.BaseData\bin\Release\TS.Sys.Session.dll
+D:\TSoft Projects\TSGLASS\TS_PRS\TS.Sys.Platform.BaseData\bin\Release\TS.Sys.Platform.Widgets.dll
+D:\TSoft Projects\TSGLASS\TS_PRS\TS.Sys.Platform.BaseData\bin\Release\TS.Sys.Platform.SecuAccess.dll
+D:\TSoft Projects\TSGLASS\TS_PRS\TS.Sys.Platform.BaseData\bin\Release\TS.Sys.DBLayer.pdb
+D:\TSoft Projects\TSGLASS\TS_PRS\TS.Sys.Platform.BaseData\bin\Release\TS.Sys.Domain.pdb
+D:\TSoft Projects\TSGLASS\TS_PRS\TS.Sys.Platform.BaseData\bin\Release\TS.Sys.Platform.Business.pdb
+D:\TSoft Projects\TSGLASS\TS_PRS\TS.Sys.Platform.BaseData\bin\Release\TS.Sys.Platform.Exceptions.pdb
+D:\TSoft Projects\TSGLASS\TS_PRS\TS.Sys.Platform.BaseData\bin\Release\TS.Sys.Util.pdb
+D:\TSoft Projects\TSGLASS\TS_PRS\TS.Sys.Platform.BaseData\bin\Release\TS.Sys.Session.pdb
+D:\TSoft Projects\TSGLASS\TS_PRS\TS.Sys.Platform.BaseData\bin\Release\TS.Sys.Platform.Widgets.pdb
+D:\TSoft Projects\TSGLASS\TS_PRS\TS.Sys.Platform.BaseData\bin\Release\TS.Sys.Platform.SecuAccess.pdb
+D:\TSoft Projects\TSGLASS\TS_PRS\TS.Sys.Platform.BaseData\obj\Release\ResolveAssemblyReference.cache
+D:\TSoft Projects\TSGLASS\TS_PRS\TS.Sys.Platform.BaseData\obj\Release\TS.Sys.Platform.BaseData.dll
+D:\TSoft Projects\TSGLASS\TS_PRS\TS.Sys.Platform.BaseData\obj\Release\TS.Sys.Platform.BaseData.pdb
+D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Platform.BaseData\bin\Release\TS.Sys.Platform.BaseData.dll
+D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Platform.BaseData\bin\Release\TS.Sys.Platform.BaseData.pdb
+D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Platform.BaseData\bin\Release\TS.Sys.DBLayer.dll
+D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Platform.BaseData\bin\Release\TS.Sys.Domain.dll
+D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Platform.BaseData\bin\Release\TS.Sys.Platform.Business.dll
+D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Platform.BaseData\bin\Release\TS.Sys.Platform.Exceptions.dll
+D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Platform.BaseData\bin\Release\TS.Sys.Util.dll
+D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Platform.BaseData\bin\Release\TS.Sys.Platform.Widgets.dll
+D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Platform.BaseData\bin\Release\TS.Sys.Platform.SecuAccess.dll
+D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Platform.BaseData\bin\Release\TS.Sys.Session.dll
+D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Platform.BaseData\bin\Release\TS.Sys.DBLayer.pdb
+D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Platform.BaseData\bin\Release\TS.Sys.Domain.pdb
+D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Platform.BaseData\bin\Release\TS.Sys.Platform.Business.pdb
+D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Platform.BaseData\bin\Release\TS.Sys.Platform.Exceptions.pdb
+D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Platform.BaseData\bin\Release\TS.Sys.Util.pdb
+D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Platform.BaseData\bin\Release\TS.Sys.Platform.SecuAccess.pdb
+D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Platform.BaseData\bin\Release\TS.Sys.Session.pdb
+D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Platform.BaseData\obj\Release\ResolveAssemblyReference.cache
+D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Platform.BaseData\obj\Release\TS.Sys.Platform.BaseData.dll
+D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Platform.BaseData\obj\Release\TS.Sys.Platform.BaseData.pdb
+D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Platform.BaseData\bin\Release\TS.Sys.Platform.Widgets.pdb
+H:\work\TSGLASS\TS3000\TS.Sys.Platform.BaseData\bin\Release\TS.Sys.Platform.BaseData.dll
+H:\work\TSGLASS\TS3000\TS.Sys.Platform.BaseData\bin\Release\TS.Sys.Platform.BaseData.pdb
+H:\work\TSGLASS\TS3000\TS.Sys.Platform.BaseData\bin\Release\TS.Sys.DBLayer.dll
+H:\work\TSGLASS\TS3000\TS.Sys.Platform.BaseData\bin\Release\TS.Sys.Domain.dll
+H:\work\TSGLASS\TS3000\TS.Sys.Platform.BaseData\bin\Release\TS.Sys.Platform.Business.dll
+H:\work\TSGLASS\TS3000\TS.Sys.Platform.BaseData\bin\Release\TS.Sys.Platform.Exceptions.dll
+H:\work\TSGLASS\TS3000\TS.Sys.Platform.BaseData\bin\Release\TS.Sys.Util.dll
+H:\work\TSGLASS\TS3000\TS.Sys.Platform.BaseData\bin\Release\TS.Sys.Platform.Widgets.dll
+H:\work\TSGLASS\TS3000\TS.Sys.Platform.BaseData\bin\Release\TS.Sys.Platform.SecuAccess.dll
+H:\work\TSGLASS\TS3000\TS.Sys.Platform.BaseData\bin\Release\TS.Sys.Session.dll
+H:\work\TSGLASS\TS3000\TS.Sys.Platform.BaseData\bin\Release\TS.Sys.DBLayer.pdb
+H:\work\TSGLASS\TS3000\TS.Sys.Platform.BaseData\bin\Release\TS.Sys.Domain.pdb
+H:\work\TSGLASS\TS3000\TS.Sys.Platform.BaseData\bin\Release\TS.Sys.Platform.Business.pdb
+H:\work\TSGLASS\TS3000\TS.Sys.Platform.BaseData\bin\Release\TS.Sys.Platform.Exceptions.pdb
+H:\work\TSGLASS\TS3000\TS.Sys.Platform.BaseData\bin\Release\TS.Sys.Util.pdb
+H:\work\TSGLASS\TS3000\TS.Sys.Platform.BaseData\bin\Release\TS.Sys.Platform.Widgets.pdb
+H:\work\TSGLASS\TS3000\TS.Sys.Platform.BaseData\bin\Release\TS.Sys.Platform.SecuAccess.pdb
+H:\work\TSGLASS\TS3000\TS.Sys.Platform.BaseData\bin\Release\TS.Sys.Session.pdb
+H:\work\TSGLASS\TS3000\TS.Sys.Platform.BaseData\obj\Release\ResolveAssemblyReference.cache
+H:\work\TSGLASS\TS3000\TS.Sys.Platform.BaseData\obj\Release\TS.Sys.Platform.BaseData.dll
+H:\work\TSGLASS\TS3000\TS.Sys.Platform.BaseData\obj\Release\TS.Sys.Platform.BaseData.pdb
+H:\work\TSGLASS - 副本\TS3000\TS.Sys.Platform.BaseData\bin\Release\TS.Sys.Platform.BaseData.dll
+H:\work\TSGLASS - 副本\TS3000\TS.Sys.Platform.BaseData\bin\Release\TS.Sys.Platform.BaseData.pdb
+H:\work\TSGLASS - 副本\TS3000\TS.Sys.Platform.BaseData\bin\Release\TS.Sys.DBLayer.dll
+H:\work\TSGLASS - 副本\TS3000\TS.Sys.Platform.BaseData\bin\Release\TS.Sys.Domain.dll
+H:\work\TSGLASS - 副本\TS3000\TS.Sys.Platform.BaseData\bin\Release\TS.Sys.Platform.Business.dll
+H:\work\TSGLASS - 副本\TS3000\TS.Sys.Platform.BaseData\bin\Release\TS.Sys.Platform.Exceptions.dll
+H:\work\TSGLASS - 副本\TS3000\TS.Sys.Platform.BaseData\bin\Release\TS.Sys.Util.dll
+H:\work\TSGLASS - 副本\TS3000\TS.Sys.Platform.BaseData\bin\Release\TS.Sys.Platform.SecuAccess.dll
+H:\work\TSGLASS - 副本\TS3000\TS.Sys.Platform.BaseData\bin\Release\TS.Sys.Platform.Widgets.dll
+H:\work\TSGLASS - 副本\TS3000\TS.Sys.Platform.BaseData\bin\Release\TS.Sys.Session.dll
+H:\work\TSGLASS - 副本\TS3000\TS.Sys.Platform.BaseData\bin\Release\TS.Sys.DBLayer.pdb
+H:\work\TSGLASS - 副本\TS3000\TS.Sys.Platform.BaseData\bin\Release\TS.Sys.Domain.pdb
+H:\work\TSGLASS - 副本\TS3000\TS.Sys.Platform.BaseData\bin\Release\TS.Sys.Platform.Business.pdb
+H:\work\TSGLASS - 副本\TS3000\TS.Sys.Platform.BaseData\bin\Release\TS.Sys.Platform.Exceptions.pdb
+H:\work\TSGLASS - 副本\TS3000\TS.Sys.Platform.BaseData\bin\Release\TS.Sys.Util.pdb
+H:\work\TSGLASS - 副本\TS3000\TS.Sys.Platform.BaseData\bin\Release\TS.Sys.Platform.SecuAccess.pdb
+H:\work\TSGLASS - 副本\TS3000\TS.Sys.Platform.BaseData\bin\Release\TS.Sys.Platform.Widgets.pdb
+H:\work\TSGLASS - 副本\TS3000\TS.Sys.Platform.BaseData\bin\Release\TS.Sys.Session.pdb
+H:\work\TSGLASS - 副本\TS3000\TS.Sys.Platform.BaseData\obj\Release\ResolveAssemblyReference.cache
+H:\work\TSGLASS - 副本\TS3000\TS.Sys.Platform.BaseData\obj\Release\TS.Sys.Platform.BaseData.dll
+H:\work\TSGLASS - 副本\TS3000\TS.Sys.Platform.BaseData\obj\Release\TS.Sys.Platform.BaseData.pdb
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Platform.BaseData\bin\Release\TS.Sys.Platform.BaseData.dll
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Platform.BaseData\bin\Release\TS.Sys.Platform.BaseData.pdb
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Platform.BaseData\bin\Release\TS.Sys.DBLayer.dll
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Platform.BaseData\bin\Release\TS.Sys.Domain.dll
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Platform.BaseData\bin\Release\TS.Sys.Platform.Business.dll
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Platform.BaseData\bin\Release\TS.Sys.Platform.Exceptions.dll
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Platform.BaseData\bin\Release\TS.Sys.Platform.SecuAccess.dll
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Platform.BaseData\bin\Release\TS.Sys.Platform.Widgets.dll
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Platform.BaseData\bin\Release\TS.Sys.Util.dll
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Platform.BaseData\bin\Release\TS.Sys.Session.dll
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Platform.BaseData\bin\Release\TS.Sys.DBLayer.pdb
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Platform.BaseData\bin\Release\TS.Sys.Domain.pdb
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Platform.BaseData\bin\Release\TS.Sys.Platform.Business.pdb
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Platform.BaseData\bin\Release\TS.Sys.Platform.Exceptions.pdb
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Platform.BaseData\bin\Release\TS.Sys.Platform.SecuAccess.pdb
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Platform.BaseData\bin\Release\TS.Sys.Util.pdb
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Platform.BaseData\bin\Release\TS.Sys.Session.pdb
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Platform.BaseData\obj\Release\ResolveAssemblyReference.cache
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Platform.BaseData\obj\Release\TS.Sys.Platform.BaseData.Forms.AccountForm.resources
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Platform.BaseData\obj\Release\TS.Sys.Platform.BaseData.Forms.AccountDetailForm.resources
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Platform.BaseData\obj\Release\TS.Sys.Platform.BaseData.Forms.BankAccountForm.resources
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Platform.BaseData\obj\Release\TS.Sys.Platform.BaseData.Forms.BankAccountDetailForm.resources
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Platform.BaseData\obj\Release\TS.Sys.Platform.BaseData.Forms.CustomerForm.resources
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Platform.BaseData\obj\Release\TS.Sys.Platform.BaseData.Forms.CustomerDetailForm.resources
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Platform.BaseData\obj\Release\TS.Sys.Platform.BaseData.Forms.DepartmentForm.resources
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Platform.BaseData\obj\Release\TS.Sys.Platform.BaseData.Forms.DepartmentDetailForm.resources
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Platform.BaseData\obj\Release\TS.Sys.Platform.BaseData.Forms.EmployeeForm.resources
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Platform.BaseData\obj\Release\TS.Sys.Platform.BaseData.Forms.EmployeeDetailForm.resources
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Platform.BaseData\obj\Release\TS.Sys.Platform.BaseData.Forms.FaTypeForm.resources
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Platform.BaseData\obj\Release\TS.Sys.Platform.BaseData.Forms.FaTypeDetailForm.resources
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Platform.BaseData\obj\Release\TS.Sys.Platform.BaseData.Forms.RegionForm.resources
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Platform.BaseData\obj\Release\TS.Sys.Platform.BaseData.Forms.RegionDetailForm.resources
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Platform.BaseData\obj\Release\TS.Sys.Platform.BaseData.Forms.SettleTypeForm.resources
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Platform.BaseData\obj\Release\TS.Sys.Platform.BaseData.Forms.SettleTypeDetailForm.resources
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Platform.BaseData\obj\Release\TS.Sys.Platform.BaseData.Forms.SupplyForm.resources
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Platform.BaseData\obj\Release\TS.Sys.Platform.BaseData.Forms.SupplyDetailForm.resources
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Platform.BaseData\obj\Release\TS.Sys.Platform.BaseData.Forms.MateriaClassForm.resources
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Platform.BaseData\obj\Release\TS.Sys.Platform.BaseData.Forms.MateriaClassDetailForm.resources
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Platform.BaseData\obj\Release\TS.Sys.Platform.BaseData.Forms.MateriaForm.resources
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Platform.BaseData\obj\Release\TS.Sys.Platform.BaseData.Forms.MateriaDetailForm.resources
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Platform.BaseData\obj\Release\GenerateResource.read.1.tlog
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Platform.BaseData\obj\Release\GenerateResource.write.1.tlog
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Platform.BaseData\obj\Release\TS.Sys.Platform.BaseData.dll
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Platform.BaseData\obj\Release\TS.Sys.Platform.BaseData.pdb
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Platform.BaseData\obj\Release\TS.Sys.Platform.BaseData.Forms.StorageForm.resources
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Platform.BaseData\obj\Release\TS.Sys.Platform.BaseData.Forms.StorageDetailForm.resources
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Platform.BaseData\bin\Release\TS.Sys.Platform.Widgets.pdb
