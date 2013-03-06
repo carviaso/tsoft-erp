@@ -1,5 +1,10 @@
-D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Session\bin\Debug\TS.Sys.Session.dll
-D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Session\bin\Debug\TS.Sys.Session.pdb
-D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Session\obj\Debug\ResolveAssemblyReference.cache
-D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Session\obj\Debug\TS.Sys.Session.dll
-D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Session\obj\Debug\TS.Sys.Session.pdb
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Session\bin\Debug\TS.Sys.Session.dll
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Session\bin\Debug\TS.Sys.Session.pdb
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Session\obj\Debug\ResolveAssemblyReference.cache
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Session\obj\Debug\TS.Sys.Session.dll
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Session\obj\Debug\TS.Sys.Session.pdb
+D:\TSoft Projects\TSERP\TS3000\TS.Sys.Session\bin\Debug\TS.Sys.Session.dll
+D:\TSoft Projects\TSERP\TS3000\TS.Sys.Session\bin\Debug\TS.Sys.Session.pdb
+D:\TSoft Projects\TSERP\TS3000\TS.Sys.Session\obj\Debug\ResolveAssemblyReference.cache
+D:\TSoft Projects\TSERP\TS3000\TS.Sys.Session\obj\Debug\TS.Sys.Session.dll
+D:\TSoft Projects\TSERP\TS3000\TS.Sys.Session\obj\Debug\TS.Sys.Session.pdb

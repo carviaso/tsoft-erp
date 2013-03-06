@@ -4,7 +4,6 @@ using System.Data;
 using TS.Sys.DBLayer;
 using TS.Sys.Platform.BaseData.Info;
 using TS.Sys.Platform.Business.Dao;
-using TS.Sys.Platform.Exceptions;
 
 namespace TS.Sys.Platform.BaseData.Dao
 {
@@ -12,70 +11,38 @@ namespace TS.Sys.Platform.BaseData.Dao
     {
         private static string SQL_ALL = "select * from CM_BankAccount bacct  ";
         private static string SQL_GUID_ALL = "select cGUID,cName from CM_BankAccount ";
-        private static string TABLE = "CM_BankAccount";
-        private static string TABLE_BANK = "CM_Bank";
+        private static string TABLE = "CM_Bank";
+        private static string TABLE_BANK = "CM_BankAccount";
 
         public BankAccountDao()
         {
             base.TableName = TABLE;
         }
+          
 
-        public void AddBank(BankInfo bankInfo)
+        public void AddBankAccount(BankAccountInfo bankInfo)
         {
-            int result  = DbSvr.GetDbService().Insert(TABLE_BANK, bankInfo);
-            if (result <= 0)
-            {
-                throw new BusinessException("添加失败！");
-            }
+             Add(bankInfo);
         }
 
-        public void DelBank(BankInfo bankInfo)
+        public void ModifyBankAccount(BankAccountInfo bankInfo)
         {
-            Hashtable con = new Hashtable();
-            con.Add("cGUID", bankInfo.cGUID);
-            int result = DbSvr.GetDbService().Insert(TABLE_BANK,con);
-            if (result <= 0)
-            {
-                throw new BusinessException("删除失败！");
-            }
+             Modify(bankInfo);
         }
 
-        public void  ModifyBank(BankInfo bankInfo)
+        public void DeleteBankAccount(BankAccountInfo bankInfo)
         {
-            Hashtable con = new Hashtable();
-            con.Add("cGUID", bankInfo.cGUID);
-            String cTimeStamp = TS.Sys.Util.KeyUtil.genSimpleKey();
-            bankInfo.cTimeStamp = cTimeStamp;
-            int result = DbSvr.GetDbService().Update(TABLE_BANK, bankInfo, con);
-            if (result <= 0)
-            {
-                throw new BusinessException("删除失败！");
-            }
+             Delete(bankInfo);
         }
 
-        public void AddBankAccount(BankAccountInfo bankAcctInfo)
+        public void ForbiddenBankAccount(BankAccountInfo bankInfo)
         {
-             Add(bankAcctInfo);
+             Forbidden(bankInfo);
         }
 
-        public void ModifyBankAccount(BankAccountInfo bankAcctInfo)
+        public void ValueableBankAccount(BankAccountInfo bankInfo)
         {
-             Modify(bankAcctInfo);
-        }
-
-        public void DeleteBankAccount(BankAccountInfo bankAcctInfo)
-        {
-             Delete(bankAcctInfo);
-        }
-
-        public void ForbiddenBankAccount(BankAccountInfo bankAcctInfo)
-        {
-             Forbidden(bankAcctInfo);
-        }
-
-        public void ValueableBankAccount(BankAccountInfo bankAcctInfo)
-        {
-             Valueable(bankAcctInfo);
+             Valueable(bankInfo);
         } 
 
         public ArrayList GetForAllGUID()
@@ -115,7 +82,7 @@ namespace TS.Sys.Platform.BaseData.Dao
             {
                 cCode = "";
             }
-            String sql = "select bankAcct.cGUID,bankAcct.cCode,bankAcct.cName,bankAcct.cBankAcct,bankAcct.cTimeStamp,CASE WHEN bank.iForbidden = 0 THEN '启用' ELSE '禁用' END iStatus,bank.cName cBank from  CM_BankAccount bankAcct inner join CM_Bank bank on bankAcct.cBank =bank.cCode " + cCode;
+            String sql = "select bankAcct.cGUID,bankAcct.cCode,bankAcct.cName,bankAcct.cAccount,bankAcct.cTimeStamp,CASE WHEN bankAcct.iForbidden = 0 THEN '启用' ELSE '禁用' END iStatus,bank.cName cBank from  CM_BankAccount bankAcct inner join CM_Bank bank on bankAcct.cBank =bank.cCode " + cCode;
             return  DbSvr.GetDbService().GetDataTable(sql);
         }
         

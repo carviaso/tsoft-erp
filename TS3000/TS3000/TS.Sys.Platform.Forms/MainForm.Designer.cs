@@ -44,6 +44,7 @@
             this.btnSyncMember = new System.Windows.Forms.ToolStripMenuItem();
             this.清空业务数据慎用ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.清除垃圾数据慎用ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.批量添加测试数据ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.窗口ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.btnCascade = new System.Windows.Forms.ToolStripMenuItem();
             this.btnArrHoriz = new System.Windows.Forms.ToolStripMenuItem();
@@ -57,7 +58,7 @@
             this.最大化ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.关闭ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.关闭所有ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.批量添加测试数据ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.费用管理ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.statusBottom.SuspendLayout();
             this.mainMenu.SuspendLayout();
             this.cfContextMenu.SuspendLayout();
@@ -144,6 +145,8 @@
             // 
             // 文件ToolStripMenuItem
             // 
+            this.文件ToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.费用管理ToolStripMenuItem});
             this.文件ToolStripMenuItem.Name = "文件ToolStripMenuItem";
             this.文件ToolStripMenuItem.Size = new System.Drawing.Size(44, 21);
             this.文件ToolStripMenuItem.Text = "文件";
@@ -163,19 +166,29 @@
             // 
             this.btnSyncMember.Name = "btnSyncMember";
             this.btnSyncMember.Size = new System.Drawing.Size(196, 22);
-            this.btnSyncMember.Text = "同步会员数据"; 
+            this.btnSyncMember.Text = "同步会员数据";
+            this.btnSyncMember.Click += new System.EventHandler(this.btnSyncMember_Click);
             // 
             // 清空业务数据慎用ToolStripMenuItem
             // 
             this.清空业务数据慎用ToolStripMenuItem.Name = "清空业务数据慎用ToolStripMenuItem";
             this.清空业务数据慎用ToolStripMenuItem.Size = new System.Drawing.Size(196, 22);
-            this.清空业务数据慎用ToolStripMenuItem.Text = "清空业务数据（慎用）"; 
+            this.清空业务数据慎用ToolStripMenuItem.Text = "清空业务数据（慎用）";
+            this.清空业务数据慎用ToolStripMenuItem.Click += new System.EventHandler(this.清空业务数据慎用ToolStripMenuItem_Click);
             // 
             // 清除垃圾数据慎用ToolStripMenuItem
             // 
             this.清除垃圾数据慎用ToolStripMenuItem.Name = "清除垃圾数据慎用ToolStripMenuItem";
             this.清除垃圾数据慎用ToolStripMenuItem.Size = new System.Drawing.Size(196, 22);
-            this.清除垃圾数据慎用ToolStripMenuItem.Text = "清除垃圾数据（慎用）"; 
+            this.清除垃圾数据慎用ToolStripMenuItem.Text = "清除垃圾数据（慎用）";
+            this.清除垃圾数据慎用ToolStripMenuItem.Click += new System.EventHandler(this.清除垃圾数据慎用ToolStripMenuItem_Click);
+            // 
+            // 批量添加测试数据ToolStripMenuItem
+            // 
+            this.批量添加测试数据ToolStripMenuItem.Name = "批量添加测试数据ToolStripMenuItem";
+            this.批量添加测试数据ToolStripMenuItem.Size = new System.Drawing.Size(196, 22);
+            this.批量添加测试数据ToolStripMenuItem.Text = "批量添加测试数据";
+            this.批量添加测试数据ToolStripMenuItem.Click += new System.EventHandler(this.批量添加测试数据ToolStripMenuItem_Click);
             // 
             // 窗口ToolStripMenuItem
             // 
@@ -273,11 +286,12 @@
             this.关闭所有ToolStripMenuItem.Size = new System.Drawing.Size(124, 22);
             this.关闭所有ToolStripMenuItem.Text = "关闭所有";
             // 
-            // 批量添加测试数据ToolStripMenuItem
+            // 费用管理ToolStripMenuItem
             // 
-            this.批量添加测试数据ToolStripMenuItem.Name = "批量添加测试数据ToolStripMenuItem";
-            this.批量添加测试数据ToolStripMenuItem.Size = new System.Drawing.Size(196, 22);
-            this.批量添加测试数据ToolStripMenuItem.Text = "批量添加测试数据"; 
+            this.费用管理ToolStripMenuItem.Name = "费用管理ToolStripMenuItem";
+            this.费用管理ToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.费用管理ToolStripMenuItem.Text = "费用管理";
+            this.费用管理ToolStripMenuItem.Click += new System.EventHandler(this.费用管理ToolStripMenuItem_Click);
             // 
             // MainForm
             // 
@@ -289,7 +303,8 @@
             this.IsMdiContainer = true;
             this.MainMenuStrip = this.mainMenu;
             this.Name = "MainForm";
-            this.WindowState = System.Windows.Forms.FormWindowState.Maximized; 
+            this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.MainForm_FormClosing);
             this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.MainForm_FormClosed);
             this.MdiChildActivate += new System.EventHandler(this.MainForm_MdiChildActivate);
             this.statusBottom.ResumeLayout(false);
@@ -333,5 +348,6 @@
         private System.Windows.Forms.ToolStripMenuItem 清空业务数据慎用ToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem 清除垃圾数据慎用ToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem 批量添加测试数据ToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem 费用管理ToolStripMenuItem;
     }
 }

@@ -7,9 +7,9 @@ using TS.Sys.Platform.Business.Info;
 using TS.Sys.Platform.Business.Service;
 using TS.Sys.Platform.Business.Util;
 using TS.Sys.Platform.Exceptions;
-using TS.Sys.Util;
 using TS.Sys.Platform.SecuAccess;
 using TS.Sys.Session;
+using TS.Sys.Util;
 
 namespace TS.Sys.Platform.Business.Forms
 {
@@ -40,55 +40,98 @@ namespace TS.Sys.Platform.Business.Forms
         {
             InitButton(); 
         }
-                
+
+        /// <summary>
+        /// 单据主表信息
+        /// </summary>
+        public BusinessMainInfo MainInfo
+        {
+            set { 
+                this._mainInfo = value;
+                this.Info = value;
+            }
+        }
+
+        /// <summary>
+        /// 单据子表信息
+        /// </summary>
+        public BusinessSubInfo SubInfo
+        {
+            set { this._subInfo = value; }
+        }
+
+        /// <summary>
+        /// 业务服务类
+        /// </summary>
+        public AbstractBusinessService BusinessService
+        {
+            set { 
+                this._businessService = value; 
+                base.Service = value; 
+            }
+        }
+
+        /// <summary>
+        /// 子表组件
+        /// </summary>
+        public DataGridView SubGrid
+        {
+            set { this._subGrid = value; }
+        }
+
+        /// <summary>
+        /// 单据组件类型
+        /// </summary>
+        public String BillType
+        {
+            set { this._billType = value; }
+        }
+
+        /// <summary>
+        /// 汇总组件
+        /// </summary>
+        public DataGridView SumGrid
+        {
+            set { this._sumGrid = value; }
+        }
+      
         /// <summary>
         /// 初始化Form
-        /// 需要构造参数
-        /// ToolBtn，TpControl，MainInfo，Service，SubGrid
         /// </summary>
-        /// <param name="con"></param>
-        public void InitForm(Hashtable con)
+        public void InitForm()
         {
-            base.InitForm(con);
-            if (con["Info"] == null)
+            base.InitForm();
+            if (this.Info == null)
             {
                 throw new BusinessException("MainInfo属性未设置");
             }
-            if (con["Service"] == null)
+            if (this._businessService == null)
             {
                 throw new BusinessException("Service属性未设置");
             }
-            if (con["SubGrid"] == null)
+            if (this._subGrid == null)
             {
                 throw new BusinessException("SubGrid属性未设置");
             }
-            else if (con["BillType"] == null)
+            else if (this._billType == null)
             {
                 throw new BusinessException("BillType属性未设置");
             }
-            info = (BusinessMainInfo)con["Info"];
-            service = (AbstractBusinessService)con["Service"];
-            _businessService = (AbstractBusinessService)con["Service"];
-            _mainInfo = (BusinessMainInfo)con["Info"];
-            _subInfo = (BusinessSubInfo)con["SubInfo"];
-            _subGrid = (DataGridView)con["SubGrid"];
-            _sumGrid  = (DataGridView)con["SumGrid"];
-            _billType = con["BillType"].ToString();
             this.FormEvents = this;
             //如果有子表则添加子表的事件
             if (_subGrid != null)
             {
                 BindGridEvent();
             }
-
         }
 
         /// <summary>
-        /// 新增时候触发
+        /// 带状态的初始化Form
         /// </summary>
-        public void InitForm()
+        /// <param name="action"></param>
+        public void InitForm(String action)
         {
-            base.InitForm();
+            base.InitForm(action);
         }
 
         /// <summary>
@@ -106,7 +149,7 @@ namespace TS.Sys.Platform.Business.Forms
         /// </summary>
         private void BindGridEvent()
         {
-            _subGrid.RowPostPaint += new System.Windows.Forms.DataGridViewRowPostPaintEventHandler(datagrid_RowPostPaint);
+            _subGrid.RowPostPaint += new DataGridViewRowPostPaintEventHandler(datagrid_RowPostPaint);
             _subGrid.CellPainting += new DataGridViewCellPaintingEventHandler(datagrid_CellPainting); 
         } 
 
@@ -126,9 +169,10 @@ namespace TS.Sys.Platform.Business.Forms
                 if (_sumGrid != null)
                 {
                     _sumGrid.Rows.Clear();
+                    tpControl.GetNextControl(_sumGrid, true);
                 }
                 SetSubContent(subResult, _subGrid);
-                tpControl.GetNextControl(_sumGrid, true);
+                
             }
             tpControl.Enabled = (_mainInfo.cAuditor == null);
             //数据装载后执行
@@ -230,11 +274,11 @@ namespace TS.Sys.Platform.Business.Forms
         {
 
             //假设vista()方法是验证是否为数字的
-            if (e.RowIndex != -1 && e.ColumnIndex == 1)
+            if (e.RowIndex != -1 &&!String.IsNullOrEmpty(e.CellStyle.Format))
             {
                 e.CellStyle.Alignment = DataGridViewContentAlignment.MiddleRight;
             }
-            else if (e.RowIndex != -1 && e.ColumnIndex != 1)
+            else if (e.RowIndex != -1 &&String.IsNullOrEmpty(e.CellStyle.Format))
             {
                 e.CellStyle.Alignment = DataGridViewContentAlignment.MiddleLeft;
             }
@@ -259,7 +303,7 @@ namespace TS.Sys.Platform.Business.Forms
 
         public virtual void Add()
         {
-            _mainInfo = (BusinessMainInfo)this.info;
+            _mainInfo = (BusinessMainInfo)this.Info;
             //添加明细信息
             if (_subGrid != null)
             {

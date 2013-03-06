@@ -38,17 +38,17 @@ namespace TS.Sys.Platform.Forms.BaseDataForms
             bankAcctService = new BankAcctService();
             bankAcctInfo = new BankAccountInfo();  
             Hashtable con = new Hashtable();
-            con.Add("ToolBtn", this.toolBank);
-            con.Add("TpControl", this.tpControl);
-            con.Add("Info", bankAcctInfo); 
-            con.Add("Service", bankAcctService);  
-            InitForm(con);
+            this.ToolBtn=this.toolBank;
+            this.TpControl=this.tpControl;
+            this.Info=bankAcctInfo; 
+            this.Service=bankAcctService;  
+            InitForm();
         }
 
         public BankAccountDetailForm(String code)
             :this()
         {
-            InitForm();
+            InitForm("new");
             this.cBank.Value = code;
 
         }

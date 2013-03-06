@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Windows.Forms;
+using TS.ERP.FA.Forms;
 
 namespace TS.ERP.FA
 {
@@ -15,7 +16,7 @@ namespace TS.ERP.FA
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new CostListForm());
         }
     }
 }

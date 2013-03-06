@@ -205,7 +205,8 @@ namespace TS.Sys.Platform.Forms.MenuList
             linkLabel.LinkClicked += new LinkLabelLinkClickedEventHandler(this.menuClicked);
             return linkLabel;
         }
-
+        
+        
         /// <summary>
         /// 链接点击事件
         /// </summary>
@@ -215,13 +216,17 @@ namespace TS.Sys.Platform.Forms.MenuList
         {
             try
             {
-                Assembly tempAssembly = Assembly.GetExecutingAssembly();
+               
                 LinkLabel link = (LinkLabel)sender;
                 String test = link.Name;
                 String formUrl = _menuMap[link.Name].ToString();
+                String formspace = formUrl.Substring(0,formUrl.Substring(0,formUrl.LastIndexOf('.')).LastIndexOf('.'));
+                Assembly tempAssembly = Assembly.LoadFile(Application.StartupPath+"\\"+formspace+".dll");
                 Type t = tempAssembly.GetType(formUrl);
                 object o = System.Activator.CreateInstance(t, null);
 
+
+               
                 int index = 0;
                 foreach (Form f in this._mainForm.MdiChildren)
                 {

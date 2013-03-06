@@ -24,12 +24,11 @@ namespace TS.Sys.Platform.Forms.BaseDataForms
             InitializeComponent();
             rgService = new RegionService();
             rgInfo = new RegionInfo();
-            Hashtable con = new Hashtable();
-            con.Add("ToolBtn", this.toolItem);
-            con.Add("TpControl", this.tpControl);
-            con.Add("Info", rgInfo);
-            con.Add("Service", rgService);
-            InitForm(con); 
+            this.ToolBtn=this.toolItem;
+            this.TpControl=this.tpControl;
+            this.Info=rgInfo;
+            this.Service=rgService;
+            InitForm(); 
 
             InitializeComponent();
             rgService = new RegionService();
@@ -54,7 +53,7 @@ namespace TS.Sys.Platform.Forms.BaseDataForms
             : this()
         {
             
-            InitForm();
+            InitForm("new");
 
             rgInfo.cParent = "000000";
         }

@@ -53,3 +53,58 @@ D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.DBLayer\bin\Release\TS.Sys.Platform.Except
 D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.DBLayer\obj\Release\ResolveAssemblyReference.cache
 D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.DBLayer\obj\Release\TS.Sys.DBLayer.dll
 D:\TSoft Projects\SZCRH\TS_PRS\TS.Sys.DBLayer\obj\Release\TS.Sys.DBLayer.pdb
+D:\TSoft Projects\TSGLASS\TS_PRS\TS.Sys.DBLayer\bin\Release\TS.Sys.DBLayer.dll
+D:\TSoft Projects\TSGLASS\TS_PRS\TS.Sys.DBLayer\bin\Release\TS.Sys.DBLayer.pdb
+D:\TSoft Projects\TSGLASS\TS_PRS\TS.Sys.DBLayer\bin\Release\TS.Sys.Domain.dll
+D:\TSoft Projects\TSGLASS\TS_PRS\TS.Sys.DBLayer\bin\Release\TS.Sys.Util.dll
+D:\TSoft Projects\TSGLASS\TS_PRS\TS.Sys.DBLayer\bin\Release\TS.Sys.Platform.Exceptions.dll
+D:\TSoft Projects\TSGLASS\TS_PRS\TS.Sys.DBLayer\bin\Release\TS.Sys.Domain.pdb
+D:\TSoft Projects\TSGLASS\TS_PRS\TS.Sys.DBLayer\bin\Release\TS.Sys.Util.pdb
+D:\TSoft Projects\TSGLASS\TS_PRS\TS.Sys.DBLayer\bin\Release\TS.Sys.Platform.Exceptions.pdb
+D:\TSoft Projects\TSGLASS\TS_PRS\TS.Sys.DBLayer\obj\Release\ResolveAssemblyReference.cache
+D:\TSoft Projects\TSGLASS\TS_PRS\TS.Sys.DBLayer\obj\Release\TS.Sys.DBLayer.dll
+D:\TSoft Projects\TSGLASS\TS_PRS\TS.Sys.DBLayer\obj\Release\TS.Sys.DBLayer.pdb
+D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.DBLayer\bin\Release\TS.Sys.DBLayer.dll
+D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.DBLayer\bin\Release\TS.Sys.DBLayer.pdb
+D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.DBLayer\bin\Release\TS.Sys.Domain.dll
+D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.DBLayer\bin\Release\TS.Sys.Util.dll
+D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.DBLayer\bin\Release\TS.Sys.Platform.Exceptions.dll
+D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.DBLayer\bin\Release\TS.Sys.Domain.pdb
+D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.DBLayer\bin\Release\TS.Sys.Util.pdb
+D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.DBLayer\bin\Release\TS.Sys.Platform.Exceptions.pdb
+D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.DBLayer\obj\Release\ResolveAssemblyReference.cache
+D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.DBLayer\obj\Release\TS.Sys.DBLayer.dll
+D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.DBLayer\obj\Release\TS.Sys.DBLayer.pdb
+H:\work\TSGLASS\TS3000\TS.Sys.DBLayer\bin\Release\TS.Sys.DBLayer.dll
+H:\work\TSGLASS\TS3000\TS.Sys.DBLayer\bin\Release\TS.Sys.DBLayer.pdb
+H:\work\TSGLASS\TS3000\TS.Sys.DBLayer\bin\Release\TS.Sys.Domain.dll
+H:\work\TSGLASS\TS3000\TS.Sys.DBLayer\bin\Release\TS.Sys.Util.dll
+H:\work\TSGLASS\TS3000\TS.Sys.DBLayer\bin\Release\TS.Sys.Platform.Exceptions.dll
+H:\work\TSGLASS\TS3000\TS.Sys.DBLayer\bin\Release\TS.Sys.Domain.pdb
+H:\work\TSGLASS\TS3000\TS.Sys.DBLayer\bin\Release\TS.Sys.Util.pdb
+H:\work\TSGLASS\TS3000\TS.Sys.DBLayer\bin\Release\TS.Sys.Platform.Exceptions.pdb
+H:\work\TSGLASS\TS3000\TS.Sys.DBLayer\obj\Release\ResolveAssemblyReference.cache
+H:\work\TSGLASS\TS3000\TS.Sys.DBLayer\obj\Release\TS.Sys.DBLayer.dll
+H:\work\TSGLASS\TS3000\TS.Sys.DBLayer\obj\Release\TS.Sys.DBLayer.pdb
+H:\work\TSGLASS - 副本\TS3000\TS.Sys.DBLayer\bin\Release\TS.Sys.DBLayer.dll
+H:\work\TSGLASS - 副本\TS3000\TS.Sys.DBLayer\bin\Release\TS.Sys.DBLayer.pdb
+H:\work\TSGLASS - 副本\TS3000\TS.Sys.DBLayer\bin\Release\TS.Sys.Domain.dll
+H:\work\TSGLASS - 副本\TS3000\TS.Sys.DBLayer\bin\Release\TS.Sys.Util.dll
+H:\work\TSGLASS - 副本\TS3000\TS.Sys.DBLayer\bin\Release\TS.Sys.Platform.Exceptions.dll
+H:\work\TSGLASS - 副本\TS3000\TS.Sys.DBLayer\bin\Release\TS.Sys.Domain.pdb
+H:\work\TSGLASS - 副本\TS3000\TS.Sys.DBLayer\bin\Release\TS.Sys.Util.pdb
+H:\work\TSGLASS - 副本\TS3000\TS.Sys.DBLayer\bin\Release\TS.Sys.Platform.Exceptions.pdb
+H:\work\TSGLASS - 副本\TS3000\TS.Sys.DBLayer\obj\Release\ResolveAssemblyReference.cache
+H:\work\TSGLASS - 副本\TS3000\TS.Sys.DBLayer\obj\Release\TS.Sys.DBLayer.dll
+H:\work\TSGLASS - 副本\TS3000\TS.Sys.DBLayer\obj\Release\TS.Sys.DBLayer.pdb
+G:\Work\Projects\TSERP\TS3000\TS.Sys.DBLayer\bin\Release\TS.Sys.DBLayer.dll
+G:\Work\Projects\TSERP\TS3000\TS.Sys.DBLayer\bin\Release\TS.Sys.DBLayer.pdb
+G:\Work\Projects\TSERP\TS3000\TS.Sys.DBLayer\bin\Release\TS.Sys.Domain.dll
+G:\Work\Projects\TSERP\TS3000\TS.Sys.DBLayer\bin\Release\TS.Sys.Util.dll
+G:\Work\Projects\TSERP\TS3000\TS.Sys.DBLayer\bin\Release\TS.Sys.Platform.Exceptions.dll
+G:\Work\Projects\TSERP\TS3000\TS.Sys.DBLayer\bin\Release\TS.Sys.Domain.pdb
+G:\Work\Projects\TSERP\TS3000\TS.Sys.DBLayer\bin\Release\TS.Sys.Util.pdb
+G:\Work\Projects\TSERP\TS3000\TS.Sys.DBLayer\bin\Release\TS.Sys.Platform.Exceptions.pdb
+G:\Work\Projects\TSERP\TS3000\TS.Sys.DBLayer\obj\Release\ResolveAssemblyReference.cache
+G:\Work\Projects\TSERP\TS3000\TS.Sys.DBLayer\obj\Release\TS.Sys.DBLayer.dll
+G:\Work\Projects\TSERP\TS3000\TS.Sys.DBLayer\obj\Release\TS.Sys.DBLayer.pdb

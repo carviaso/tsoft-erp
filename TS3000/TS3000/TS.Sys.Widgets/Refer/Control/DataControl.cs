@@ -49,6 +49,7 @@ namespace TS.Sys.Platform.Widgets.Refer.Control
         public String ReferForm
         {
             set{this._referForm = value;}
+            get { return this._referForm; }
         }
 
         #endregion 
@@ -120,6 +121,7 @@ namespace TS.Sys.Platform.Widgets.Refer.Control
             set
             {
                 this._dataFetcher = value;
+                //此处需要优化 --xuebing
                 if(value!=null)
                 DataSource = _dataFetcher.QueryVarResult(null);
             }
@@ -253,7 +255,7 @@ namespace TS.Sys.Platform.Widgets.Refer.Control
                 if (_height > DropHeight)
                     _height = DropHeight;
                 dataGridViewHost.Size = new Size(300, _height);//需要重新设置 
-                dropDown.Show(this, 0, this.Height);
+                dropDown.Show(this, -1, this.Height-2);
                 _IsDropShow = true;
             }
         }
@@ -300,6 +302,7 @@ namespace TS.Sys.Platform.Widgets.Refer.Control
 
         }
 
+
         protected override void OnLeave(EventArgs e)
         {
             base.OnLeave(e);
@@ -308,6 +311,7 @@ namespace TS.Sys.Platform.Widgets.Refer.Control
             {
                 dropDown.Close();
                 _IsDropShow = false;
+                _IsPress = false;
             }
 
             if (!String.IsNullOrEmpty(str))
@@ -340,10 +344,7 @@ namespace TS.Sys.Platform.Widgets.Refer.Control
 
         protected override void OnKeyDown(KeyEventArgs e)
         {
-            base.OnKeyDown(e);
-            Type t = e.KeyCode.GetType();
-            Object  test = System.Enum.GetName(t, e.KeyCode);
-            String Ts = Text;
+            base.OnKeyDown(e); 
             if (e.KeyCode == Keys.Down||e.KeyCode==Keys.Up)
             {
                 DataGridView.Focus();
@@ -397,7 +398,7 @@ namespace TS.Sys.Platform.Widgets.Refer.Control
             }
 
         }
-
+        /*
         protected override void WndProc(ref Message m)
         {
 
@@ -410,7 +411,7 @@ namespace TS.Sys.Platform.Widgets.Refer.Control
                     _IsDropShow = false;
                 }
             }
-        }
+        }*/
         protected override void Dispose(bool disposing)
         {
             if (disposing)

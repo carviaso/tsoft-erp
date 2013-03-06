@@ -25,6 +25,22 @@ namespace TS.Sys.Platform.Business.Forms
             InitButtons();
         }
 
+        public BaseInfo BaseInfo
+        {
+            set { 
+                this._baseInfo = value;
+                base.Info = value;
+            }
+        }
+
+        public AbstractBaseService BaseService
+        {
+            set { 
+                this._baseService = value;
+                base.Service = value;
+            }
+        }
+         
         /// <summary>
         /// 初始化Form
         /// 工具栏：toolBtn；
@@ -34,25 +50,9 @@ namespace TS.Sys.Platform.Business.Forms
         /// 编号长度：CodeType；
         /// </summary>
         /// <param name="con"></param>
-        public void InitForm(Hashtable con)
+        public void InitForm()
         {
-
-            base.InitForm(con);
-            info = (BaseInfo)con["Info"];
-            _baseInfo = (BaseInfo)con["Info"];
-            service = (AbstractBaseService)con["Service"];
-            _baseService = (AbstractBaseService)con["Service"];
-            try
-            {
-                if (con["CodeType"] != null)
-                {
-                    _cCodeType = (int)con["CodeType"];
-                }               
-            }
-            catch (Exception ex)
-            {
-                Console.WriteLine("编号长度输入错误！");
-            }
+            base.InitForm();
             this.FormEvents = this;
         }
 
@@ -114,7 +114,7 @@ namespace TS.Sys.Platform.Business.Forms
 
         public virtual void Add()
         {
-            _baseInfo = (BaseInfo)this.info;
+            _baseInfo = (BaseInfo)this.Info;
             _baseService.DoAdd(_baseInfo);
         }
 

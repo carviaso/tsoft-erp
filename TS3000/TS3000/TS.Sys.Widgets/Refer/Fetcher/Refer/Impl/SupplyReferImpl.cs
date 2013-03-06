@@ -1,4 +1,5 @@
 ﻿using System;
+using TS.Sys.Platform.Widgets.Refer.Control;
 
 namespace TS.Sys.Platform.Widgets.Refer.Fetcher.Refer.Impl
 {
@@ -19,6 +20,16 @@ namespace TS.Sys.Platform.Widgets.Refer.Fetcher.Refer.Impl
             }
             String sql = "select sup.cCode,sup.cName from CM_Supply sup  " + con;
             return sql;
+        }
+
+        public override string getForm()
+        {
+            return "TS.Sys.Platform.BaseData.Forms.SupplyForm";
+        }
+
+        public override DataFetcher GetDataFetcher()
+        {
+            return new DataFetcher("CM_Supply");
         }
     }
 }

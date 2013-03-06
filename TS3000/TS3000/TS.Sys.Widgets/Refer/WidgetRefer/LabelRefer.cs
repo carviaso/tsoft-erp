@@ -50,7 +50,7 @@ namespace TS.Sys.Platform.Widgets.Refer.WidgetRefer
             {
                 _tableName = "CM_" + type;
             }
-            String referForm = "TS.Sys.Platform.Forms.BaseDataForms." + type + "Form";
+            String referForm = "TS.Sys.Platform.BaseData.Forms." + type + "Form";
             if (String.IsNullOrEmpty(_url))
             {
                 _url = referForm;
@@ -262,6 +262,9 @@ namespace TS.Sys.Platform.Widgets.Refer.WidgetRefer
             }
         }
 
+        /// <summary>
+        /// 需要Form提供ReferType以及Args的设值方法
+        /// </summary>
         private void SetReferType()
         {
             Type t = _form.GetType();
@@ -290,12 +293,17 @@ namespace TS.Sys.Platform.Widgets.Refer.WidgetRefer
         private void dataControl_DoubleClick(object sender, EventArgs e)
         {  
             try
-            {
-                Assembly tempAssembly = Assembly.GetExecutingAssembly();
-                Type t = _form.GetType();
-                MethodInfo m = t.GetMethod("btnInfo_Click",BindingFlags.Instance | BindingFlags.NonPublic | BindingFlags.ExactBinding);
-                //Object[] args = new Object[] { null,null};
-                m.Invoke(_form, null);
+            { 
+
+                //载入基础资料forms
+                Assembly tempAssembly = Assembly.LoadFile(Application.StartupPath + "\\TS.Sys.Platform.BaseData.dll");
+
+                Type t = tempAssembly.GetType(DataControl.ReferForm);
+                object[] args = new Object[] { this };
+                object o = System.Activator.CreateInstance(t, args);
+
+                ((Form)o).WindowState = FormWindowState.Normal;
+                ((Form)o).ShowDialog();
 
                 
             }

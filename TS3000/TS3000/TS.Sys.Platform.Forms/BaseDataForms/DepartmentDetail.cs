@@ -38,17 +38,17 @@ namespace TS.Sys.Platform.Forms.BaseDataForms
             deptService = new DepartmentService();
             deptInfo = new DepartmentInfo();  
             Hashtable con = new Hashtable();
-            con.Add("ToolBtn", this.toolBtn);
-            con.Add("TpControl", this.tpControl);
-            con.Add("Info", deptInfo); 
-            con.Add("Service", deptService);  
-            InitForm(con);
+            this.ToolBtn = this.toolBtn;
+            this.TpControl = this.tpControl;
+            this.Info = deptInfo; 
+            this.Service = deptService;  
+            InitForm();
         }
 
         public DepartmentDetailForm(String code)
             :this()
         {
-            InitForm();
+            InitForm("new");
             this.cParent.Value = code;
 
         }

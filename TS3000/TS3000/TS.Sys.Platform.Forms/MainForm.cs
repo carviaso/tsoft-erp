@@ -1,5 +1,5 @@
 ﻿using System;
-using System.Windows.Forms; 
+using System.Windows.Forms;
 using TS.Sys.Domain;
 using TS.Sys.Platform.Exceptions;
 using TS.Sys.Platform.Forms.SysForms;
@@ -7,7 +7,7 @@ using TS.Sys.Platform.Forms.SysManager;
 using TS.Sys.Platform.SysInfo.Info;
 using TS.Sys.Platform.SysInfo.Static;
 using TS.Sys.Session;
-using System.Threading; 
+using System.Threading;
 
 namespace TS.Sys.Platform.Forms
 {
@@ -151,7 +151,6 @@ namespace TS.Sys.Platform.Forms
             pwf.ShowDialog();
         }
 
-       
 
         private void timer_Tick(object sender, EventArgs e)
         {
@@ -165,9 +164,36 @@ namespace TS.Sys.Platform.Forms
             
         }
 
-         
+        private void btnSyncMember_Click(object sender, EventArgs e)
+        {
+            
+        }
 
-         
+        private void MainForm_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            
+        }
+
+        private void 清空业务数据慎用ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void 清除垃圾数据慎用ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void 批量添加测试数据ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void 费用管理ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+           // CostListForm a = new CostListForm();
+            //a.show
+        }
 
         
 

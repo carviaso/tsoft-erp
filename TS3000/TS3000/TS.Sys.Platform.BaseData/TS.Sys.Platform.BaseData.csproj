@@ -36,11 +36,126 @@
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Dao\AccountDao.cs" />
+    <Compile Include="Dao\MateriaClassDao.cs" />
+    <Compile Include="Dao\MateriaDao.cs" />
+    <Compile Include="Dao\StorageDao.cs" />
+    <Compile Include="Dao\UnitDao.cs" />
     <Compile Include="Dao\BankAccountDao.cs" />
+    <Compile Include="Forms\Account.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Account.Designer.cs">
+      <DependentUpon>Account.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\AccountDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\AccountDetail.Designer.cs">
+      <DependentUpon>AccountDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Bank.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Bank.Designer.cs">
+      <DependentUpon>Bank.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\BankDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\BankDetail.Designer.cs">
+      <DependentUpon>BankDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Customer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Customer.Designer.cs">
+      <DependentUpon>Customer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\CustomerDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\CustomerDetail.Designer.cs">
+      <DependentUpon>CustomerDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Department.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Department.Designer.cs">
+      <DependentUpon>Department.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\DepartmentDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\DepartmentDetail.Designer.cs">
+      <DependentUpon>DepartmentDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Employee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Employee.Designer.cs">
+      <DependentUpon>Employee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\EmployeeDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\EmployeeDetail.Designer.cs">
+      <DependentUpon>EmployeeDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FaType.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FaType.Designer.cs">
+      <DependentUpon>FaType.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FaTypeDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FaTypeDetail.Designer.cs">
+      <DependentUpon>FaTypeDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Region.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Region.Designer.cs">
+      <DependentUpon>Region.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\RegionDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\RegionDetail.Designer.cs">
+      <DependentUpon>RegionDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\SettleType.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\SettleType.Designer.cs">
+      <DependentUpon>SettleType.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\SettleTypeDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\SettleTypeDetail.Designer.cs">
+      <DependentUpon>SettleTypeDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Supply.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Supply.Designer.cs">
+      <DependentUpon>Supply.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\SupplyDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\SupplyDetail.Designer.cs">
+      <DependentUpon>SupplyDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dao\AccountDao.cs" />
+    <Compile Include="Dao\BankDao.cs" />
     <Compile Include="Dao\CustomerDao.cs" />
     <Compile Include="Dao\DepartmentDao.cs" />
     <Compile Include="Dao\EmployeeDao.cs" />
@@ -48,6 +163,66 @@
     <Compile Include="Dao\RegionDao.cs" />
     <Compile Include="Dao\SettleTypeDao.cs" />
     <Compile Include="Dao\SupplyDao.cs" />
+    <Compile Include="Forms\MateriaClass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\MateriaClass.Designer.cs">
+      <DependentUpon>MateriaClass.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\MateriaClassDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\MateriaClassDetail.Designer.cs">
+      <DependentUpon>MateriaClassDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Materia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Materia.Designer.cs">
+      <DependentUpon>Materia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\MateriaDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\MateriaDetail.Designer.cs">
+      <DependentUpon>MateriaDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Storage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Storage.Designer.cs">
+      <DependentUpon>Storage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\StorageDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\StorageDetail.Designer.cs">
+      <DependentUpon>StorageDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Unit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Unit.Designer.cs">
+      <DependentUpon>Unit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\UnitDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\UnitDetail.Designer.cs">
+      <DependentUpon>UnitDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\BankAccount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\BankAccount.Designer.cs">
+      <DependentUpon>BankAccount.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\BankAccountDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\BankAccountDetail.Designer.cs">
+      <DependentUpon>BankAccountDetail.cs</DependentUpon>
+    </Compile>
     <Compile Include="Info\AccountInfo.cs" />
     <Compile Include="Info\BankAccountInfo.cs" />
     <Compile Include="Info\BankInfo.cs" />
@@ -58,9 +233,13 @@
     <Compile Include="Info\RegionInfo.cs" />
     <Compile Include="Info\SettleTypeInfo.cs" />
     <Compile Include="Info\SupplyInfo.cs" />
+    <Compile Include="Info\MateriaClassInfo.cs" />
+    <Compile Include="Info\MateriaInfo.cs" />
+    <Compile Include="Info\StorageInfo.cs" />
+    <Compile Include="Info\UnitInfo.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Service\AccountService.cs" />
-    <Compile Include="Service\BankAcctService.cs" />
+    <Compile Include="Service\BankService.cs" />
     <Compile Include="Service\CustomerService.cs" />
     <Compile Include="Service\DepartmentService.cs" />
     <Compile Include="Service\EmployeeService.cs" />
@@ -68,6 +247,11 @@
     <Compile Include="Service\RegionService.cs" />
     <Compile Include="Service\SettleTypeService.cs" />
     <Compile Include="Service\SupplyService.cs" />
+    <Compile Include="Service\MateriaClassService.cs" />
+    <Compile Include="Service\MateriaService.cs" />
+    <Compile Include="Service\StorageService.cs" />
+    <Compile Include="Service\UnitService.cs" />
+    <Compile Include="Service\BankAccountService.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\TS.Sys.DBLayer\TS.Sys.DBLayer.csproj">
@@ -86,10 +270,107 @@
       <Project>{1D8F31F6-4A36-452C-909E-491EDB9B2826}</Project>
       <Name>TS.Sys.Platform.Exceptions</Name>
     </ProjectReference>
+    <ProjectReference Include="..\TS.Sys.Platform.SecuAccess\TS.Sys.Platform.SecuAccess.csproj">
+      <Project>{4FED04D7-0B23-4ED3-BC33-BA90285D7CFC}</Project>
+      <Name>TS.Sys.Platform.SecuAccess</Name>
+    </ProjectReference>
     <ProjectReference Include="..\TS.Sys.Util\TS.Sys.Util.csproj">
       <Project>{21CEDBCD-C024-4FCB-ACCF-8FCF4244A93C}</Project>
       <Name>TS.Sys.Util</Name>
     </ProjectReference>
+    <ProjectReference Include="..\TS.Sys.Widgets\TS.Sys.Platform.Widgets.csproj">
+      <Project>{BE0D2A13-56CF-4130-A473-64533880EBE7}</Project>
+      <Name>TS.Sys.Platform.Widgets</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Forms\Account.resx">
+      <DependentUpon>Account.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\AccountDetail.resx">
+      <DependentUpon>AccountDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Bank.resx">
+      <DependentUpon>Bank.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\BankDetail.resx">
+      <DependentUpon>BankDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Customer.resx">
+      <DependentUpon>Customer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\CustomerDetail.resx">
+      <DependentUpon>CustomerDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Department.resx">
+      <DependentUpon>Department.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\DepartmentDetail.resx">
+      <DependentUpon>DepartmentDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Employee.resx">
+      <DependentUpon>Employee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\EmployeeDetail.resx">
+      <DependentUpon>EmployeeDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FaType.resx">
+      <DependentUpon>FaType.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FaTypeDetail.resx">
+      <DependentUpon>FaTypeDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Region.resx">
+      <DependentUpon>Region.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\RegionDetail.resx">
+      <DependentUpon>RegionDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\SettleType.resx">
+      <DependentUpon>SettleType.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\SettleTypeDetail.resx">
+      <DependentUpon>SettleTypeDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Supply.resx">
+      <DependentUpon>Supply.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\SupplyDetail.resx">
+      <DependentUpon>SupplyDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\MateriaClass.resx">
+      <DependentUpon>MateriaClass.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\MateriaClassDetail.resx">
+      <DependentUpon>MateriaClassDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Materia.resx">
+      <DependentUpon>Materia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\MateriaDetail.resx">
+      <DependentUpon>MateriaDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Storage.resx">
+      <DependentUpon>Storage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\StorageDetail.resx">
+      <DependentUpon>StorageDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Unit.resx">
+      <DependentUpon>Unit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\UnitDetail.resx">
+      <DependentUpon>UnitDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\BankAccount.resx">
+      <DependentUpon>BankAccount.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\BankAccountDetail.resx">
+      <DependentUpon>BankAccountDetail.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="ReferFetcher\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

@@ -23,12 +23,12 @@ namespace TS.Sys.Platform.Forms.BaseDataForms
             spService = new SupplyService();
             supInfo = new SupplyInfo();
             Hashtable con = new Hashtable();
-            con.Add("ToolBtn", this.toolItem);
-            con.Add("TpControl", this.tpControl);
-            con.Add("TbControl",this.tbControl);
-            con.Add("Info", supInfo);
-            con.Add("Service", spService);
-            InitForm(con); 
+            this.ToolBtn = this.toolBtn;
+            this.TpControl = this.tpControl;
+            this.TbControl = this.tbControl;
+            this.Info = this.supInfo;
+            this.Service = this.spService; 
+            InitForm(); 
  
         }
 
@@ -62,7 +62,7 @@ namespace TS.Sys.Platform.Forms.BaseDataForms
         public SupplyDetailForm(String code)
             :this()
         {
-            InitForm();
+            InitForm("new");
             this.cRegionValue = code;
 
         }

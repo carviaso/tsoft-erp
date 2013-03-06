@@ -1,0 +1,84 @@
+D:\TSoft Projects\TSGLASS\TS3000\TS.ERP.ST\bin\Release\TS.ERP.ST.exe
+D:\TSoft Projects\TSGLASS\TS3000\TS.ERP.ST\bin\Release\TS.ERP.ST.pdb
+D:\TSoft Projects\TSGLASS\TS3000\TS.ERP.ST\obj\x86\Release\ResolveAssemblyReference.cache
+D:\TSoft Projects\TSGLASS\TS3000\TS.ERP.ST\obj\x86\Release\TS.ERP.ST.Properties.Resources.resources
+D:\TSoft Projects\TSGLASS\TS3000\TS.ERP.ST\obj\x86\Release\GenerateResource.read.1.tlog
+D:\TSoft Projects\TSGLASS\TS3000\TS.ERP.ST\obj\x86\Release\GenerateResource.write.1.tlog
+D:\TSoft Projects\TSGLASS\TS3000\TS.ERP.ST\obj\x86\Release\TS.ERP.ST.exe
+D:\TSoft Projects\TSGLASS\TS3000\TS.ERP.ST\obj\x86\Release\TS.ERP.ST.pdb
+H:\work\TSGLASS\TS3000\TS.ERP.ST\bin\Release\TS.ERP.ST.exe
+H:\work\TSGLASS\TS3000\TS.ERP.ST\bin\Release\TS.ERP.ST.pdb
+H:\work\TSGLASS\TS3000\TS.ERP.ST\obj\x86\Release\ResolveAssemblyReference.cache
+H:\work\TSGLASS\TS3000\TS.ERP.ST\obj\x86\Release\TS.ERP.ST.Properties.Resources.resources
+H:\work\TSGLASS\TS3000\TS.ERP.ST\obj\x86\Release\GenerateResource.read.1.tlog
+H:\work\TSGLASS\TS3000\TS.ERP.ST\obj\x86\Release\GenerateResource.write.1.tlog
+H:\work\TSGLASS\TS3000\TS.ERP.ST\obj\x86\Release\TS.ERP.ST.exe
+H:\work\TSGLASS\TS3000\TS.ERP.ST\obj\x86\Release\TS.ERP.ST.pdb
+H:\work\TSGLASS - 副本\TS3000\TS.ERP.ST\obj\x86\Release\ResolveAssemblyReference.cache
+H:\work\TSGLASS - 副本\TS3000\TS.ERP.ST\obj\x86\Release\TS.ERP.ST.SaOutDetailForm.resources
+H:\work\TSGLASS - 副本\TS3000\TS.ERP.ST\obj\x86\Release\TS.ERP.ST.Forms.SaOutListForm.resources
+H:\work\TSGLASS - 副本\TS3000\TS.ERP.ST\obj\x86\Release\TS.ERP.ST.PuInDetailForm.resources
+H:\work\TSGLASS - 副本\TS3000\TS.ERP.ST\obj\x86\Release\TS.ERP.ST.Forms.PuInListForm.resources
+H:\work\TSGLASS - 副本\TS3000\TS.ERP.ST\obj\x86\Release\TS.ERP.ST.Properties.Resources.resources
+H:\work\TSGLASS - 副本\TS3000\TS.ERP.ST\obj\x86\Release\GenerateResource.read.1.tlog
+H:\work\TSGLASS - 副本\TS3000\TS.ERP.ST\obj\x86\Release\GenerateResource.write.1.tlog
+D:\TSoft Projects\TSGLASS\TS3000\TS.ERP.ST\obj\x86\Release\TS.ERP.ST.SaOutDetailForm.resources
+D:\TSoft Projects\TSGLASS\TS3000\TS.ERP.ST\obj\x86\Release\TS.ERP.ST.Forms.SaOutListForm.resources
+D:\TSoft Projects\TSGLASS\TS3000\TS.ERP.ST\obj\x86\Release\TS.ERP.ST.PuInDetailForm.resources
+D:\TSoft Projects\TSGLASS\TS3000\TS.ERP.ST\obj\x86\Release\TS.ERP.ST.Forms.PuInListForm.resources
+D:\TSoft Projects\TSGLASS\TS3000\TS.ERP.ST\obj\x86\Release\TS.ERP.ST.Forms.StockListForm.resources
+D:\TSoft Projects\TSGLASS\TS3000\TS.ERP.ST\bin\Release\TS.Sys.DBLayer.dll
+D:\TSoft Projects\TSGLASS\TS3000\TS.ERP.ST\bin\Release\TS.Sys.Domain.dll
+D:\TSoft Projects\TSGLASS\TS3000\TS.ERP.ST\bin\Release\TS.Sys.Platform.Business.dll
+D:\TSoft Projects\TSGLASS\TS3000\TS.ERP.ST\bin\Release\TS.Sys.Platform.Exceptions.dll
+D:\TSoft Projects\TSGLASS\TS3000\TS.ERP.ST\bin\Release\TS.Sys.Platform.Forms.dll
+D:\TSoft Projects\TSGLASS\TS3000\TS.ERP.ST\bin\Release\TS.Sys.Platform.SecuAccess.dll
+D:\TSoft Projects\TSGLASS\TS3000\TS.ERP.ST\bin\Release\TS.Sys.Platform.Widgets.dll
+D:\TSoft Projects\TSGLASS\TS3000\TS.ERP.ST\bin\Release\TS.Sys.Util.dll
+D:\TSoft Projects\TSGLASS\TS3000\TS.ERP.ST\bin\Release\TS.Sys.Session.dll
+D:\TSoft Projects\TSGLASS\TS3000\TS.ERP.ST\bin\Release\TS.Sys.Platform.BaseData.dll
+D:\TSoft Projects\TSGLASS\TS3000\TS.ERP.ST\bin\Release\TS.Sys.Platform.SysInfo.dll
+D:\TSoft Projects\TSGLASS\TS3000\TS.ERP.ST\bin\Release\TS.Sys.DBLayer.pdb
+D:\TSoft Projects\TSGLASS\TS3000\TS.ERP.ST\bin\Release\TS.Sys.Domain.pdb
+D:\TSoft Projects\TSGLASS\TS3000\TS.ERP.ST\bin\Release\TS.Sys.Platform.Business.pdb
+D:\TSoft Projects\TSGLASS\TS3000\TS.ERP.ST\bin\Release\TS.Sys.Platform.Exceptions.pdb
+D:\TSoft Projects\TSGLASS\TS3000\TS.ERP.ST\bin\Release\TS.Sys.Platform.Forms.pdb
+D:\TSoft Projects\TSGLASS\TS3000\TS.ERP.ST\bin\Release\TS.Sys.Platform.SecuAccess.pdb
+D:\TSoft Projects\TSGLASS\TS3000\TS.ERP.ST\bin\Release\TS.Sys.Platform.Widgets.pdb
+D:\TSoft Projects\TSGLASS\TS3000\TS.ERP.ST\bin\Release\TS.Sys.Util.pdb
+D:\TSoft Projects\TSGLASS\TS3000\TS.ERP.ST\bin\Release\TS.Sys.Session.pdb
+D:\TSoft Projects\TSGLASS\TS3000\TS.ERP.ST\bin\Release\TS.Sys.Platform.BaseData.pdb
+D:\TSoft Projects\TSGLASS\TS3000\TS.ERP.ST\bin\Release\TS.Sys.Platform.SysInfo.pdb
+G:\Work\Projects\TSERP\TS3000\TS.ERP.ST\bin\Release\TS.ERP.ST.dll
+G:\Work\Projects\TSERP\TS3000\TS.ERP.ST\bin\Release\TS.ERP.ST.pdb
+G:\Work\Projects\TSERP\TS3000\TS.ERP.ST\bin\Release\TS.Sys.DBLayer.dll
+G:\Work\Projects\TSERP\TS3000\TS.ERP.ST\bin\Release\TS.Sys.Domain.dll
+G:\Work\Projects\TSERP\TS3000\TS.ERP.ST\bin\Release\TS.Sys.Platform.Business.dll
+G:\Work\Projects\TSERP\TS3000\TS.ERP.ST\bin\Release\TS.Sys.Platform.Exceptions.dll
+G:\Work\Projects\TSERP\TS3000\TS.ERP.ST\bin\Release\TS.Sys.Platform.Forms.dll
+G:\Work\Projects\TSERP\TS3000\TS.ERP.ST\bin\Release\TS.Sys.Platform.SecuAccess.dll
+G:\Work\Projects\TSERP\TS3000\TS.ERP.ST\bin\Release\TS.Sys.Platform.Widgets.dll
+G:\Work\Projects\TSERP\TS3000\TS.ERP.ST\bin\Release\TS.Sys.Util.dll
+G:\Work\Projects\TSERP\TS3000\TS.ERP.ST\bin\Release\TS.Sys.Session.dll
+G:\Work\Projects\TSERP\TS3000\TS.ERP.ST\bin\Release\TS.Sys.Platform.SysInfo.dll
+G:\Work\Projects\TSERP\TS3000\TS.ERP.ST\bin\Release\TS.Sys.DBLayer.pdb
+G:\Work\Projects\TSERP\TS3000\TS.ERP.ST\bin\Release\TS.Sys.Domain.pdb
+G:\Work\Projects\TSERP\TS3000\TS.ERP.ST\bin\Release\TS.Sys.Platform.Business.pdb
+G:\Work\Projects\TSERP\TS3000\TS.ERP.ST\bin\Release\TS.Sys.Platform.Exceptions.pdb
+G:\Work\Projects\TSERP\TS3000\TS.ERP.ST\bin\Release\TS.Sys.Platform.Forms.pdb
+G:\Work\Projects\TSERP\TS3000\TS.ERP.ST\bin\Release\TS.Sys.Platform.SecuAccess.pdb
+G:\Work\Projects\TSERP\TS3000\TS.ERP.ST\bin\Release\TS.Sys.Util.pdb
+G:\Work\Projects\TSERP\TS3000\TS.ERP.ST\bin\Release\TS.Sys.Session.pdb
+G:\Work\Projects\TSERP\TS3000\TS.ERP.ST\bin\Release\TS.Sys.Platform.SysInfo.pdb
+G:\Work\Projects\TSERP\TS3000\TS.ERP.ST\obj\x86\Release\ResolveAssemblyReference.cache
+G:\Work\Projects\TSERP\TS3000\TS.ERP.ST\obj\x86\Release\TS.ERP.ST.SaOutDetailForm.resources
+G:\Work\Projects\TSERP\TS3000\TS.ERP.ST\obj\x86\Release\TS.ERP.ST.Forms.SaOutListForm.resources
+G:\Work\Projects\TSERP\TS3000\TS.ERP.ST\obj\x86\Release\TS.ERP.ST.PuInDetailForm.resources
+G:\Work\Projects\TSERP\TS3000\TS.ERP.ST\obj\x86\Release\TS.ERP.ST.Forms.PuInListForm.resources
+G:\Work\Projects\TSERP\TS3000\TS.ERP.ST\obj\x86\Release\TS.ERP.ST.Forms.StockListForm.resources
+G:\Work\Projects\TSERP\TS3000\TS.ERP.ST\obj\x86\Release\TS.ERP.ST.Properties.Resources.resources
+G:\Work\Projects\TSERP\TS3000\TS.ERP.ST\obj\x86\Release\GenerateResource.read.1.tlog
+G:\Work\Projects\TSERP\TS3000\TS.ERP.ST\obj\x86\Release\GenerateResource.write.1.tlog
+G:\Work\Projects\TSERP\TS3000\TS.ERP.ST\obj\x86\Release\TS.ERP.ST.dll
+G:\Work\Projects\TSERP\TS3000\TS.ERP.ST\obj\x86\Release\TS.ERP.ST.pdb
+G:\Work\Projects\TSERP\TS3000\TS.ERP.ST\bin\Release\TS.Sys.Platform.Widgets.pdb

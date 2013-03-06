@@ -5,7 +5,8 @@ using System.Windows.Forms;
 using TS.Sys.Platform.Business.Info;
 using TS.Sys.Platform.Business.Service;
 using TS.Sys.Platform.Business.Util;
-using TS.Sys.Platform.Widgets.Refer.WidgetRefer; 
+using TS.Sys.Platform.Widgets.Refer.WidgetRefer;
+using TS.Sys.Platform.Widgets.Refer.GridRefer; 
 
 namespace TS.Sys.Platform.Business.Forms
 {
@@ -16,9 +17,9 @@ namespace TS.Sys.Platform.Business.Forms
         //单据区域（必填）
         protected TableLayoutPanel tpControl;
         //单据主表对象（必填）
-        protected Infos info;
+        private Infos _info;
         //对象服务
-        protected Services service;
+        private Services _service;
         //按钮工具栏(必填)
         protected ToolStrip toolBtn;
          
@@ -39,20 +40,54 @@ namespace TS.Sys.Platform.Business.Forms
         private string _referType;
         private Object[] _args;
 
+        //按钮工具栏(必填)
+        public ToolStrip ToolBtn
+        {
+            set { this.toolBtn = value; }
+        }
+
+        //单据区域（必填）
+        public TableLayoutPanel TpControl
+        {
+            set { this.tpControl = value; }
+        }
+
+        /// <summary>
+        /// Tab容器
+        /// </summary>
+        public TabControl TbControl
+        {
+            set { this._tbControl = value; }
+        }
+
+        /// <summary>
+        /// 设置服务对象
+        /// </summary>
+        protected Services Service
+        {
+            set { this._service = value; }
+            get { return this._service; }
+        }
+
+        /// <summary>
+        /// 资料对象设置
+        /// </summary>
+        protected Infos Info
+        {
+            set { this._info = value; }
+            get { return this._info; }
+        }
+
         /// <summary>
         /// 初始化的时候触发
         /// </summary>
         /// <param name="con"></param>
-        public void InitForm(Hashtable con)
+        public void InitForm()
         {
-            toolBtn = (ToolStrip)con["ToolBtn"]; 
-            tpControl = (TableLayoutPanel)con["TpControl"];
-            if(con["TbControl"]!=null)
-                _tbControl = (TabControl)con["TbControl"];
+            
             if (tpControl != null)
             {
                 InitButton();
-
                 ReferSetInfoStatus(this, btnInfo, tpControl); 
             }
         }
@@ -60,9 +95,12 @@ namespace TS.Sys.Platform.Business.Forms
         /// <summary>
         /// 新增时候触发
         /// </summary>
-        public void InitForm()
+        public void InitForm(String action)
         {
-            btnNew_Click(null, null);
+            if (action.Equals("new"))
+            {
+                btnNew_Click(null, null);
+            }
         }
 
         /// <summary>
@@ -133,10 +171,10 @@ namespace TS.Sys.Platform.Business.Forms
             {
                 _tbControl.TabPages[0].Text = r.Cells["cName"].Value + "的属性";
             }
-            ArrayList mainResult = service.GetMainResult(cGUID);
+            ArrayList mainResult = _service.GetMainResult(cGUID);
             if (mainResult.Count > 0)
             {
-                SetMainContent(info, (Hashtable)mainResult[0], tpControl);
+                SetMainContent(_info, (Hashtable)mainResult[0], tpControl);
             }    
         }
  
@@ -176,6 +214,7 @@ namespace TS.Sys.Platform.Business.Forms
                 {
                     ((LabelRefer)control).SetInfoStatus(f, o, btn,tpControl);
                 }
+                
             }
         }
 

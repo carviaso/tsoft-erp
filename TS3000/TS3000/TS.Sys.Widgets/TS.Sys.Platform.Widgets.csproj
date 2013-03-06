@@ -37,7 +37,7 @@
     <DebugSymbols>true</DebugSymbols>
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
-    <OutputPath>bin\Deag111122223332121111111\</OutputPath>
+    <OutputPath>bin\D8\</OutputPath>
     <DefineConstants>TRACE;DEBUG</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
@@ -47,8 +47,8 @@
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <DebugType>pdbonly</DebugType>
     <Optimize>true</Optimize>
-    <OutputPath>bin\Release111\</OutputPath>
-    <DefineConstants>TRACE;r</DefineConstants>
+    <OutputPath>bin\Release15\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
     <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
@@ -82,6 +82,12 @@
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
     <Compile Include="Refer\Control\DataFetcher.cs" />
+    <Compile Include="Refer\Control\GridReferControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Refer\Control\GridReferControl.Designer.cs">
+      <DependentUpon>GridReferControl.cs</DependentUpon>
+    </Compile>
     <Compile Include="Refer\Fetcher\Refer\BaseRefer.cs" />
     <Compile Include="Refer\Fetcher\Refer\Impl\AccountReferImpl.cs" />
     <Compile Include="Refer\Fetcher\Refer\Impl\CustomerReferImpl.cs" />
@@ -92,18 +98,23 @@
     <Compile Include="Refer\Fetcher\Refer\Impl\SettleTypeReferImpl.cs" />
     <Compile Include="Refer\Fetcher\Refer\Impl\SupplyReferImpl.cs" />
     <Compile Include="Refer\Fetcher\Refer\Impl\UserReferImpl.cs" />
+    <Compile Include="Refer\Fetcher\Refer\Impl\CostTypeReferImpl.cs" />
+    <Compile Include="Refer\Fetcher\Refer\Impl\RevenTypeReferImpl.cs" />
+    <Compile Include="Refer\Fetcher\Refer\Impl\MateriaReferImpl.cs" />
+    <Compile Include="Refer\Fetcher\Refer\Impl\BankAccountReferImpl.cs" />
     <Compile Include="Refer\Fetcher\Refer\IRefer.cs" />
-    <Compile Include="Refer\GridFaCostTypeRefer\GridFaCostTypeReferCell.cs" />
-    <Compile Include="Refer\GridFaCostTypeRefer\GridFaCostTypeReferColumn.cs" />
-    <Compile Include="Refer\GridFaCostTypeRefer\GridFaCostTypeReferEditingControl.cs">
-      <SubType>Component</SubType>
-    </Compile>
     <Compile Include="Refer\GridRefer\DataGridViewDataControlColumn.cs" />
     <Compile Include="Refer\GridRefer\DataGridViewDataControlCell.cs" />
     <Compile Include="Refer\GridRefer\DataGridViewDataControlEditingControl.cs">
       <SubType>Component</SubType>
     </Compile>
     <Compile Include="LabelComboxOption.cs" />
+    <Compile Include="Refer\WidgetRefer\LabelRefer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Refer\WidgetRefer\LabelRefer.Designer.cs">
+      <DependentUpon>LabelRefer.cs</DependentUpon>
+    </Compile>
     <Compile Include="Tree\DataTree.cs">
       <SubType>UserControl</SubType>
     </Compile>
@@ -145,12 +156,6 @@
       <DependentUpon>Settings.settings</DependentUpon>
     </Compile>
     <Compile Include="Refer\ReferType.cs" />
-    <Compile Include="Refer\WidgetRefer\LabelRefer.cs">
-      <SubType>UserControl</SubType>
-    </Compile>
-    <Compile Include="Refer\WidgetRefer\LabelRefer.Designer.cs">
-      <DependentUpon>LabelRefer.cs</DependentUpon>
-    </Compile>
     <Compile Include="Tree\DataTreeNode.cs" />
     <Service Include="{94E38DFF-614B-4cbd-B67C-F211BB35CE8B}" />
   </ItemGroup>
@@ -162,6 +167,12 @@
     <EmbeddedResource Include="CurrencyEdit.resx">
       <DependentUpon>CurrencyEdit.cs</DependentUpon>
       <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Refer\Control\GridReferControl.resx">
+      <DependentUpon>GridReferControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Refer\WidgetRefer\LabelRefer.resx">
+      <DependentUpon>LabelRefer.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Tree\DataTree.resx">
       <SubType>Designer</SubType>
@@ -186,9 +197,6 @@
     <EmbeddedResource Include="PageDataGridView.resx">
       <DependentUpon>PageDataGridView.cs</DependentUpon>
       <SubType>Designer</SubType>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Refer\WidgetRefer\LabelRefer.resx">
-      <DependentUpon>LabelRefer.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
@@ -224,7 +232,9 @@
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
     </None>
   </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
+    <Compile Include="Refer\Fetcher\Refer\Impl\BankReferImpl.cs" />
     <None Include="Resources\ReportFormsBrowser.gif" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />

@@ -14,7 +14,10 @@ namespace TS.Sys.Platform.Widgets.Refer
         User = 9,
         Bank=10,
         Role = 11, 
-        Member = 13,
+        MateriaClass = 12,
+        Materia = 13,
+        Storage = 14,
+        BankAccount = 15,
         none = 0
     }
 }

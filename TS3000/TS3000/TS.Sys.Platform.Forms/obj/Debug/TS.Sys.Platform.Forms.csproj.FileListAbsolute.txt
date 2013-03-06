@@ -1,58 +1,76 @@
-D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Platform.Forms\obj\Debug\ResolveAssemblyReference.cache
-D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Platform.Forms\obj\Debug\TS.Sys.Platform.Forms.BaseDataForms.AccountForm.resources
-D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Platform.Forms\obj\Debug\TS.Sys.Platform.Forms.BaseDataForms.AccountDetailForm.resources
-D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Platform.Forms\obj\Debug\TS.Sys.Platform.Forms.BaseDataForms.BankAccountForm.resources
-D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Platform.Forms\obj\Debug\TS.Sys.Platform.Forms.BaseDataForms.BankAccountDetailForm.resources
-D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Platform.Forms\obj\Debug\TS.Sys.Platform.Forms.BaseDataForms.CustomerForm.resources
-D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Platform.Forms\obj\Debug\TS.Sys.Platform.Forms.BaseDataForms.CustomerDetailForm.resources
-D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Platform.Forms\obj\Debug\TS.Sys.Platform.Forms.BaseDataForms.DepartmentForm.resources
-D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Platform.Forms\obj\Debug\TS.Sys.Platform.Forms.BaseDataForms.DepartmentDetailForm.resources
-D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Platform.Forms\obj\Debug\TS.Sys.Platform.Forms.BaseDataForms.EmployeeForm.resources
-D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Platform.Forms\obj\Debug\TS.Sys.Platform.Forms.BaseDataForms.EmployeeDetailForm.resources
-D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Platform.Forms\obj\Debug\TS.Sys.Platform.Forms.BaseDataForms.FaTypeForm.resources
-D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Platform.Forms\obj\Debug\TS.Sys.Platform.Forms.BaseDataForms.FaTypeDetailForm.resources
-D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Platform.Forms\obj\Debug\TS.Sys.Platform.Forms.BaseDataForms.RegionForm.resources
-D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Platform.Forms\obj\Debug\TS.Sys.Platform.Forms.BaseDataForms.RegionDetailForm.resources
-D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Platform.Forms\obj\Debug\TS.Sys.Platform.Forms.MenuListTest.MenuContext.resources
-D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Platform.Forms\obj\Debug\TS.Sys.Platform.Forms.SysForms.ProcessBarForm.resources
-D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Platform.Forms\obj\Debug\TS.Sys.Platform.Forms.SysManager.RoleForm.resources
-D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Platform.Forms\obj\Debug\TS.Sys.Platform.Forms.SysManager.RoleDetailForm.resources
-D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Platform.Forms\obj\Debug\TS.Forms.BusinessForm.BS.SettleTypeForm.resources
-D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Platform.Forms\obj\Debug\TS.Forms.BusinessForm.BS.SettleTypeDetailForm.resources
-D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Platform.Forms\obj\Debug\TS.Sys.Platform.Forms.BaseDataForms.SupplyForm.resources
-D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Platform.Forms\obj\Debug\TS.Sys.Platform.Forms.BaseDataForms.SupplyDetailForm.resources
-D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Platform.Forms\obj\Debug\TS.Sys.Platform.Forms.LoginForm.resources
-D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Platform.Forms\obj\Debug\TS.Sys.Platform.Forms.MainForm.resources
-D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Platform.Forms\obj\Debug\TS.Sys.Platform.Forms.MenuBaseTest.resources
-D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Platform.Forms\obj\Debug\TS.Sys.Platform.Forms.Properties.Resources.resources
-D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Platform.Forms\obj\Debug\TS.Sys.Platform.Forms.SysManager.RoleSecuForm.resources
-D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Platform.Forms\obj\Debug\TS.Sys.Platform.Forms.SysManager.UserForm.resources
-D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Platform.Forms\obj\Debug\TS.Sys.Platform.Forms.SysManager.UserDetailForm.resources
-D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Platform.Forms\obj\Debug\TS.Sys.Platform.Forms.SysManager.UserModifyPwdForm.resources
-D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Platform.Forms\obj\Debug\TS.Sys.Platform.Forms.WelcomeForm.resources
-D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Platform.Forms\obj\Debug\GenerateResource.read.1.tlog
-D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Platform.Forms\obj\Debug\GenerateResource.write.1.tlog
-D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Platform.Forms\bin\Debug\TS.Sys.Platform.Forms.dll
-D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Platform.Forms\bin\Debug\TS.Sys.Platform.Forms.pdb
-D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Platform.Forms\bin\Debug\TS.Sys.DBLayer.dll
-D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Platform.Forms\bin\Debug\TS.Sys.Domain.dll
-D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Platform.Forms\bin\Debug\TS.Sys.Platform.BaseData.dll
-D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Platform.Forms\bin\Debug\TS.Sys.Platform.Business.dll
-D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Platform.Forms\bin\Debug\TS.Sys.Platform.Exceptions.dll
-D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Platform.Forms\bin\Debug\TS.Sys.Platform.SecuAccess.dll
-D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Platform.Forms\bin\Debug\TS.Sys.Platform.SysInfo.dll
-D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Platform.Forms\bin\Debug\TS.Sys.Platform.Widgets.dll
-D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Platform.Forms\bin\Debug\TS.Sys.Session.dll
-D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Platform.Forms\bin\Debug\TS.Sys.Util.dll
-D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Platform.Forms\bin\Debug\TS.Sys.DBLayer.pdb
-D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Platform.Forms\bin\Debug\TS.Sys.Domain.pdb
-D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Platform.Forms\bin\Debug\TS.Sys.Platform.BaseData.pdb
-D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Platform.Forms\bin\Debug\TS.Sys.Platform.Business.pdb
-D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Platform.Forms\bin\Debug\TS.Sys.Platform.Exceptions.pdb
-D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Platform.Forms\bin\Debug\TS.Sys.Platform.SecuAccess.pdb
-D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Platform.Forms\bin\Debug\TS.Sys.Platform.SysInfo.pdb
-D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Platform.Forms\bin\Debug\TS.Sys.Session.pdb
-D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Platform.Forms\bin\Debug\TS.Sys.Util.pdb
-D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Platform.Forms\bin\Debug\TS.Sys.Platform.Widgets.pdb
-D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Platform.Forms\obj\Debug\TS.Sys.Platform.Forms.dll
-D:\TSoft Projects\TSGLASS\TS3000\TS.Sys.Platform.Forms\obj\Debug\TS.Sys.Platform.Forms.pdb
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Platform.Forms\bin\Debug\TS.Sys.Platform.Forms.dll
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Platform.Forms\bin\Debug\TS.Sys.Platform.Forms.pdb
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Platform.Forms\bin\Debug\TS.Sys.DBLayer.dll
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Platform.Forms\bin\Debug\TS.Sys.Domain.dll
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Platform.Forms\bin\Debug\TS.Sys.Platform.BaseData.dll
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Platform.Forms\bin\Debug\TS.Sys.Platform.Business.dll
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Platform.Forms\bin\Debug\TS.Sys.Platform.Exceptions.dll
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Platform.Forms\bin\Debug\TS.Sys.Platform.SecuAccess.dll
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Platform.Forms\bin\Debug\TS.Sys.Platform.SysInfo.dll
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Platform.Forms\bin\Debug\TS.Sys.Platform.Widgets.dll
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Platform.Forms\bin\Debug\TS.Sys.Session.dll
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Platform.Forms\bin\Debug\TS.Sys.Util.dll
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Platform.Forms\bin\Debug\TS.Sys.DBLayer.pdb
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Platform.Forms\bin\Debug\TS.Sys.Domain.pdb
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Platform.Forms\bin\Debug\TS.Sys.Platform.BaseData.pdb
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Platform.Forms\bin\Debug\TS.Sys.Platform.Business.pdb
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Platform.Forms\bin\Debug\TS.Sys.Platform.Exceptions.pdb
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Platform.Forms\bin\Debug\TS.Sys.Platform.SecuAccess.pdb
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Platform.Forms\bin\Debug\TS.Sys.Platform.SysInfo.pdb
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Platform.Forms\bin\Debug\TS.Sys.Session.pdb
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Platform.Forms\bin\Debug\TS.Sys.Util.pdb
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Platform.Forms\obj\Debug\ResolveAssemblyReference.cache
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Platform.Forms\obj\Debug\TS.Sys.Platform.Forms.SysForms.ProcessBarForm.resources
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Platform.Forms\obj\Debug\TS.Sys.Platform.Forms.SysManager.RoleForm.resources
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Platform.Forms\obj\Debug\TS.Sys.Platform.Forms.SysManager.RoleDetailForm.resources
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Platform.Forms\obj\Debug\TS.Sys.Platform.Forms.LoginForm.resources
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Platform.Forms\obj\Debug\TS.Sys.Platform.Forms.MainForm.resources
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Platform.Forms\obj\Debug\TS.Sys.Platform.Forms.Properties.Resources.resources
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Platform.Forms\obj\Debug\TS.Sys.Platform.Forms.SysManager.RoleSecuForm.resources
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Platform.Forms\obj\Debug\TS.Sys.Platform.Forms.SysManager.UserForm.resources
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Platform.Forms\obj\Debug\TS.Sys.Platform.Forms.SysManager.UserDetailForm.resources
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Platform.Forms\obj\Debug\TS.Sys.Platform.Forms.SysManager.UserModifyPwdForm.resources
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Platform.Forms\obj\Debug\TS.Sys.Platform.Forms.WelcomeForm.resources
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Platform.Forms\obj\Debug\GenerateResource.read.1.tlog
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Platform.Forms\obj\Debug\GenerateResource.write.1.tlog
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Platform.Forms\obj\Debug\TS.Sys.Platform.Forms.dll
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Platform.Forms\obj\Debug\TS.Sys.Platform.Forms.pdb
+D:\TSoft Projects\TSERP\TS3000\TS.Sys.Platform.Forms\bin\Debug\TS.Sys.Platform.Forms.dll
+D:\TSoft Projects\TSERP\TS3000\TS.Sys.Platform.Forms\bin\Debug\TS.Sys.Platform.Forms.pdb
+D:\TSoft Projects\TSERP\TS3000\TS.Sys.Platform.Forms\bin\Debug\TS.Sys.DBLayer.dll
+D:\TSoft Projects\TSERP\TS3000\TS.Sys.Platform.Forms\bin\Debug\TS.Sys.Domain.dll
+D:\TSoft Projects\TSERP\TS3000\TS.Sys.Platform.Forms\bin\Debug\TS.Sys.Platform.BaseData.dll
+D:\TSoft Projects\TSERP\TS3000\TS.Sys.Platform.Forms\bin\Debug\TS.Sys.Platform.Business.dll
+D:\TSoft Projects\TSERP\TS3000\TS.Sys.Platform.Forms\bin\Debug\TS.Sys.Platform.Exceptions.dll
+D:\TSoft Projects\TSERP\TS3000\TS.Sys.Platform.Forms\bin\Debug\TS.Sys.Platform.SecuAccess.dll
+D:\TSoft Projects\TSERP\TS3000\TS.Sys.Platform.Forms\bin\Debug\TS.Sys.Platform.SysInfo.dll
+D:\TSoft Projects\TSERP\TS3000\TS.Sys.Platform.Forms\bin\Debug\TS.Sys.Platform.Widgets.dll
+D:\TSoft Projects\TSERP\TS3000\TS.Sys.Platform.Forms\bin\Debug\TS.Sys.Session.dll
+D:\TSoft Projects\TSERP\TS3000\TS.Sys.Platform.Forms\bin\Debug\TS.Sys.Util.dll
+D:\TSoft Projects\TSERP\TS3000\TS.Sys.Platform.Forms\bin\Debug\TS.Sys.DBLayer.pdb
+D:\TSoft Projects\TSERP\TS3000\TS.Sys.Platform.Forms\bin\Debug\TS.Sys.Domain.pdb
+D:\TSoft Projects\TSERP\TS3000\TS.Sys.Platform.Forms\bin\Debug\TS.Sys.Platform.BaseData.pdb
+D:\TSoft Projects\TSERP\TS3000\TS.Sys.Platform.Forms\bin\Debug\TS.Sys.Platform.Business.pdb
+D:\TSoft Projects\TSERP\TS3000\TS.Sys.Platform.Forms\bin\Debug\TS.Sys.Platform.Exceptions.pdb
+D:\TSoft Projects\TSERP\TS3000\TS.Sys.Platform.Forms\bin\Debug\TS.Sys.Platform.SecuAccess.pdb
+D:\TSoft Projects\TSERP\TS3000\TS.Sys.Platform.Forms\bin\Debug\TS.Sys.Platform.SysInfo.pdb
+D:\TSoft Projects\TSERP\TS3000\TS.Sys.Platform.Forms\bin\Debug\TS.Sys.Session.pdb
+D:\TSoft Projects\TSERP\TS3000\TS.Sys.Platform.Forms\bin\Debug\TS.Sys.Util.pdb
+D:\TSoft Projects\TSERP\TS3000\TS.Sys.Platform.Forms\bin\Debug\TS.Sys.Platform.Widgets.pdb
+D:\TSoft Projects\TSERP\TS3000\TS.Sys.Platform.Forms\obj\Debug\ResolveAssemblyReference.cache
+D:\TSoft Projects\TSERP\TS3000\TS.Sys.Platform.Forms\obj\Debug\TS.Sys.Platform.Forms.SysForms.ProcessBarForm.resources
+D:\TSoft Projects\TSERP\TS3000\TS.Sys.Platform.Forms\obj\Debug\TS.Sys.Platform.Forms.SysManager.RoleForm.resources
+D:\TSoft Projects\TSERP\TS3000\TS.Sys.Platform.Forms\obj\Debug\TS.Sys.Platform.Forms.SysManager.RoleDetailForm.resources
+D:\TSoft Projects\TSERP\TS3000\TS.Sys.Platform.Forms\obj\Debug\TS.Sys.Platform.Forms.LoginForm.resources
+D:\TSoft Projects\TSERP\TS3000\TS.Sys.Platform.Forms\obj\Debug\TS.Sys.Platform.Forms.MainForm.resources
+D:\TSoft Projects\TSERP\TS3000\TS.Sys.Platform.Forms\obj\Debug\TS.Sys.Platform.Forms.Properties.Resources.resources
+D:\TSoft Projects\TSERP\TS3000\TS.Sys.Platform.Forms\obj\Debug\TS.Sys.Platform.Forms.SysManager.RoleSecuForm.resources
+D:\TSoft Projects\TSERP\TS3000\TS.Sys.Platform.Forms\obj\Debug\TS.Sys.Platform.Forms.SysManager.UserForm.resources
+D:\TSoft Projects\TSERP\TS3000\TS.Sys.Platform.Forms\obj\Debug\TS.Sys.Platform.Forms.SysManager.UserDetailForm.resources
+D:\TSoft Projects\TSERP\TS3000\TS.Sys.Platform.Forms\obj\Debug\TS.Sys.Platform.Forms.SysManager.UserModifyPwdForm.resources
+D:\TSoft Projects\TSERP\TS3000\TS.Sys.Platform.Forms\obj\Debug\TS.Sys.Platform.Forms.WelcomeForm.resources
+D:\TSoft Projects\TSERP\TS3000\TS.Sys.Platform.Forms\obj\Debug\GenerateResource.read.1.tlog
+D:\TSoft Projects\TSERP\TS3000\TS.Sys.Platform.Forms\obj\Debug\GenerateResource.write.1.tlog
+D:\TSoft Projects\TSERP\TS3000\TS.Sys.Platform.Forms\obj\Debug\TS.Sys.Platform.Forms.dll
+D:\TSoft Projects\TSERP\TS3000\TS.Sys.Platform.Forms\obj\Debug\TS.Sys.Platform.Forms.pdb
+G:\Work\Projects\TSERP\TS3000\TS.Sys.Platform.Forms\bin\Debug\TS.Sys.Platform.Widgets.pdb

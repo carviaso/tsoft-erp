@@ -38,17 +38,17 @@ namespace TS.Sys.Platform.Forms.BaseDataForms
             acctService = new AccountService();
             acctInfo = new AccountInfo();  
             Hashtable con = new Hashtable();
-            con.Add("ToolBtn", this.toolItem);
-            con.Add("TpControl", this.tpControl);
-            con.Add("Info", acctInfo); 
-            con.Add("Service", acctService);  
-            InitForm(con);
+            this.ToolBtn=this.toolItem;
+            this.TpControl=this.tpControl;
+            this.Info=acctInfo; 
+            this.Service=acctService;  
+            InitForm();
         }
 
         public AccountDetailForm(String code)
             :this()
         {
-            InitForm();
+            InitForm("new");
             this.cParent.Value = code;
 
         }

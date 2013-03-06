@@ -30,10 +30,16 @@ namespace TS.Sys.DBLayer
 
         private static void loadData()
         {
-            ht.Add("dataSource","(local)");
-            ht.Add("initCataLog", "TS3000");
-            ht.Add("username", "sa");
-            ht.Add("password", "sa123456");
+             /*ht.Add("dataSource","ICE-HP\\TS3000");
+             ht.Add("initCataLog", "TS3000");
+             ht.Add("username", "sa");
+             ht.Add("password", "sa123456");
+*/
+           
+             ht.Add("dataSource", "(local)");
+             ht.Add("initCataLog", "TS3000");
+             ht.Add("username", "sa");
+             ht.Add("password", "sa123456");
         }
 
         private static void loadFromXML()

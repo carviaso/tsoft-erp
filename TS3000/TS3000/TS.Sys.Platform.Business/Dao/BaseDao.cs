@@ -4,6 +4,7 @@ using TS.Sys.DBLayer;
 using TS.Sys.Domain;
 using TS.Sys.Platform.Business.Info;
 using System.Data.SqlClient;
+using System.Data;
 
 namespace TS.Sys.Platform.Business.Dao
 {
@@ -90,6 +91,8 @@ namespace TS.Sys.Platform.Business.Dao
             ArrayList result = DbSvr.GetDbService().GetExitsResult(TableName, con);
             return result;
         }
+
+      
          
     }
 }

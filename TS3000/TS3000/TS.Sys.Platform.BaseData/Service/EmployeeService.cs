@@ -46,7 +46,6 @@ namespace TS.Sys.Platform.BaseData.Service
             EmployeeInfo empInfo = (EmployeeInfo)baseInfo;
              empDao.ValueableEmployee(empInfo);
         }
-
         public DataTable QueryForAll()
         {
             return empDao.QueryForAll();

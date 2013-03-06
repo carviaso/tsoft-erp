@@ -1,4 +1,5 @@
 ﻿using System;
+using TS.Sys.Platform.Widgets.Refer.Control;
 
 namespace TS.Sys.Platform.Widgets.Refer.Fetcher.Refer.Impl
 {
@@ -17,6 +18,16 @@ namespace TS.Sys.Platform.Widgets.Refer.Fetcher.Refer.Impl
             }
             String sql = "select user.cCode,user.cName from CM_User user  " + con;
             return sql;
+        }
+
+        public override string getForm()
+        {
+            return "TS.Sys.Platform.BaseData.Forms.UserForm";
+        }
+
+        public override DataFetcher GetDataFetcher()
+        {
+            return new DataFetcher("CM_User");
         }
     }
 }
